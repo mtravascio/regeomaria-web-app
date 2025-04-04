@@ -1,0 +1,1586 @@
+[
+    {
+        "idTest": 1,
+        "idDomanda": 1,
+        "testo": "QUALE SEGRETO DIO HA VOLUTO RIVELARE, PER MEZZO DELLO SCRITTO, A ME PERSONALMENTE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 2,
+        "testo": "A COSA SERVE QUESTO SEGRETO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 3,
+        "testo": "A CHI È INDIRIZZATO QUESTO SEGRETO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 4,
+        "testo": "IN CHE CONSISTE IN PROFONDITÀ QUESTO SEGRETO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 5,
+        "testo": "IN CHE CONSISTE IN PROFONDITÀ QUESTO SEGRETO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 6,
+        "testo": "QUANTI GIORNI PROPONE IL SANTO PER RAGGIUNGERE QUESTA DEVOZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 7,
+        "testo": "PERCHE’ IL SANTO CONSIDERA QUESTA DEVOZIONE COME LA MIGLIORE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 8,
+        "testo": "QUAL’E’ IL FINE DI QUESTA CONSACRAZIONE? ",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 1,
+        "testo": "BASTA AVERE UNA IDEA GENERALE DI DIO PER ESSERE CREDENTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 2,
+        "testo": "QUAL È IL SEGNO PIÙ EVIDENTE DI UNA VERA IDEA DI DIO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 3,
+        "testo": "QUALE È IL MEZZO UMANO PER CONOSCERE L’ESISTENZA DI DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 4,
+        "testo": "QUALE È IL MEZZO SOPRANNATURALE PER CONOSCERLO CON PRECISIONE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 5,
+        "testo": "QUALE ALTRO MEZZO DI QUESTI È VERO PER CONOSCERE COME SIA DIO",
+        "soluzione": 2
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 6,
+        "testo": "PERCHÉ DIO È PADRE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 7,
+        "testo": "QUAL È L’ESPRESSIONE PIÙ CHIARA DI UNA VERA CONVINZIONE DELLA PATERNITÀ DIVINA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 8,
+        "testo": "PUÒ UN CRISTIANO PENSARE CHE DIO NON L’ASCOLTA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 1,
+        "testo": "QUAL È L’IMPORTANZA DEL PRINCIPIO E FONDAMENTO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 2,
+        "testo": "CHE SIGNIFICA LA PRIMA PARTE: “L’UOMO È CREATO”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 3,
+        "testo": "QUESTO PRIMO PASSO “L’UOMO È CREATO” È COSÌ IMPORTANTE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 4,
+        "testo": "QUAL È IL FINE PER CUI DIO CI CREA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 5,
+        "testo": "COSA SIGNIFICA “RENDERE GLORIA”?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 6,
+        "testo": "COME SI RENDE GLORIA A DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 7,
+        "testo": "PER QUALE MOTIVO DIO DEV’ESSERE IL NOSTRO FINE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 8,
+        "testo": "LA MIA FINE È LA VITA ETERNA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 1,
+        "testo": "PERCHÉ DEVO PREPARARMI CON QUESTA CATECHESI ALLA CONSACRAZIONE MARIANA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 2,
+        "testo": "QUAL È IL PIÙ GRAVE PECCATO DEL NOSTRO TEMPO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 3,
+        "testo": "SE SONO IN PECCATO MORTALE POSSO FARE QUESTA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 4,
+        "testo": "PERCHÉ SI È PERSO IL SENSO DEL PECCATO NEL NOSTRO TEMPO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 5,
+        "testo": "QUAL È UNO DEI MEZZI PER CUI L’UOMO MODERNO NON ASSUME LA SUA CONDIZIONE DI PECCATORE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 6,
+        "testo": "COME SI PUÒ DEFINIRE IL PECCATO MORTALE SECONDO S. AGOSTINO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 7,
+        "testo": "QUAL'È IL MEZZO PRINCIPALE PER ALLONTANARSI DAL PECCATO MORTALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 8,
+        "testo": "IN CHE SENSO DICE S. ALFONSO CHE UN PECCATO MORTALE POTREBBE UCCIDERE DIO SE FOSSE POSSIBILE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 1,
+        "testo": "COSA PRECEDERA' IL GIUDIZIO FINALE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 2,
+        "testo": "COSA SONO I NOVISSIMI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 3,
+        "testo": "COME CONSIDERA LA MORTE, UN CRISTIANO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 4,
+        "testo": "CHI CI DIFENDERA' NEL MOMENTO DELLA MORTE IN PARTICOLARE PER COLORO CHE SONO STATI FEDELI A CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 5,
+        "testo": "ESISTE L’INFERNO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 6,
+        "testo": "CHI VA ALL’INFERNO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 7,
+        "testo": "COSA PRECEDERA' IL GIUDIZIO FINALE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 8,
+        "testo": "COSA SONO I NOVISSIMI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 1,
+        "testo": "COSA SIGNIFICA IL CONCETTO “MONDO” CONTRARIO ALLO SPIRITO DI CRISTO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 2,
+        "testo": "COSA VUOL DIRE SPIRITO MONDANO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 3,
+        "testo": "IN QUALE MANIERA CERCA DI SEDURRE LO SPIRITO MONDANO (LE SUE FALSE MASSIME)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 4,
+        "testo": "DI CHI È NEMICO IL MONDO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 5,
+        "testo": "QUAL’È IL PRIMO MEZZO PER LIBERARSI DALLO SPIRITO MONDANO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 6,
+        "testo": "QUAL’È IL SECONDO MEZZO PER LIBERARSI DALLO SPIRITO DEL MONDO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 7,
+        "testo": "QUAL’È IL TERZO MEZZO PER LIBERARSI DALLO SPIRITO DEL MONDO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 8,
+        "testo": "QUAL’È IL QUARTO MEZZO PER LIBERARSI DALLO SPIRITO DEL MONDO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 1,
+        "testo": "A QUALI TIPI DI PERSONE È RIVOLTO LO SPIRITO DELLE BEATITUDINI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 2,
+        "testo": "COSA SI CONSIGLIA DI FARE PER RAGGIUNGERE LO SPIRITO DELLE BEATITUDINI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 3,
+        "testo": "IN CHE COSA CONSISTE LA VERA BEATITUDINE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 4,
+        "testo": "COSA VUOLE DIRE “BEATI I POVERI IN SPIRITO”?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 5,
+        "testo": "COSA VUOLE DIRE “BEATI I MITI”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 6,
+        "testo": "COSA VUOLE DIRE “BEATI QUELLI CHE PIANGONO”?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 7,
+        "testo": "COSA VUOLE DIRE “BEATI QUELLI CHE HANNO FAME E SETE DI GIUSTIZIA”?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 8,
+        "testo": "COSA VUOLE DIRE “BEATI I MISERICORDIOSI”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 1,
+        "testo": "QUALI SONO I 3 NEMICI DELL’ANIMA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 2,
+        "testo": "COS’E’ LA PREGHIERA MENTALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 3,
+        "testo": "QUAL’E’ IL PRIMO PASSO PER L’ORAZIONE MENTALE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 4,
+        "testo": "COME SI REALIZZA LA MEDITAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 5,
+        "testo": "QUAL’E’ IL MOMENTO PIU IMPORTANTE DELL’ORAZIONE MENTALE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 6,
+        "testo": "QUANDO È IL MOMENTO IN CUI ASSIMILO CIO’ CHE HO MEDITATO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 7,
+        "testo": "QUALI SONO I 3 NEMICI DELL’ANIMA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 8,
+        "testo": "COS’E’ LA PREGHIERA MENTALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 1,
+        "testo": "CHI È IL VERO SAGGIO SECONDO IL VANGELO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 2,
+        "testo": "QUAL’E’ L’INTENZIONE MIGLIORE PER FARE UNA BUONA ELEZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 3,
+        "testo": "QUAL’E’ LA SCELTA GIUSTA PER RAGGIUNGERE PIU’ PERFETTAMENTE IL FINE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 4,
+        "testo": "SI PUO ANNULLARE UN'ELEZIONE IMMUTABILE? (ad es. MATRIMONIO O CONSACRAZIONE RELIGIOSA)",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 5,
+        "testo": "QUALE DEVE ESSERE LA DISPOSIZIONE DI FRONTE ALLA SCELTA DI UN PARTICOLARE STATO DI VITA (SACERDOTALE O MATRIMONIALE)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 6,
+        "testo": "QUAL’E LO SCOPO DELLA RIFORMA DI VITA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 7,
+        "testo": "CHI È IL VERO SAGGIO SECONDO IL VANGELO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 8,
+        "testo": "QUAL’E’ L’INTENZIONE MIGLIORE PER FARE UNA BUONA ELEZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 1,
+        "testo": "COSA VUOLE DIRE GESU A ME PERSONALMENTE, “TI DARO’ LA VITA”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 2,
+        "testo": "COME DOBBIAMO CONSIDERARE LE VERITA’ DI FEDE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 3,
+        "testo": "QUAL’E’ IL PRINCIPIO CHE RENDE POSSIBILE VIVERE LA VITA SOPRANNATURALE NEI SANTI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 4,
+        "testo": "CHE COS’E’ LA GRAZIA SANTIFICANTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 5,
+        "testo": "COSA PRODUCE IN NOI LA GRAZIA SANTIFICANTE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 6,
+        "testo": "QUALI SONO LE 3 CAPACITA’ PER CUI LA GRAZIA SANTIFICANTE PUO’ ATTUARSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 7,
+        "testo": "COSA VUOLE DIRE GESU A ME PERSONALMENTE, “TI DARO’ LA VITA”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 8,
+        "testo": "COME DOBBIAMO CONSIDERARE LE VERITA’ DI FEDE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 1,
+        "testo": "IN COSA CONSISTE LA INABITAZIONE TRINITATARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 2,
+        "testo": "NELL’AT QUALE ERANO I SEGNI CHE DIO CONCEDEVA AL POPOLO COME MANIFESTAZIONE DELLA SUA PRESENZA IN MEZZO AD ESSO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 3,
+        "testo": "SEMPRE NELL’AT, I SEGNI DELLA PRESENZA DI DIO IN MEZZO AL POPOLO, IN QUALE LUOGO TROVANO IL LORO COMPIMENTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 4,
+        "testo": "QUAL’E IL MOMENTO IN CUI AL POPOLO VIENE CONCESSA LA PRESENZA DI DIO CORPORALE, E QUINDI LA PRESENZA DI DIO IN NOI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 5,
+        "testo": "CHE COS’E’ LA INABITAZIONE TRINITARIA NEL LINGUAGGIO TEOLOGICO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 6,
+        "testo": "QUALI FRUTTI SI POSSONO RICAVARE NELLA CONSAPEVOLEZZA DELLA PRESENZA DELLE TRE PERSONE DIVINE IN NOI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 7,
+        "testo": "IN COSA CONSISTE LA INABITAZIONE TRINITATARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 8,
+        "testo": "NELL’AT QUALE ERANO I SEGNI CHE DIO CONCEDEVA AL POPOLO COME MANIFESTAZIONE DELLA SUA PRESENZA IN MEZZO AD ESSO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 1,
+        "testo": "IN COSA CONSISTE LA CULTURA DELLA MORTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 2,
+        "testo": "QUAL’E’ LA CAUSA DI QUESTO AMBIENTE CULTURALE, AFFERMATA ANCHE DA  SAN GIOVANNI PAOLO II?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 3,
+        "testo": "QUAL’E’ IL PROBLEMA DI FONDO CHE SI CELA DIETRO AD UNA IDEOLOGIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 4,
+        "testo": "QUAL’E’ L’AZIONE PIU’ ABOMINEVOLE COMMESSA DALL’UMANITA’ CHE ATTIRA L’IRA DI DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 5,
+        "testo": "QUAL’E’ LO SCOPO DELL’IDEOLOGIA DI GENERE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 6,
+        "testo": "COSA SI INTENDE PER EUTANASIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 7,
+        "testo": "IN COSA CONSISTE LA CULTURA DELLA MORTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 8,
+        "testo": "QUAL’E’ LA CAUSA DI QUESTO AMBIENTE CULTURALE, AFFERMATA ANCHE DA  SAN GIOVANNI PAOLO II?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 1,
+        "testo": "NELLE PROSSIME SETTIMANE, QUALI SONO LE 3 PERSONE DA CONOSCERE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 2,
+        "testo": "QUALE MEZZO SARA’ NECESSARIO PER CONOSCERE ME STESSO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 3,
+        "testo": "QUALE SCOPO SI VUOLE RAGGIUNGERE IN QUESTA SETTIMANA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 4,
+        "testo": "IN COSA CONSISTE LA CONOSCENZA DI SÉ STESSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 5,
+        "testo": "QUALI SONO GLI ASPETTI PIU IMPORTANTI DA CONSIDERARE NELLA CONOSCENZA DI SE’?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 6,
+        "testo": "QUAL’E L’OSTACOLO DI QUESTA PRIMA SETTIMANA CHE L’ANIMA DEVE EVITARE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 7,
+        "testo": "NELLE PROSSIME SETTIMANE, QUALI SONO LE 3 PERSONE DA CONOSCERE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 8,
+        "testo": "QUALE MEZZO SARA’ NECESSARIO PER CONOSCERE ME STESSO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 1,
+        "testo": "COSA DICE IL CATECHISMO DELLA CHIESA CATTOLICA SUL PECCATO ORIGINALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 2,
+        "testo": "IN CHE CONSISTE IL PECCATO ORIGINALE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 3,
+        "testo": "QUALI SONO LE ERESIE CHE NEGANO IL PECCATO ORIGINALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 4,
+        "testo": "CHE COS’E’ L’ARIANESIMO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 5,
+        "testo": "IN COSA CONSISTE LA DOTTRINA PELAGIANA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 6,
+        "testo": "COSA DICE LA DOTTRINA CATTOLICA RIGUARDO L’AZIONE DELLA GRAZIA NELL’UOMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 7,
+        "testo": "COSA DICE IL CATECHISMO DELLA CHIESA CATTOLICA SUL PECCATO ORIGINALE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 8,
+        "testo": "IN CHE CONSISTE IL PECCATO ORIGINALE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 1,
+        "testo": "IN CHE SENSO L’ESAME PARTICOLARE DI COSCIENZA È “UNO STATO”?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 2,
+        "testo": "IN CHE SENSO L’ ESAME PARTICOLARE DI COSCIENZA È UN'OPERAZIONE DELLO SPIRITO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 3,
+        "testo": "QUAL È IL MODO MIGLIORE PER EFFETTUARLO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 4,
+        "testo": "CHE COSA DEVO FARE AL MATTINO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 5,
+        "testo": "CHE DEVO FARE A MEZZOGIORNO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 6,
+        "testo": "CHE DEVO FARE ALLA FINE DELLA GIORNATA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 7,
+        "testo": "SU  QUALE COSA DEVO FARE L’ESAME PARTICOLARE DI COSCIENZA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 8,
+        "testo": "COS’È IL DIFETTO DOMINANTE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 1,
+        "testo": "PERCHÈ LA SOFFERENZA DELL’UOMO È UN MISTERO COSÌ PROFONDO COME L’UOMO STESSO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 2,
+        "testo": "CHI È CAPACE DI DI SOFFRIRE CON GRANDEZZA D’ANIMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 3,
+        "testo": "QUAL’È IL SENSO DELLA SOFFERENZA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 4,
+        "testo": "CHE VUOL DIRE COMPLETARE QUELLO CHE MANCA ALLA PASSIONE DI CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 5,
+        "testo": "E’ POSSIBILE SOFFRIRE CON GIOIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 6,
+        "testo": "DIO VUOLE LA SOFFERENZA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 7,
+        "testo": "CHE SENSO HA LA SOFFERENZA DELL’INNOCENTE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 8,
+        "testo": "È VERO CHE SI SOFFRE SEMPRE DA SOLI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 1,
+        "testo": "LA PREGHIERA È UNA OPZIONE FACOLTATIVA NEI DEVOTI DELLA MADONNA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 2,
+        "testo": "COSA È LA PREGHIERA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 3,
+        "testo": "GESÙ HA PREGATO NELLA SUA VITA TERRENA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 4,
+        "testo": "È INDISPENSABILE PREGARE PER ESSERE SALVATI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 5,
+        "testo": "LA PREGHIERA DÀ FRUTTI CONCRETI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 6,
+        "testo": "QUANTI TIPI DI PREGHIERA ESISTONO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 7,
+        "testo": "QUALI SONO LE CONDIZIONI DELLA BUONA PREGHIERA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 8,
+        "testo": "È SEMPRE FACILE E CONSOLANTE PREGARE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 1,
+        "testo": "LA DEVOZIONE ALLA MADONNA A CHE CI DEVE PORTARE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 2,
+        "testo": "QUALE È IL FONDAMENTO DELLA NOSTRA CONSACRAZIONE ALLA MADONNA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 3,
+        "testo": "QUALE È IL PRIMO FRUTTO DELLA NOSTRA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 4,
+        "testo": "IL SECONDO FRUTTO DELLA CONSACRAZIONE E “IL DISPREZZO DI SE’”. CHE COSA SIGNIFICA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 5,
+        "testo": "QUALE È IL PASSAGGIO DETERMINANTE E DECISIVO PER LA NOSTRA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 6,
+        "testo": "È NECESSARIO ESSERE PRUDENTE CON “PRUDENZA EVANGELICA” ANCHE NELLE BUONE AZIONI SE HO BUONE INTENZIONI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 7,
+        "testo": "COSA SIGNIFICA AVERE “PRUDENZA EVANGELICA” NEL NOSTRO MODO DI AGIRE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 8,
+        "testo": "C’È QUALCHE PERICOLO SE CONSIDERO LA MIA VITA ABBASTANZA BUONA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 1,
+        "testo": "QUAL’ È LA NECESSITÀ E LA PREMINENZA DEL DONO DI SÉ PER RICEVERE I DONI DI DIO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 2,
+        "testo": "COME RICOMPENSA MARIA, CHE NON SI LASCIA VINCERE IN GENEROSITÀ, CHI LE OFFRE IL DONO DI SÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 3,
+        "testo": "PERCHÉ È NECESSARIO  IL DONO DI SÉ?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 4,
+        "testo": "QUALI SONO LE CARATTERISTICHE DEL DONO DI SÉ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 5,
+        "testo": "PERCHÉ  IL DONO DI SÉ È UN ATTO DI PERFETTA CARITÀ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 6,
+        "testo": "IN CHE SENSO IL DONO DI SÉ È UNA PROVOCAZIONE ALLA DIVINA MISERICORDIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 7,
+        "testo": "DONARSI INTERAMENTE A MARIA SANTISSIMA EQUIVALE A QUELLO CHE NOI CHIAMIAMO “IL DONO DI SÉ”?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 8,
+        "testo": "QUALI SONO GLI EFFETTI PROVOCATI DAL DONO DI SÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 1,
+        "testo": "QUALE È LO SCOPO FINALE DELLA TAPPA ANTERIORE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 2,
+        "testo": "COME SAPPIAMO CHE IL “TRATTATO DELLA VERA DEVOZIONE” È STATO DA VERO ISPIRATO DALLO SPIRITO SANTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 3,
+        "testo": "CHI CI RIVELA IL MISTERO DI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 4,
+        "testo": "CHE COSA DOBBIAMO CONTEMPLARE IN MARIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 5,
+        "testo": "MARIA, È DIO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 6,
+        "testo": "MARIA È NECESSARIA AGLI UOMINI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 7,
+        "testo": "PERCHÉ GESÙ CRISTO NON È ANCORA CONOSCIUTO COME SI DEVE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 8,
+        "testo": "LA SANTA VERGINE È REGINA? QUAL È IL SUO REGNO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 1,
+        "testo": "CHI SONO I DEVOTI SCRUPOLOSI SECONDO SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 2,
+        "testo": "MARIA PUÒ OSTACOLARE LA DEVOZIONE A GESÙ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 3,
+        "testo": "CHI SONO I DEVOTI CRITICI SECONDO SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 4,
+        "testo": "QUAL È IL RAPPORTO CHE SAN LUIGI MARIA STABILISCE TRA MARIA E GESÙ?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 5,
+        "testo": "SENZA LA MEDIAZIONE DI MARIA È POSSIBILE LA SALVEZZA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 6,
+        "testo": "IN QUALE MANIERA MARIA CI ASSICURA LA RETTA FEDE IN GESÙ CRISTO COME VERO DIO E VERO UOMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 7,
+        "testo": "QUALE INDIZIO PREFIGURATIVO ABBIAMO NELL’ANTICO TESTAMENTO DI QUESTA MEDIAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 8,
+        "testo": "IN QUALE MANIERA SI PUÒ DIRE CHE MARIA È CORREDENTRICE, SECONDO P. HUPPERTS?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 1,
+        "testo": "LA PAROLA SCHIAVITÙ SI CAPISCE BENE SOLTANTO SE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 2,
+        "testo": "QUAL È LA FORMULA COMPLETA PER AVERE UNA RETTA INTERPRETAZIONE DI QUESTA PAROLA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 3,
+        "testo": "PERCHÉ QUESTA PAROLA È L’UNICA CHE ESPRIME QUESTA DEVOZIONE SECONDO P. HUPPERTS (PARTE I)?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 4,
+        "testo": "PERCHÉ QUESTA PAROLA È L’UNICA CHE ESPRIME QUESTA DEVOZIONE SECONDO P. HUPPERTS (PARTE II)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 5,
+        "testo": "COSA SIGNIFICA CHE QUESTA SIA UNA DEVOZIONE DISINTERESSATA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 6,
+        "testo": "QUAL È IL MODO DI “DARSI” CHE HA QUESTA DEVOZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 7,
+        "testo": "COSA SIGNIFICA “PER SEMPRE”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 8,
+        "testo": "LA PAROLA SCHIAVITÙ È ORIGINARIA DI SAN LUIGI MARIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 1,
+        "testo": "ESISTONO ESAGERAZIONI NELLA DEVOZIONE ALLA MADONNA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 2,
+        "testo": "QUAL È IL MEZZO PIÙ SICURO PER CAPIRE CHE LA DEVOZIONE MARIANA È DEFORMATA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 3,
+        "testo": "I DEVOTI SCRUPOLOSI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 4,
+        "testo": "I DEVOTI ESTERIORI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 5,
+        "testo": "I DEVOTI PRESUNTUOSI SONO:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 6,
+        "testo": "I DEVOTI INCOSTANTI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 7,
+        "testo": "LA VERA DEVOZIONE È TENERA PERCHÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 8,
+        "testo": "LA VERA DEVOZIONE È INTERIORE PERCHÉ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 1,
+        "testo": "POSSO CERCARE CONVENIENZE PER CONSACRARMI ALLA MADONNA IN MATERNA SCHIAVITÙ D’AMORE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 2,
+        "testo": "LA FUNZIONE MATERNA DI MARIA, MI AIUTA A TROVARE CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 3,
+        "testo": "AVENDO CRISTO COME MEDIATORE PRESSO IL PADRE, ABBIAMO BISOGNO ANCORA DI UNA MEDIATRICE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 4,
+        "testo": "QUALI SONO I TRE PIÙ IMPORTANTI GRADINI PER ARRIVARE A DIO, SECONDO I SANTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 5,
+        "testo": "E’ POSSIBILE A NOI CONSERVARE LA GRAZIA DI DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 6,
+        "testo": "IL SERVIZIO DI DIO SI REALIZZA MEGLIO CON O SENZA MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 7,
+        "testo": "IL MIGLIORE ESEMPIO DELLA SCHIAVITÙ D’AMORE LO TROVIAMO IN:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 8,
+        "testo": "IN QUALE MANIERA QUESTA DEVOZIONE È UN ATTO DI AMORE PER IL PROSSIMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 1,
+        "testo": "PERCHÉ SPESSO NON SI COSTATANO FRUTTI DI SANTITÀ IN CHI SI CONSACRA A MARIA IN SCHIAVITÙ D’AMORE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 2,
+        "testo": "QUAL È LA FORMULA CHE RIASSUME TUTTE LE PRATICHE INTERIORI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 3,
+        "testo": "DA DOVE PRENDE SAN LUIGI MARIA QUESTA FORMULA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 4,
+        "testo": "CHE SIGNIFICA FARE TUTTO PER MEZZO DI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 5,
+        "testo": "CHE SIGNIFICA FARE TUTTO CON MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 6,
+        "testo": "CHE SIGNIFICA FARE TUTTO IN MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 7,
+        "testo": "CHE SIGNIFICA FARE TUTTO PER MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 8,
+        "testo": "LE PRATICHE ESTERIORI SONO BUONE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 1,
+        "testo": "PERCHÉ MARIA È COSÌ NECESSARIA AI NOSTRI TEMPI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 2,
+        "testo": "QUAL È LO STILE DEL LIBRO DELLA GENESI NEL RACCONTO DEL PECCATO DI ADAMO ED EVA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 3,
+        "testo": "QUALE PECCATO VUOLE FAR COMMETTERE IL SERPENTE A ADAMO ED EVA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 4,
+        "testo": "COSA RAPPRESENTA LA MELA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 5,
+        "testo": "COSA RAPPRESENTA L’ALBERO DELLA SAPIENZA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 6,
+        "testo": "CHE SIGNIFICANO L’ALBERO E LA MELA INSIEME?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 7,
+        "testo": "COME REDIME DIO ADAMO ED EVA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 8,
+        "testo": "IN QUALE MOMENTO GESÙ FA CAPIRE CHE EVA RAPPRESENTA MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 1,
+        "testo": "QUAL È IL MISTERO DI CRISTO CHE SAN LUIGI VUOLE RIVIVERE ATTRAVERSO QUESTA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 2,
+        "testo": "COSA CERCANO IN FONDO TUTTE LE ERESIE SECONDO SAN LEONE MAGNO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 3,
+        "testo": "QUANTE SONO LE NATURE DI CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 4,
+        "testo": "QUANTE SONO LE PERSONE DI CRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 5,
+        "testo": "ESISTE UNA PERSONA UMANA DI CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 6,
+        "testo": "QUALE DI QUESTE AFFERMAZIONI È FALSA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 7,
+        "testo": "QUALI SONO LE CONSEGUENZE DELLA RETTA CONOSCENZA DELL’INCARNAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 8,
+        "testo": "QUAL È IL SENSO DELLE COSE SACRE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 1,
+        "testo": "PERCHÉ GESÙ ISTITUISCE I SACERDOTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 2,
+        "testo": "COSA FARÀ L’ANTICRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 3,
+        "testo": "CHI SARANNO QUELLI CHE ANDRANNO DIETRO ALL’ANTICRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 4,
+        "testo": "QUANDO UNA VERITÀ DELLA CHIESA È INFALLIBILE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 5,
+        "testo": "DOPO CRISTO, DOVE FONDANO LA LORO AUTORITÀ I VESCOVI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 6,
+        "testo": "COSA È IL SIMBOLO DEGLI APOSTOLI",
+        "soluzione": 2
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 7,
+        "testo": "IL CATECHISMO DELLA CHIESA PROMULGATO DA SAN GIOVANNI PAOLO II È:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 8,
+        "testo": "IL COMPENDIO DEL CATECHISMO DI BENEDETTO XVI FU PROMULGATO PER:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 1,
+        "testo": "QUAL È L’OPERA PIÙ GRANDE CHE POSSIAMO OFFRIRE A DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 2,
+        "testo": "COSA SUCCEDE VERAMENTE NELLA MESSA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 3,
+        "testo": "QUANTO VALE UNA SOLA SANTA MESSA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 4,
+        "testo": "COME SI PUÒ PARTECIPARE ATTIVAMENTE NELLA MESSA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 5,
+        "testo": "IN CHE SENSO SI DICE CHE LA MESSA PUÒ ESSERE ANCHE ‘MIA’?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 6,
+        "testo": "COME CONSIGLIA FARE LA COMUNIONE SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 7,
+        "testo": "COSA DEVO FARE ANZITUTTO DURANTE LA COMUNIONE STESSA SECONDO SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 8,
+        "testo": "COSA FARE DOPO LA COMUNIONE SECONDO SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 1,
+        "testo": "LA PASSIONE DI GESÙ È UTILE PER:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 2,
+        "testo": "PER RICEVERE L’AMORE DEL SIGNORE LA PRIMA COSA DA FARE È:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 3,
+        "testo": "GESÙ ERA PIENAMENTE CONSAPEVOLE DELLA SUA PASSIONE IN OGNI ASPETTO? ",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 4,
+        "testo": "IL VIAGGIO DA BETANIA A GERUSALEMME ERA VOLUTO DA GESÙ PER:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 5,
+        "testo": "GESÙ DESIDERA MORIRE IN CROCE PER:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 6,
+        "testo": "IL PRIMO DEVOTO DEL SACRO CUORE DI GESÙ FU:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 7,
+        "testo": "SANTA MARGHERITA MARIA DI ALACOQUE ERA CONFORTATA PERCHÉ GESÙ LE DICEVA:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 8,
+        "testo": "COSA È L’INTRONIZZAZIONE DEL SACRO CUORE IN UNA FAMIGLIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 1,
+        "testo": "VI SARÀ UN GIORNO IN CUI GESÙ NON SARÀ PIÙ PRESENTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 2,
+        "testo": "IN QUALE MODO È PRESENTE GESÙ NEL CUORE DEI CREDENTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 3,
+        "testo": "PRIMA DELLA SUA PASSIONE GESÙ PROMISE AGLI APOSTOLI CHE LUI SAREBBE TORNATO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 4,
+        "testo": "COSA SIGNIFICANO LE PAROLE: “UN POCO NON MI VEDRETE E UN ALTRO POCO GIÀ MI VEDRETE”",
+        "soluzione": 2
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 5,
+        "testo": "SI PUÒ DIRE CHE GESÙ OGGI È PRESENTE IN NOI ANCHE CON IL SUO CORPO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 6,
+        "testo": "QUALE MISTERO DELLA VITA CI AIUTA A COMPRENDERE IL MODO IN CUI LUI È OGGI PRESENTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 7,
+        "testo": "COME PERCEPIRE LA PRESENZA DI CRISTO IN NOI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 8,
+        "testo": "COME ESSERE SICURI DELLA PRESENZA DI CRISTO IN ME?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 1,
+        "testo": "QUALE PUÒ ESSERE IL TEMPO PIÙ UTILE DELLA NOSTRA VITA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 2,
+        "testo": "CHE SIGNIFICA CHE GESÙ SIA IL CENTRO DELLA STORIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 3,
+        "testo": "CHI È IL SANTO DOTTORE DELLA CHIESA CHE PAPA LEONE XIII SCELSE COME MAESTRO DELLA TEOLOGIA DELLA STORIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 4,
+        "testo": "IN QUALE SENSO ABELE È FIGURA DI GESÙ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 5,
+        "testo": "IN QUALE SENSO MOSÈ È FIGURA DI CRISTO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 6,
+        "testo": "COSA FA GESÙ OGGI, MENTRE CONTEMPLA IL MALE CHE SI COMMETTE NEL MONDO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 7,
+        "testo": "E’ GIUSTO CHE GESÙ SIA RIFERIMENTO DELLA POLITICA DI UNA NAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 8,
+        "testo": "SE AUMENTA IL MALE NEL MONDO, COSA DOBBIAMO CAPIRE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 1,
+        "testo": "BISOGNA ESSERE PERFETTAMENTE PRONTI PER FARE QUESTA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 2,
+        "testo": "BISOGNA CONOSCERE PERFETTAMENTE TUTTA LA DOTTRINA DI SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 3,
+        "testo": "QUALE DI QUESTI TRE MEZZI È IL MIGLIORE PER PREPARARSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 4,
+        "testo": "UNA VOLTA CHE SO IN CHE CONSISTE, DEVO ASPETTARE FINO A RENDERMI DEGNO DELLA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 5,
+        "testo": "BISOGNA ESSERE PERFETTAMENTE PRONTI PER FARE QUESTA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 6,
+        "testo": "BISOGNA CONOSCERE PERFETTAMENTE TUTTA LA DOTTRINA DI SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 7,
+        "testo": "QUALE DI QUESTI TRE MEZZI È IL MIGLIORE PER PREPARARSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 8,
+        "testo": "UNA VOLTA CHE SO IN CHE CONSISTE, DEVO ASPETTARE FINO A RENDERMI DEGNO DELLA CONSACRAZIONE?",
+        "soluzione": 1
+    }
+]

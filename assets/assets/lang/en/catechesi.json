@@ -1,0 +1,332 @@
+[
+    {
+        "sezioneId": 1,
+        "id": 1,
+        "titolo": "A Consecration for Generous Souls",
+        "descrBreve": "Dear brother, dear sister, whatever your name is, you are invited to this preparation to consecrate yourself to Mary in a maternity of love, according to the teachings of Saint Louis-Marie Grignion de Montfort.",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/en/texts/catechesi1.md",
+        "videoId": "rut8TrqQ67Y",
+        "pdfId": "assets/lang/en/pdf/catechesi1.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 2,
+        "titolo": "What is God Like?",
+        "descrBreve": "“Man is created to praise, revere, and serve God, and thus save his soul” (Saint Ignatius of Loyola). But what is God like? What does it mean to consider Him as Father? How should I behave towards Him?",
+        "imageId": "assets/images/mamma3.png",
+        "testoId": "assets/lang/en/texts/catechesi2.md",
+        "videoId": "7qn_8_wflWw",
+        "pdfId": "assets/pdf/catechesi2.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 3,
+        "titolo": "The Glory of God, the Meaning of Life",
+        "descrBreve": "'In glorifying the Lord, exalt Him as much as you can, for He will be even higher. In elevating Him, multiply your strength, do not tire, for you will never finish. Who has contemplated Him and will describe Him? Who can magnify Him as He is?' (Sir 43:30)",
+        "imageId": "assets/images/magi.png",
+        "testoId": "assets/lang/en/texts/catechesi3.md",
+        "videoId": "ftTPOlaPHXY",
+        "pdfId": "assets/pdf/catechesi3.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 4,
+        "titolo": "The Meaning of Sin",
+        "descrBreve": "The important occasions in life require serious preparation. Just as you prepare for a celebration by dressing appropriately, clean and fragrant, you must make your consecration to the Virgin with a worthy, pure, and fragrant inner garment.",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/en/texts/catechesi4.md",
+        "videoId": "qch3iNBLDJ4",
+        "pdfId": "assets/pdf/catechesi4.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 5,
+        "titolo": "Eternal Salvation",
+        "descrBreve": "Eternity is the true Life for which we were created. The thought of eternity shapes the great saints of our time.",
+        "imageId": "assets/images/discesainferi.png",
+        "testoId": "assets/lang/en/texts/catechesi5.md",
+        "videoId": "HTCx-lz5lN0",
+        "pdfId": "assets/pdf/catechesi5.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 6,
+        "titolo": "The Spirit of the World",
+        "descrBreve": "After recalling the essential truths of our faith, it is time to consider today this 'world' from which we must necessarily free ourselves if we want to reach Jesus through Mary.",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/en/texts/catechesi6.md",
+        "videoId": "BONXCfr6gLI",
+        "pdfId": "assets/pdf/catechesi6.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 7,
+        "titolo": "The Spirit of the Beatitudes",
+        "descrBreve": "The Lord gave the secret to a happy life in the Sermon on the Mount, where He proclaimed the 'Beatitudes'. Thus, He delivered the most revolutionary speech of all time.",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/en/texts/catechesi7.md",
+        "videoId": "hWVccxWmlPg",
+        "pdfId": "assets/pdf/catechesi7.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 8,
+        "titolo": "Meditation on the Two Flags",
+        "descrBreve": "The doctrine of the Gospel is not only different, but diametrically opposed to that of the world. The contrast could not be clearer: 'the world hates me'; 'you will be hated too' but 'take heart: I have overcome the world' (cf. John 15:18-19). In what sense is 'the world' spoken of as opposed to Christ?",
+        "imageId": "assets/images/duebandiere.png",
+        "testoId": "assets/lang/en/texts/catechesi8.md",
+        "videoId": "XsLQPA2n0DI",
+        "pdfId": "assets/pdf/catechesi8.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 9,
+        "titolo": "Evangelical Wisdom and Worldly Foolishness",
+        "descrBreve": "Saint Ignatius’ 'rules for a good choice' are a real aid to ensure that every choice is made for God’s greater glory and for the salvation of our soul.",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/en/texts/catechesi9.md",
+        "videoId": "bE_RovEK-aM",
+        "pdfId": "assets/pdf/catechesi9.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 10,
+        "titolo": "The Presence of God in the Soul",
+        "descrBreve": "Supernatural realities, even though we do not know them in a sensory way, are the most real things in our life. The vision God has of my reality is more real than what I can see with my limits. Only faith allows me to find God truly present in me.",
+        "imageId": "assets/images/annunc2.png",
+        "testoId": "assets/lang/en/texts/catechesi10.md",
+        "videoId": "FGpZzvVAIXc",
+        "pdfId": "assets/pdf/catechesi10.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 11,
+        "titolo": "The Presence of God in the Soul II",
+        "descrBreve": "To live by the Spirit means first and foremost to recognize the presence of God in the soul. This presence is called 'Trinitarian Inhabitation'. The name itself is indicative: it is the Holy Trinity truly present in my soul by grace.",
+        "imageId": "assets/images/annunc5.png",
+        "testoId": "assets/lang/en/texts/catechesi11.md",
+        "videoId": "8uY4SEpSYsI",
+        "pdfId": "assets/pdf/catechesi11.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 12,
+        "titolo": "The Culture of Life and the Culture of Death",
+        "descrBreve": "We are facing a 'global tug of war.' This 'tug of war' is not physical but spiritual, ideological. Two forces are at stake: transcendence against immanence. Religion against atheistic humanism, the Virgin against Satan.",
+        "imageId": "assets/images/nascita.png",
+        "testoId": "assets/lang/en/texts/catechesi12.md",
+        "videoId": "LIVGG9qR9O8",
+        "pdfId": "assets/pdf/catechesi12.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 13,
+        "titolo": "Self-Knowledge",
+        "descrBreve": "We have arrived at the second stage of our preparation. The 'three weeks' begin, during which Saint Louis-Marie proposes that we get to know three persons: Myself, the Blessed Virgin, and Jesus Christ. Let’s begin with the knowledge of ourselves, our faults, and our limits.",
+        "imageId": "assets/images/nolimetangere.png",
+        "testoId": "assets/lang/en/texts/catechesi13.md",
+        "videoId": "TcNWlTAq3SU",
+        "pdfId": "assets/pdf/catechesi13.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 14,
+        "titolo": "The Dogma of Original Sin",
+        "descrBreve": "It is fundamental to know oneself starting from the fact of original sin and its consequences in us. The Catechism of the Church teaches: All men are involved in the sin of Adam. Saint Paul says: 'By the disobedience of one, all became sinners' (Romans 5:19)",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/en/texts/catechesi14.md",
+        "videoId": "N7ofQ-1cxxg",
+        "pdfId": "assets/pdf/catechesi14.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 15,
+        "titolo": "The Dominant Defect",
+        "descrBreve": "In each of us, there is a defect that is the root of all the others. St. Ignatius of Loyola teaches a practical method to recognize it, and once identified, to fight it in order to acquire the opposite virtue.",
+        "imageId": "assets/images/lavanda.png",
+        "testoId": "assets/lang/en/texts/catechesi15.md",
+        "videoId": "o_1KMFo88ag",
+        "pdfId": "assets/pdf/catechesi15.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 16,
+        "titolo": "The Meaning of Suffering",
+        "descrBreve": "“To suffer is essentially human,” said Saint Exupery, but even more so, “complete in my flesh—says the apostle Paul, explaining the salvific value of suffering—what is lacking in the sufferings of Christ, for the sake of his body, which is the Church” (Col. 1:24)",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/en/texts/catechesi16.md",
+        "videoId": "LRf-8EpVmmQ",
+        "pdfId": "assets/pdf/catechesi16.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 17,
+        "titolo": "The Necessity of Prayer",
+        "descrBreve": "“He who prays is certainly saved; he who does not pray is certainly condemned.” This single phrase from St. Alphonsus Maria de Liguori is enough to show the paramount importance of prayer.",
+        "imageId": "assets/images/annunc3.png",
+        "testoId": "assets/lang/en/texts/catechesi17.md",
+        "videoId": "ozjGvICk6r0",
+        "pdfId": "assets/pdf/catechesi17.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 18,
+        "titolo": "Deny Yourself and Follow Me",
+        "descrBreve": "“We have only nothing and sin of our own, and we deserve nothing but God's wrath and eternal hell. Should we be surprised that Our Lord said that anyone who wants to follow him must deny himself and hate his own life? Christ, Infinite Wisdom, does not give commands without reason” (TDV 79-80)",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/en/texts/catechesi18.md",
+        "videoId": "N9shH6ri5Mg",
+        "pdfId": "assets/pdf/catechesi18.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 19,
+        "titolo": "The Gift of Self",
+        "descrBreve": "“What strength this gift contains... It cannot fail to attract the Omnipotent to become one with our insignificance” (St. Teresa)",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/en/texts/catechesi19.md",
+        "videoId": "B6A3rLJTFsU",
+        "pdfId": "assets/pdf/catechesi19.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 20,
+        "titolo": "Mary Is Not Well Enough Known",
+        "descrBreve": "We have reached the most immediate goal, although not the final one, of our consecration: everything we have experienced in these first two stages aims to know Mary and inspire in us the desire to give ourselves completely to Her.",
+        "imageId": "assets/images/annunc1.png",
+        "testoId": "assets/lang/en/texts/catechesi20.md",
+        "videoId": "z5SsKlt5HI4",
+        "pdfId": "assets/pdf/catechesi20.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 21,
+        "titolo": "Mary and Jesus",
+        "descrBreve": "“Every time you think of Mary, Mary thinks of God for you. Every time you praise and honor Mary, Mary with you praises and honors God. Mary is entirely related to God, and I would call her perfectly the relationship of God, which exists only in relation to God, or the echo of God, which says and repeats nothing but God.",
+        "imageId": "assets/images/mammaegesuoro.png",
+        "testoId": "assets/lang/en/texts/catechesi21.md",
+        "videoId": "MkDysA7aDiA",
+        "pdfId": "assets/pdf/catechesi21.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 22,
+        "titolo": "Is the Word 'Slavery' Ugly?",
+        "descrBreve": "But where is my pen taking me? Why do I stop to reflect on such an obvious thing? If one does not want to call oneself a slave of the Virgin Mary, what does it matter! One might as well become a slave of Jesus Christ! It is the same as making oneself together a slave of the Holy Virgin because Jesus is the fruit and glory of Mary [Treatise No. 77].",
+        "imageId": "assets/images/egitto.png",
+        "testoId": "assets/lang/en/texts/catechesi22.md",
+        "videoId": "E1-r9RfQBcE",
+        "pdfId": "assets/pdf/catechesi22.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 23,
+        "titolo": "Characteristics of True and False Devotion",
+        "descrBreve": "Let us be careful: false devotion, “which leads to perdition,” is indicated here as those devotions that, pretending and disorderly, cause the soul to fall asleep in sin.",
+        "imageId": "assets/images/mammaegesuombre.png",
+        "testoId": "assets/lang/en/texts/catechesi23.md",
+        "videoId": "f9bztaG0_Oc",
+        "pdfId": "assets/pdf/catechesi23.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 24,
+        "titolo": "Is It Really Beneficial to Consecrate Myself?",
+        "descrBreve": "Let us boldly say with St. Bernard that we need a mediator before the Mediator Himself, and that divine Mary is the most capable of fulfilling this charitable role. Through her, Jesus Christ came to us, and through her, we must go to Him.",
+        "imageId": "assets/images/mamma.png",
+        "testoId": "assets/lang/en/texts/catechesi24.md",
+        "videoId": "8hrMivZcgkg",
+        "pdfId": "assets/pdf/catechesi24.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 25,
+        "titolo": "Marianize Life",
+        "descrBreve": "To this Consecration, as the starting point and practical foundation of Marian life, St. Louis-Marie de Montfort links the 'interior practices' of perfect Marian devotion, practices that truly presuppose the 'marianization' of all aspects of the Christian life, and also the inclusion of Mary in all our relationships with God, in which she exercises her Mediation.",
+        "imageId": "assets/images/assunta.png",
+        "testoId": "assets/lang/en/texts/catechesi25.md",
+        "videoId": "P9Ejii9k46o",
+        "pdfId": "assets/pdf/catechesi25.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 26,
+        "titolo": "The Presence of Mary in History",
+        "descrBreve": "“God has made and prepared only one irreconcilable enmity, which will last and even grow until the end: the enmity between Mary, His worthy Mother, and the devil, between the children and servants of the Holy Virgin and the children and followers of Lucifer” (TVD 52)",
+        "imageId": "assets/images/incoronazione.png",
+        "testoId": "assets/lang/en/texts/catechesi26.md",
+        "videoId": "pEDdxF_OaEU",
+        "pdfId": "assets/pdf/catechesi26.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 27,
+        "titolo": "The Incarnation of the Word",
+        "descrBreve": "“The main mystery celebrated and honored with this devotion is that of the Incarnation” (TVD 246)",
+        "imageId": "assets/images/annunc4.png",
+        "testoId": "assets/lang/en/texts/catechesi27.md",
+        "videoId": "9jlD8kz0vHg",
+        "pdfId": "assets/pdf/catechesi27.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 28,
+        "titolo": "Jesus Our Teacher",
+        "descrBreve": "Christ redeems men by exercising a triple office or function: Teacher-Prophet, Shepherd-King, Priest-Victim. He is the Way, the Truth, and the Life (John 14:6)",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/en/texts/catechesi28.md",
+        "videoId": "GM3rV5FPmo8",
+        "pdfId": "assets/pdf/catechesi28.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 29,
+        "titolo": "His Eucharistic Presence",
+        "descrBreve": "The sacrifice of the lives of all saints, of all angels, and of the Divine Mother herself, certainly would not give God the honor that a single Mass gives, because only this renders to God infinite honor.",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/en/texts/catechesi29.md",
+        "videoId": "v2qRXxs1Tuw",
+        "pdfId": "assets/pdf/catechesi29.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 30,
+        "titolo": "His Passion and Devotion to the Sacred Heart",
+        "descrBreve": "In this is love: we did not love God, but He loved us and sent His Son as an expiation for our sins (1 John 4:10).",
+        "imageId": "assets/images/deposizionefocus.png",
+        "testoId": "assets/lang/en/texts/catechesi30.md",
+        "videoId": "JgdMzak692E",
+        "pdfId": "assets/pdf/catechesi30.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 31,
+        "titolo": "The Spiritual Presence of Christ",
+        "descrBreve": "For us, Christ mysteriously identifies with every person, and every person and all men can only understand themselves in Christ Jesus, knowing that 'it was necessary for humanity that God become man to demonstrate the dignity of human nature' (Dir. Third Order IVE, 42).",
+        "imageId": "assets/images/mammaegesu.png",
+        "testoId": "assets/lang/en/texts/catechesi31.md",
+        "videoId": "SMD2KFNPjTE",
+        "pdfId": "assets/pdf/catechesi31.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 32,
+        "titolo": "Jesus Christ, Alpha and Omega",
+        "descrBreve": "I now consider everything a loss compared to the surpassing greatness of knowing Christ Jesus, my Lord, for whose sake I have lost all things, and I consider them as rubbish, that I may gain Christ (Phil. 3:8).",
+        "imageId": "assets/images/gesu.png",
+        "testoId": "assets/lang/en/texts/catechesi32.md",
+        "videoId": "hd2ao8Xr5a4",
+        "pdfId": "assets/pdf/catechesi32.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 33,
+        "titolo": "Conclusion, Practical Advice",
+        "descrBreve": "Some specific advice before making or renewing your consecration",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/en/texts/catechesi33.md",
+        "videoId": "o51oT-HtI3s",
+        "pdfId": "assets/pdf/catechesi33.pdf"
+    }
+]

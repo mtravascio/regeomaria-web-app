@@ -1,0 +1,5546 @@
+[
+    {
+        "idTest": 1,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Il s'agit d'un secret de nature",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Il s'agit d'un secret pour quelques privilégiés",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Il s'agit d'un secret de grâce, dont le protagoniste est le Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Pour que la sainteté soit vécue de manière facile, douce, et en peu de temps",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Pour augmenter la conscience d'être pécheurs",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Pour discerner dans sa vie chrétienne ce qui est juste de ce qui est faux",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Pour ceux qui se considèrent justes, mais veulent approfondir leur foi par cet écrit",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Pour les plus simples, qui veulent et décident d'atteindre la sainteté",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Pour ceux qui éprouvent une grande paix et consolation lorsqu'ils prient la Vierge Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "En renonçant au péché avec détermination, à l'imitation de Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Dans l'abandon total à la personne de la Très Sainte Marie, à travers l'estime et l'amour pour Elle.",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "En obtenant de grands fruits surnaturels pour le bénéfice de son âme",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Ce sont les mêmes engagements baptismaux, pour les vivre de manière plus parfaite",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Renouveler les engagements pris lors de notre première communion",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Ajouter plus de devoirs personnels envers la Vierge Marie, pour le salut de l'âme",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "12 jours",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "30 jours",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "33 jours",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Parce qu'il a étudié toutes les autres et considère que la sienne est meilleure",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Pour les fruits de sainteté qu'elle produisait chez les personnes qui l'écoutaient prêcher",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Parce qu'elle conduit mieux au renoncement de soi et parce qu'elle a été enseignée par Jésus lui-même",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "C'est l'abandon total à Jésus-Christ, par la Très Sainte Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Vivre plus sereinement les difficultés quotidiennes",
+        "risultato": false
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "C'est l'abandon total de mes actions quotidiennes, par la Très Sainte Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Non. Parce qu'on peut parler d'un “dieu” qui n'est pas Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Oui, une idée générale suffit",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Oui, après tout, Dieu est partout et se trouve même dans des choses secondaires",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Le sentir chez les autres",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Avoir une connaissance philosophique et profonde",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Avoir confiance en Dieu comme Père Provident",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "À travers la création, nous arrivons à Lui par analogie",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "À travers les autres religions",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Il n'y a pas de moyens naturels pour connaître son existence",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Les révélations privées",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "La foi qui adhère à l'Évangile",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Il n'existe pas de moyens surnaturels, seuls le sentiment et la raison suffisent",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "La philosophie païenne",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "L'exemple des saints, spécialement la Vierge Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Les statues sacrées",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Parce qu'il est éternel",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Parce que tout se soumet à sa volonté",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Parce qu'il pourvoit comme un Père",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "La confiance de savoir qu'il prend soin de nous",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Ne pas travailler parce qu'il pourvoit",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Dire le Notre Père",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Oui, s'il ne demande pas des choses convenables",
+        "risultato": false
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Non, Dieu écoute toujours, même s'il n'accorde pas toujours ce qui est demandé",
+        "risultato": true
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui, parce que Dieu écoute ceux qui le méritent",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Qu'il s'agit de la première partie des exercices spirituels de Saint Ignace",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Que celui qui ne le connaît pas ne peut pas vivre en grâce",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Qu'il est impossible d'ordonner la vie selon sa Volonté sans partir de cela",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Que Dieu m'a modelé, me connaît et continue à me créer en me maintenant dans l'être",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Qu'un jour il m'a créé et puis me laisse à mon libre arbitre",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Que je dois avoir peur de Dieu parce qu'il peut me retirer l'être",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Non, on peut directement penser que Dieu m'aime sans considérer la création",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Oui, c'est la première vérité de la vie spirituelle qui exige reconnaissance",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Non, parce que cela pourrait trop effrayer",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Pour le louer, le révérer et le servir dans cette vie et ainsi gagner le Ciel",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Pour être heureux",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Pour faire de ce monde un monde meilleur",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Gagner un tournoi sportif ou une guerre",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "La louange qui naît de l'estime et de la reconnaissance de quelqu'un",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Les applaudissements offerts aux artistes",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "En reconnaissant qui il est et ce qu'il a fait pour moi ; en me comportant de manière adéquate ; en le louant par la prière",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "En vivant pleinement ma vie de famille et de travail",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "En devenant religieux ou moine en prière continue",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Pour la nature et le destin de chaque créature qui doit reconnaître l'Artisan",
+        "risultato": true
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Parce que sinon nous serons punis",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Parce que Dieu l'a disposé ainsi et ses décrets ne sont pas explicables",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Non, cela peut aussi être la famille, le bien-être de mes proches",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Non, mais vivre pleinement la vie terrestre",
+        "risultato": false
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui, sans la vie éternelle, la vie terrestre n'aurait pas de sens",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Parce qu'il faut se préparer au moins à prendre l'engagement de s'éloigner du péché",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Parce que c'est un chemin pénitentiel",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Parce que si nous sommes pécheurs, nous ne pouvons pas faire la consécration",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Avoir perdu le sens du péché",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "L'avortement et l'euthanasie",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "L'indifférence à la souffrance d'autrui",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Oui, en effet, le but est de revigorer l'âme pour l'abandonner définitivement",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Non, tu dois d'abord vivre une période en grâce pour qu'elle produise des fruits",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Non, ce serait un péché de présomption",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Parce que l'homme moderne n'est pas aussi mauvais que l'homme primitif",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Parce qu'on a perdu le sens de Dieu contre lequel on pèche",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Parce que la religion doit être plus optimiste et ne pas fomenter un sentiment de culpabilité constant",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Rejeter sur la société, les situations historiques, les autres personnes, toutes les fautes qu'il commet",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Ne pas se confesser sacramentellement",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Ne pas prier",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Comme piétiner une fleur",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "L'amour de soi jusqu'à la haine de Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Ignorance en matière de morale",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "En devenant moine ou religieux cloîtré",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "L'horreur du péché mortel",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Le jeûne et l'aumône",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Parce que la douleur de l'offense se mesure en fonction de l'amour pour celui qui m'offense",
+        "risultato": true
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Parce que le démon a un pouvoir démesuré sur l'âme pécheresse et lui donnerait ce pouvoir",
+        "risultato": false
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Parce que Dieu ne peut pas vivre sans l'homme",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La libération des âmes du purgatoire",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "La destruction des méchants",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "La résurrection de tous les morts, « des justes et des injustes » (Actes 24,15)",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Les quatre dernières réalités auxquelles nous venons ou pouvons venir à la fin de notre existence : mort, jugement, enfer, paradis.",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Ce sont les nouvelles réalités ultimes de notre existence révélées par un ange",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Ce sont les nouvelles réponses existentielles qui ont été révélées par Jésus au cours des derniers siècles par l'intermédiaire de l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "La mort n'existe pas, il ne faut pas y penser",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "La mort est certaine pour chaque homme, le comment dépendra de ses choix ; une vie de grâce, une mort sainte ; une vie de péché, une mort triste",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Ne pas trop penser à la mort, car l'âme du chrétien s'engourdit",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "L'ange gardien qui est toujours à nos côtés pendant et après ma mort",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "La Très Sainte Marie qui est notre avocate.",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Personne ne m'aidera",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Il existe pour certains qui y croient",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Il existe seulement pour ceux qui ont péché mais pas pour ceux qui sont proches de Dieu par la foi",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "L'enfer existe, il est réel, il est éternel ; Jésus-Christ l'a révélé",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Celui qui par son libre choix meurt en état de péché mortel sans en être repenti et sans accepter l'amour miséricordieux de Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Celui qui par son libre choix meurt en état de péché véniel sans en être repenti",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Celui qui pense que l'enfer n'existe pas et vit sa vie en étant incrédule à cette réalité",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "La libération des âmes du purgatoire",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "La destruction des méchants",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "La résurrection de tous les morts, « des justes et des injustes » (Actes 24,15)",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Les quatre dernières réalités auxquelles nous venons ou pouvons venir à la fin de notre existence : mort, jugement, enfer, paradis.",
+        "risultato": true
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Ce sont les nouvelles réalités ultimes de notre existence révélées par un ange",
+        "risultato": false
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Ce sont les nouvelles réponses existentielles qui ont été révélées par Jésus au cours des derniers siècles par l'intermédiaire de l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Cela signifie la création qui en elle-même est créée par Dieu et est bonne",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Cela signifie l'environnement et ses valeurs que nous ne devons pas adopter comme les nôtres",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Cela signifie la vanité et les plaisirs pécheurs auxquels se livrent les personnes qui vivent en oubliant Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Climat antichrétien, une atmosphère qui enveloppe les personnes dans leur façon de penser, de désirer et de se préoccuper uniquement des biens terrestres",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Une façon de vivre des païens",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Un climat semi-chrétien adapté aux valeurs de ce monde",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Il cherche à tromper les sens pour te faire pécher",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Exaltation des richesses, des plaisirs charnels, de la violence, de la tromperie et de la fraude, liberté illimitée de commettre toutes sortes de péchés",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Il cherche à satisfaire notre regard vers les choses matérielles",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Seulement de Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "De toute âme qui vit selon l'esprit de Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "De toute âme humaine existant sur cette terre",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "S'éloigner de soi-même",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "S'éloigner du prochain qui te conduit au péché",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Fuir les occasions dangereuses",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Raviver la foi et considérer toutes choses à la lumière de l'Évangile",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Seulement et uniquement la foi",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Nos bonnes œuvres de charité suffisent",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Considérer que notre vie existentielle est un pèlerinage",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Considérer la vanité des choses du monde",
+        "risultato": true
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Penser seulement que toutes les choses de ce monde sont mauvaises",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Se laisser corriger par le prochain",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Se corriger soi-même de notre mauvaise conduite",
+        "risultato": false
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Piétiner le respect humain",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Seulement aux religieux",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Seulement aux privilégiés",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "À tous ceux qui veulent vivre l'esprit du Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Lire des livres sur la Vierge Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "L'amour de Jésus et l'union avec Lui par la prière",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Avoir un esprit prêt pour la mortification",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "En mettant son cœur dans les biens éternels et en se réjouissant de les obtenir",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "En ressentant la paix intérieure lorsque nous sommes maltraités",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "En étant indifférent lorsque nous sommes maltraités",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Cela signifie heureux ceux qui sont pauvres seulement des choses matérielles",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Cela signifie heureux ceux qui sont pauvres économiquement",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Cela signifie heureux ceux qui sont détachés des choses matérielles et mettent leur bonheur dans la vertu",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Heureux ceux qui dominent leurs passions",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Heureux ceux qui acceptent tout ce qui leur arrive",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Heureux ceux qui se contentent parfois des occasions désagréables",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Heureux ceux qui pleurent pour les misères des autres",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Heureux ceux qui pleurent leurs erreurs commises dans le passé",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Heureux ceux qui pleurent leurs péchés",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "La personne qui fait de bonnes choses de temps en temps",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Heureux ceux qui aspirent à la sainteté, qui veulent être vertueux",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Heureux ceux qui ont faim et soif de choses justes",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Heureux ceux qui inclinent leur cœur à la misère de l'autre",
+        "risultato": true
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Heureux ceux qui pardonnent parfois quand cela les arrange",
+        "risultato": false
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Heureux ceux qui ont une vision d'eux-mêmes comme misérables devant Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Les passions désordonnées, la chair, le monde",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Le monde, le diable et la chair",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "La sensualité, l'orgueil, la superbe",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "C'est une manière différente de réciter la prière vocale",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "C'est la prière faite à travers l'intelligence, la volonté, l'imagination, élevant l'affection à Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Intérioriser les vérités sublimes de la foi chrétienne",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Se mettre en présence de Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Se mettre devant Dieu et reconnaître nos péchés",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Invoquer le Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "En goûtant intérieurement les vérités de la foi chrétienne",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Lire des livres pieux et des saints",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Lire et penser aux vérités sublimes de la vie chrétienne",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Goûter ce que j'ai médité",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Ressentir la consolation qui vient de Dieu lorsque l'on médite les vérités de la foi",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Le colloque",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Avoir compris tout ce que j'ai vu dans la méditation",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Mettre en pratique concrètement ce que j'ai vu dans la méditation",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "La prière, comme un ami parle à un ami, comme le Fils parle avec le Père",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Les passions désordonnées, la chair, le monde",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Le monde, le diable et la chair",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "La sensualité, l'orgueil, la superbe",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "C'est une manière différente de réciter la prière vocale",
+        "risultato": false
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "C'est la prière faite à travers l'intelligence, la volonté, l'imagination, élevant l'affection à Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Intérioriser les vérités sublimes de la foi chrétienne",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Une personne pauvre qui souffre",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "C'est une personne intelligente et qui sait comment se déplacer dans l'environnement qui l'entoure",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "C'est celui qui sait donner à chaque chose la valeur (le poids, l'importance) qui lui correspond ; il fera des choix en fonction de l'éternité qui l'attend",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Il faut que mon intention soit pure et dirigée uniquement vers le but pour lequel je suis créé, c'est-à-dire la louange de Dieu notre Seigneur et le salut de mon âme",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Il faut que mon intention soit conforme à la manière dont je vois les choses et la réalité qui m'entoure",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Il suffit d'avoir de bonnes intentions et d'être des hommes de bonne volonté pour sauver son âme",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Choisir le mariage ou la prêtrise pour sauver mon âme, et ainsi pouvoir glorifier et servir Dieu.",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Choisir en fonction de ce qui me plaît le plus et ainsi pouvoir glorifier Dieu.",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Je dois servir et glorifier Dieu et choisir le moyen le plus adapté pour atteindre ce but",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Oui, car la personne est libre de choisir à tout moment, tant qu'elle ne commet pas de péché.",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "On ne peut pas l'annuler ; si cette élection n'a pas été faite correctement et de la manière appropriée, il faut se repentir et s'engager à mener une vie honnête dans cette condition choisie.",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Oui, car la personne change et les circonstances changent et avec le temps, on devient plus conscient des choix fondamentaux de la vie.",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Ne pas choisir quand on est dans le doute, surtout face à de tels choix",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Courage et générosité, bien conscients et avec confiance en Dieu qui donnera les moyens de l'accomplir.",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Disposition subjective et temporaire, je peux choisir maintenant et changer demain parce que tout le monde fait ainsi.",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Se libérer de l'amour de soi, de sa propre volonté et de son propre intérêt et faire tout pour la plus grande Gloire de Dieu et pour le salut des âmes",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Mettre simplement de l'ordre dans sa propre vie",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Avoir quelque chose à offrir au Seigneur par de bonnes œuvres",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Une personne pauvre qui souffre",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "C'est une personne intelligente et qui sait comment se déplacer dans l'environnement qui l'entoure",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "C'est celui qui sait donner à chaque chose la valeur (le poids, l'importance) qui lui correspond ; il fera des choix en fonction de l'éternité qui l'attend",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Il faut que mon intention soit pure et dirigée uniquement vers le but pour lequel je suis créé, c'est-à-dire la louange de Dieu notre Seigneur et le salut de mon âme",
+        "risultato": true
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Il faut que mon intention soit conforme à la manière dont je vois les choses et la réalité qui m'entoure",
+        "risultato": false
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Il suffit d'avoir de bonnes intentions et d'être des hommes de bonne volonté pour sauver son âme",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La vie surnaturelle",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "La vie du monde",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "La vie parfaite naturelle",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Elles sont très abstraites et donc on peut avoir une vague idée de la réalité surnaturelle",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Elles sont surnaturelles mais très éloignées de nous et impraticables en ce temps où nous vivons",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Ce sont des réalités, c'est-à-dire considérer les vérités surnaturelles comme réelles et vraiment vécues dans la foi",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "La grâce commune",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "La grâce sanctifiante",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "La grâce qui se trouve en dehors de moi",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "C'est une qualité surnaturelle, inhérente à l'âme, qui nous fait participer à la même nature de Dieu.",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "C'est une qualité surnaturelle, en dehors de l'âme, qui nous revêt et nous protège des attaques des ennemis",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "C'est une qualité naturelle, qui se trouve dans une partie de notre corps",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Elle nous rend seulement justes devant Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Elle nous rend de vrais enfants adoptifs de Dieu et nous rend temples vivants de la Très Sainte Trinité",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "La grâce sanctifiante ne peut produire en nous des effets en raison de notre nature corrompue",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "La sainte crainte de Dieu, l'amour pour Dieu et pour le prochain",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "L'intellect, la volonté et les sens internes",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "La foi, l'espérance et la charité : les trois vertus théologales",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "La vie surnaturelle",
+        "risultato": true
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "La vie du monde",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "La vie parfaite naturelle",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Elles sont très abstraites et donc on peut avoir une vague idée de la réalité surnaturelle",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Elles sont surnaturelles mais très éloignées de nous et impraticables en ce temps où nous vivons",
+        "risultato": false
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Ce sont des réalités, c'est-à-dire considérer les vérités surnaturelles comme réelles et vraiment vécues dans la foi",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "C'est la Très Sainte Trinité vraiment présente dans mon âme par la grâce",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "C'est la présence réelle de Dieu dans l'âme par antonomase",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "C'est la demeure de la Très Sainte Trinité à laquelle nous ne pouvons pas accéder",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "L'Arche de l'Alliance et le nuage",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Les statues, la tente et l'Arche",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Le nuage, la tente et l'Arche de l'Alliance",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Il a manifesté sa présence dans les batailles gagnées par son peuple",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Dans le Temple de Jérusalem",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "quand le peuple a traversé la mer Rouge",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Dans la personne de Jésus-Christ où habite corporellement la plénitude de la divinité, et en particulier dans la prédication de la Bonne Nouvelle",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Dans la personne de Jésus-Christ où habite corporellement la plénitude de la divinité, et en particulier dans l'institution de l'Eucharistie.",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Dans la personne de Jésus-Christ où habite corporellement la plénitude de la divinité, et en particulier au moment de sa mort sur la Croix.",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "C'est une présence réelle, physique, des Trois Personnes divines qui se donne aux justes, et uniquement à eux, et ne se donne pas au pécheur.",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Elle habite comme dans un temple, comme une présence des dons du Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Comme une présence d'une grâce actuelle qui me fait réaliser une bonne action",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Conscience de l'œuvre de Dieu dans la création",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Conscience de la dignité chrétienne, de l'horreur du péché et d'une augmentation de la vie intérieure",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Conscience que rien n'est caché à Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "C'est la Très Sainte Trinité vraiment présente dans mon âme par la grâce",
+        "risultato": true
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "C'est la présence réelle de Dieu dans l'âme par antonomase",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "C'est la demeure de la Très Sainte Trinité à laquelle nous ne pouvons pas accéder",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "L'Arche de l'Alliance et le nuage",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Les statues, la tente et l'Arche",
+        "risultato": false
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Le nuage, la tente et l'Arche de l'Alliance",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "C'est l'esprit du monde contraire à l'esprit du Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Penser seulement aux choses de cette terre",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "C'est haïr le prochain",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Négation de la vie humaine et divine",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Négation de la personne de Jésus-Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Négation de l'Incarnation, c'est-à-dire de l'union de la nature humaine et de la nature divine dans la seule personne de Jésus-Christ.",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Nier l'existence de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Renverser la façon de penser des gens et l'auto-affirmation de son propre moi",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Nier l'existence d'une loi morale",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "L'avortement",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "L'euthanasie.",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Stérilisation",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Égalité des droits et des devoirs entre homme et femme",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "C'est mettre fin à la distinction de sexe entre homme et femme, inscrite dans la nature humaine",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Imposition des droits de la femme dans la société",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Interruption de la grossesse d'une mère qui porte un enfant dans son ventre",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Mépris de la vie humaine par l'utilisation de contraceptifs",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "L'intervention intentionnellement programmée pour interrompre de manière directe et primaire une vie, lorsque celle-ci se trouve dans des conditions particulières de souffrance ou d'incurabilité ou à l'approche de la mort.",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "C'est l'esprit du monde contraire à l'esprit du Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Penser seulement aux choses de cette terre",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "C'est haïr le prochain",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Négation de la vie humaine et divine",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Négation de la personne de Jésus-Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Négation de l'Incarnation, c'est-à-dire de l'union de la nature humaine et de la nature divine dans la seule personne de Jésus-Christ.",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La Très Sainte Marie, Jésus-Christ et moi-même",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Moi-même, la Très Sainte Marie et Jésus-Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Jésus-Christ, la Très Sainte Marie et moi-même",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "La lumière du Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "La Très Sainte Marie à la lumière du Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Aller directement à Jésus-Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "La connaissance de soi-même et la contrition de ses propres péchés et faire toute chose avec un esprit d'humilité",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "La connaissance de soi-même en considérant uniquement la fonction psychologique",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "La connaissance de soi-même, en considérant sa condition psychologique, morale et spirituelle.",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "La connaissance de ce que nous sommes, même si nous ne parviendrons jamais à nous connaître parfaitement",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "La connaissance de ce que nous sommes, faits seulement de terre et de boue",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "C'est la connaissance de ce que nous sommes, de nos misères et de notre néant à la lumière de Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Qu'à côté des richesses surnaturelles, il y a la présence du mal qui ne pourra jamais nous nuire",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Qu'à côté des richesses surnaturelles, la conscience de la présence du mal installé dans l'âme et qui est la conséquence du péché originel.",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Qu'à côté des richesses surnaturelles, l'homme est condamné pour toujours à rester dans le péché à cause du péché originel",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Se renfermer dans ses propres pensées et permettre au démon de suggérer, sous l'apparence de l'humilité, toutes sortes de pensées qui paralyseraient la relation avec Dieu.",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Écouter sa propre sensibilité qui est encline à céder à toute pratique spirituelle impliquant un sacrifice",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Se renfermer uniquement dans nos pensées et il n'y a pas d'autre ennemi que cela.",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "La Très Sainte Marie, Jésus-Christ et moi-même",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Moi-même, la Très Sainte Marie et Jésus-Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Jésus-Christ, la Très Sainte Marie et moi-même",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "La lumière du Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "La Très Sainte Marie à la lumière du Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Aller directement à Jésus-Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Que le péché est commis seulement par Adam",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Tous les hommes sont impliqués dans le péché d'Adam et à cause de cela, la mort est entrée dans le monde.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Que le péché implique tous les hommes mais n'a entraîné aucune conséquence",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, et donc blessée dans ses forces naturelles.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, et donc corrompue dans ses forces naturelles.",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, mais non blessée dans ses forces naturelles.",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Seulement le luthéranisme",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "L'arianisme et le pélagianisme",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Seulement le pélagianisme",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "C'est une hérésie christologique, qui présente Jésus-Christ seulement comme Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "C'est une hérésie christologique, qui présente Jésus-Christ comme un mélange entre divin et humain",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "C'est une hérésie christologique, qui présente Jésus-Christ comme une créature, comme un homme, bien que parfaitement uni à Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Il croit que l'homme peut accomplir tous les commandements avec seulement la grâce de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Il croit que l'homme peut accomplir tous les commandements de Dieu sans sa grâce.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "C'est une doctrine athée qui nie l'existence de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "La grâce est un don surnaturel de Dieu le Père accordé à l'homme pour accomplir des actes surnaturels et agit en lui, et sans elle, l'homme est enclin au mal à cause de sa nature blessée par le péché originel.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "La grâce est un don surnaturel de Dieu le Père qui aide l'homme en agissant en dehors de lui parce que l'homme n'est pas blessé par le péché originel",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "La grâce est un don surnaturel de Dieu le Père accordé à l'homme seulement à certains choisis par Dieu, parce que l'homme est corrompu par le péché originel.",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "que le péché est commis seulement par Adam",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Tous les hommes sont impliqués dans le péché d'Adam et à cause de cela, la mort est entrée dans le monde.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Que le péché implique tous les hommes mais n'a entraîné aucune conséquence",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, et donc blessée dans ses forces naturelles.",
+        "risultato": true
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, et donc corrompue dans ses forces naturelles.",
+        "risultato": false
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Dans la privation de la sainteté et de la justice originelles, mais non blessée dans ses forces naturelles.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Dans le sens où l'on pense toujours à ses propres péchés.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Dans le sens où c'est une disposition générale qui nous dispose toujours à l'amélioration de notre âme.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Dans le sens où l'on examine sa propre conscience comme une habitude.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Dans le sens où il nécessite un temps spécifique et a des règles précises pour son exécution.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Dans le sens où c'est une routine, comme la répétition d'actes mécaniques.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Dans le sens où les puissances de l'âme sont en activité.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Distribuer le travail en trois moments fondamentaux : le matin, à midi, à la fin de la journée.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Revoir la conscience à la fin de la journée dans le but de s'amender.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Voir d'heure en heure si je suis tombé dans le défaut et faire attention à ne plus le commettre.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Prier en demandant l'aide de Dieu pour le bon déroulement de la journée",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Déterminer avec précision le propos spirituel personnel et demander l'aide de Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Prendre une ferme résolution pour être fidèle à mon objectif",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Une simple prière demandant la persévérance dans le propos",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Me repentir si je me souviens d'être tombé pendant la matinée",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Me rappeler combien de fois j'ai manqué au propos et le noter. Renouveler le propos.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Il faut refaire l'examen en revoyant cette fois les manquements que j'ai commis depuis midi jusqu'à ce moment.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Un examen de conscience minutieux de toute la journée.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Revoir rapidement tout ce qui s'est passé dans la journée pour me repentir et si je me souviens de ne pas avoir accompli le propos.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Sur tous les péchés dans lesquels je tombe habituellement.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Sur quelque chose de bien déterminé, concret, particulier, du défaut dominant.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Sur toutes mes mauvaises inclinations.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "C'est ce qui me rend moins libre parce qu'il me domine.",
+        "risultato": false
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "C'est le défaut qui me conduit à commettre plus de péchés, surtout d'affection.",
+        "risultato": true
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "C'est le plus grave et cela me fait plus honte",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Parce que personne ne peut le comprendre comme personne ne peut comprendre l'homme lui-même.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Parce qu'il lui révèle son être transcendant",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Parce qu'il n'a pas d'explication, ou n'existe pas, c'est simplement un concept.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Celui qui est capable de donner un sens à la souffrance",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Les stoïciens",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Celui qui cherche à nier la souffrance",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Personne",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "C'est seulement pour le châtiment des méchants.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "La souffrance est une conséquence du péché et du désordre que laisse le péché et a un sens comme réparation et rédemption.",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Que le Christ n'a pas suffisamment souffert",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Que le Christ est le Chef des membres de l'Église, si le Chef a souffert, les membres de l'Église doivent aussi « souffrir » et « compléter »",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Que nous devons payer pour nos péchés parce que la Rédemption n'était pas achevée.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Non",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Difficilement et seulement les saints",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Oui, lorsque nous donnons un sens rédempteur à nos souffrances",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Ce n'était pas son premier plan. Elle est entrée dans le monde après le péché d'Adam. Dieu permet la souffrance physique et morale comme voie de pénitence pour l'expiation du péché et pour le salut.",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Oui, pour que l'homme apprenne de la souffrance.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Parfois et seulement pour certains",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Elle est absurde",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Dieu rend toujours justice à l'innocent. Jésus et Marie furent les plus innocents dans ce monde et souffrirent plus que tous les hommes, mais par amour et ainsi ils ont vaincu le mal.",
+        "risultato": true
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Certains souffrent pour d'autres comme compensation des maux du monde.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Oui, souvent.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Oui. Personne ne peut comprendre la souffrance de l'autre.",
+        "risultato": false
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Non. Le même acte d'Amour du Christ sur la Croix unit nos souffrances à celles du Christ.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Oui, c'est un choix libre pour ceux qui le veulent.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Oui, c'est pour ceux qui ont le temps.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Non. C'est nécessaire. Si nous ne prions pas, nous n'avons pas la vie de Dieu en nous.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "C'est une demande à Dieu pour les besoins que nous avons, que nous faisons de temps en temps dans la vie.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "C'est l'élévation de l'esprit à Dieu pour le louer et lui demander des choses convenables pour le salut éternel.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "C'est parler à Dieu seulement quand nous avons des consolations.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Non, parce qu'il était Dieu, ce n'était pas nécessaire pour lui.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Non, parce qu'il n'en avait pas besoin.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Oui, et ses disciples lui ont demandé de leur apprendre à prier comme lui.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Non, nous pouvons être sauvés sans prier.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Oui, celui qui ne prie pas ne sera pas sauvé.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Non, il suffit d'être bon.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Seulement un nous éloigne du péché.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Oui, beaucoup: éloigne du péché, augmente l'Amour, fait connaître la Volonté de Dieu, donne de la force, etc.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Non, cela ne donne aucun fruit.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Une, la vocale. Par exemple l'Ave Maria, le Notre Père.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Deux: la vocale, et la méditation.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Trois: vocale, méditation et contemplation.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Non, il n'y a pas de conditions, ce sera bon.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Oui, il suffit qu'elle soit faite avec confiance.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Oui, elle doit être humble, persévérante et confiante.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Oui, elle le sera toujours.",
+        "risultato": false
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Non, nous pouvons avoir des périodes de sécheresse et d'aridité dans la prière.",
+        "risultato": true
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Non, elle sera toujours aride.",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "À une vie de succès et plus sûre selon la mentalité de ce monde",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "À la mort à nous-mêmes nécessaire et féconde pour produire des fruits qui valent pour la vie éternelle.",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "À connaître le vrai rôle de la femme dans la société",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "La connaissance et l'amour de la Très Sainte Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "La connaissance de nous-mêmes",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Le mépris de l'esprit du monde",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "La sainteté et l'élévation de la personne",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Une idée sublime de nous-mêmes",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Connaître nous-mêmes notre fond mauvais, notre corruption et notre incapacité à tout bien",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Mépriser les dons reçus de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Haïr le désordre que nous avons en nous à cause du péché",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Désespérer en voyant nos péchés",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "La connaissance de nous-mêmes",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Le mépris du monde",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "La remise totale de nous-mêmes à la Vierge Marie (âme et corps)",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Oui, parce que même les meilleures intentions sont entachées par mon fond mauvais dû au péché",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Non, parce qu'il suffit d'avoir de bonnes intentions.",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Non, si je suis en état de grâce",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Attendre d'être parfait pour pratiquer de bonnes actions",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Cela signifie douter de mes actions et intentions même si elles semblent bonnes et prier immédiatement la Vierge Marie et Jésus pour qu'ils corrigent mes intentions 'tordues'",
+        "risultato": true
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Ne pas se mettre dans des situations dangereuses",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Aucun, parce que je suis une bonne personne",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Aucun danger parce que je suis content d'être comme je suis",
+        "risultato": false
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui. Le grand danger sera que je ne me viderai pas de moi-même et que je ne me remettrai pas totalement à la Vierge Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Il est nécessaire pour développer une dévotion moins superficielle et scrupuleuse.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Pour créer en nous la disposition intérieure à la générosité envers la Vierge Marie, à un don actif, une remise pleine et joyeuse.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Il est utile pour augmenter notre docilité aux motions du Saint-Esprit.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Il lui promet l'aide pour vivre toujours en état de grâce et son assistance maternelle à l'heure de la mort.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Marie obtient de son Fils bien-aimé pour cette âme toutes les vertus dont elle-même a été ornée.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Elle répond par le don ineffable de tout son être. Elle submerge celui qui se donne à elle dans l'abîme de ses grâces, l'orne de ses mérites, le soutient par sa puissance, l'éclaire de sa lumière, l'enflamme de son amour, lui communique ses vertus. (TVD 44)",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Parce que le Seigneur n'agit dans l'âme que lorsqu'elle est totalement dégagée d'obstacles et entièrement à lui. Dieu manifeste sa volonté par la loi morale, qui s'adresse à l'intelligence mais respecte la liberté.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Par le don de soi, l'homme met en œuvre toutes les puissances de l'âme.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Sans le don de soi, le Créateur ne peut influencer le libre arbitre de la créature pour lui faire obéir à ses commandements.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Inviolable, immuable et indéterminé.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Absolu, indéterminé, souvent renouvelé.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Il est réalisé une fois pour toutes, il est absolu et total.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Parce que l'âme, déjà dans l'union transformante, ne peut plus pécher.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Parce que nous montrons plus d'amour en cherchant des formules poétiques pour exprimer les sentiments les plus délicats pour nos remises.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "L'amour tend à cette perte de soi-même en celui qu'il aime; il y trouve sa satisfaction et sa plénitude. La charité qui est en nous trouve sa plénitude et sa perfection lorsque, ayant tout conquis en nous, elle peut tout rapporter à Dieu.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "La miséricorde divine ne peut pas ne pas répondre à une âme qui s'abandonne ainsi à la grâce du Christ. Car c'est l'amour qui se penche irrésistiblement sur la pauvreté qui l'invoque.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Parce que, en un certain sens, l'âme doute de la miséricorde divine.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Car, même avec nos péchés, elle oblige Dieu à être miséricordieux envers nous.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Non, parce que nous ne pouvons faire le don de nous-mêmes qu'à Dieu.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Oui, parce que la consécration à Marie, et même son renouvellement, est un acte de parfaite charité envers Dieu et sa Divine Mère. Et chaque exercice de la vie mariale qui se réalise dans cet esprit revêt la valeur de la charité parfaite.",
+        "risultato": true
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Non, parce que la consécration à Marie n'est pas un acte de charité parfaite.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Dieu remplit cette âme de biens, la conquérant puis la purifiant dans la nuit obscure.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "L'acceptation de Jésus comme unique Seigneur et Sauveur, et donc déjà dans cette vie, on reçoit le centuple, une vie prodigieuse sans souffrances.",
+        "risultato": false
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Les effets sont l'union et l'identification avec le Christ.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Connaître Marie et inspirer en nous l'estime pour elle, et le désir de nous donner complètement entre ses mains.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Nous connaître nous-mêmes, et seulement cela.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Connaître la réalité du péché et le mal dans le monde, et seulement cela.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Parce qu'il est très ancien.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Parce qu'il a apporté tant de fruits de grâce, de conversion, de guide pour les saints.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Parce qu'il a été traduit en plus de 40 langues différentes.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Le Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Les apparitions de Marie dans le monde Fatima, Lourdes, etc.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Nous-mêmes, dans nos expériences.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Seulement ses vertus.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Le rôle de la femme dans le monde.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "L'action de Dieu en elle.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Oui, elle est Dieu comme le sont les Personnes de la Très Sainte Trinité.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Non, elle est une créature de Dieu, mais Dieu a voulu que tout dépende d'elle.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Non, elle est un ange envoyé par Dieu.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Elle n'est pas nécessaire, la dévotion à la Vierge Marie est simplement un choix personnel.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Elle n'est pas nécessaire, la Sainte Écriture ne parle pas de cette nécessité.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Oui, personne ne peut atteindre Dieu sans une grande union avec la Sainte Vierge. (La Sainte Écriture le prouve TVD 9-4)",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Parce que Jésus-Christ est venu il y a deux mille ans.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Parce qu'il n'existe pas suffisamment de livres qui parlent de lui.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Parce que Marie a été jusqu'à présent inconnue.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Oui, son règne est principalement à l'intérieur de l'homme.",
+        "risultato": true
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Non, seulement Jésus est Roi.",
+        "risultato": false
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui, son règne est dans le ciel.",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Ceux qui ont peur d'avoir péché contre la Vierge Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Ceux qui pensent qu'honorer la Vierge Marie est une offense à Jésus",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Ceux qui font de la dévotion mariale quelque chose d'extérieur",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Si elle est exagérée, oui",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Non, car on ne peut jamais exagérer dans la louange de Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Non, car Marie doit aussi être adorée comme Dieu lui-même",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Ceux qui, sous l'apparence d'une foi droite, entravent injustement la dévotion à la Vierge Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Ceux qui critiquent les autres personnes",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Ceux qui sont critiqués par les autres",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Marie est le moyen le plus efficace et le plus sûr pour arriver à Jésus, qui est notre Fin",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Marie est également adorable, comme la Très Sainte Trinité",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Marie est une aide, comme celle des autres saints",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Oui, il suffit d'être uni directement à Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Non. Marie est un moyen, mais nécessaire, non optionnel, car c'est ainsi que Dieu l'a voulu",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Oui, Marie est un instrument dont il faudra aller au-delà",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "En l'affirmant comme 'Mère de Dieu'",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "En l'appelant 'secours des chrétiens'",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "En l'appelant 'Tour de David'",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Dans le meurtre d'Abel",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Dans la création d'Ève",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "En disant 'faisons à l'homme une aide semblable'",
+        "risultato": true
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Dans le sens où ses mérites sont aussi des mérites divins",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "On ne peut pas le dire car seul le Christ est rédempteur",
+        "risultato": false
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Dans le sens où nous collaborons tous à la rédemption, mais elle d'une manière tout à fait spéciale",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Quand on aime la personne dont on se dit esclave",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Cela ne se comprenait que à l'époque de Saint Louis-Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Il faut absolument la changer par 'amitié'",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Esclavage d'amitié et filial",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Esclavage du pécheur vers la libération",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Esclavage maternel d'amour",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Parce qu'il consiste à 'se donner par amour et pour toujours'.",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Parce que le pécheur doit s'humilier devant la Vierge Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Parce qu'on offrira tous les mérites des bonnes œuvres à elle",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Pour augmenter l'humilité à travers un mot humiliant",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Pour éviter que cela consiste à recevoir les bienfaits de Marie et non à lui appartenir",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Parce que c'était ainsi compris au Moyen Âge",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Que cela n'a pas d'importance si on est fidèle ou non, il suffit de se consacrer",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Que cela consiste à se donner à Marie, sans autre intérêt que de lui appartenir, même s'il y a aussi d'autres biens",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Que nous ne nous intéressons pas aux biens spirituels qui en découlent",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Il faut se donner entièrement sans rien épargner",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Il faut offrir en don quelques pratiques chaque jour",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Il faut donner une aumône le jour de la consécration",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Cela signifie que cette consécration se perd seulement avec la mort",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Cela signifie qu'elle ne se perd même pas avec la mort mais dure pour l'éternité",
+        "risultato": true
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Cela signifie que chaque fois que je le pourrai, j'offrirai ce que je suis et ce que je possède",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Oui, c'est lui qui l'a inventée",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Non, le Traité se fonde sur d'autres auteurs avant lui",
+        "risultato": false
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "La manière dont il présente la consécration est originale, mais il la trouve pratiquée par de nombreux saints avant lui",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Oui, certains sont plus dévots de Marie que de Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Non, il existe des déformations de la dévotion, mais on ne peut pas exagérer si la dévotion est vraie",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Oui, il faut contrôler et être très critique pour ne pas avoir une dévotion excessive",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Quand on s'attache plus à Marie qu'à Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Quand elle fait rester dans le péché",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Quand on pense et dédie trop de prières mariales et peu à Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Ceux qui pensent que la dévotion ajoute trop d'engagements",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Ceux qui doutent que la consécration soit inspirée par le Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Ceux qui pensent que la dévotion mariale s'oppose à la dévotion à Jésus",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Ceux qui portent une petite chaîne de la Vierge Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Ceux qui font des chants, des autels et d'autres pratiques extérieures",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Ceux qui s'attachent à ce qui est sensible pour la dévotion",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Ceux qui justifient leurs péchés avec cette dévotion",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Ceux qui ont trop confiance dans l'intercession de Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Ceux qui se présentent comme des saints pour leur consécration",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Ceux qui ne font pas toutes les étapes pour bien se consacrer",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Ceux qui oublient de dire le Rosaire ou l'Angélus",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Ceux qui embrassent toutes les dévotions mariales mais sans atteindre la substance",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Elle consiste à ressentir et éprouver des sentiments de tendresse envers la Vierge Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Parce qu'elle pousse à être tendre avec les gens",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Parce que c'est la relation qu'un enfant a avec sa mère",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Elle n'a aucune obligation d'œuvres extérieures",
+        "risultato": false
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Parce qu'elle naît de l'estime et de l'amour pour la Vierge Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Parce qu'elle est faite pour les humbles que le monde n'apprécie pas",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Non, car cette dévotion doit être désintéressée",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Oui, car bien qu'elle consiste en amour, elle consiste aussi en espérance",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Oui, en effet, la raison principale de se consacrer est son utilité",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Non, ce sont deux personnes différentes et aimer l'une signifie aimer moins l'autre",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Oui, en effet, c'est Jésus lui-même qui la choisit comme moyen, alors c'est une aide",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Non, le Christ est le seul Sauveur, lui seul mérite mon adoration",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Oui, le Christ est vrai homme mais aussi vrai Dieu, donc nous avons besoin de médiateurs auprès du Médiateur",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Non, le Christ est un homme comme nous. Il suffit qu'il soit Médiateur",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Non, car cela pourrait être une dévotion excessive et entraver l'union avec Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Le premier est le baptême, le deuxième est la communion et le troisième est la confirmation",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Le premier est l'humilité, le deuxième la foi, le troisième la charité",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Le premier est Marie, le deuxième est Jésus, le troisième est Dieu le Père",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "C'est impossible avec nos forces, seulement avec l'aide de Marie nous conservons la grâce",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "C'est possible si nous faisons souvent un examen de conscience",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "C'est possible si nous nous éloignons des occasions de péché",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Servir Marie nous assure de servir Dieu",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Il convient de servir les deux mais d'abord Dieu et ensuite, dans une moindre mesure, Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Sans Marie, nous nous assurons de la bonne intention de servir Dieu seul. Il ne convient pas de lui être dévot",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Saint Louis-Marie Grignion de Montfort",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "En Jésus lui-même",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Dans les Apôtres",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Parce qu'on offre au prochain tous les mérites des bonnes œuvres",
+        "risultato": true
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Parce qu'on donne un exemple de dévotion mariale",
+        "risultato": false
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Parce qu'on commande une aumône le jour de la consécration elle-même",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Parce qu'on ne vit pas les pratiques intérieures de la dévotion",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Parce qu'on ne vit pas les pratiques extérieures de la dévotion",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Parce qu'on n'est pas assez bien préparé",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Faire tout par Marie, avec Marie, en Marie, pour Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Aimer et servir en tout",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Dans les mots esclavage maternel d'amour",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "De la Bible",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "De la doxologie finale de la Sainte Messe",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "D'un ancien auteur marial",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "C'est renouveler souvent l'aspect marial de l'obéissance et de ce que nous faisons pour le Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "C'est faire une prière à la Vierge Marie avant les œuvres",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "C'est faire tout en ayant un signe extérieur de la Vierge Marie (petite chaîne, scapulaire)",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Cela signifie ressentir la compagnie de Marie dans ma vie",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Cela signifie prendre Marie comme modèle des vertus que je dois imiter",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Cela signifie que je dois utiliser Marie comme un instrument pour mieux faire les œuvres de piété",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Cela signifie l'union intérieure d'amour avec Marie, qui se traduit par une prière d'intimité",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Cela signifie que je ne peux rien faire avant de faire une prière à Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Cela signifie que Marie est présente en moi comme la grâce de Dieu est présente",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Cela signifie que les mérites de mes bonnes œuvres lui sont offerts",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Cela signifie que je ne peux plus prier pour ceux qui me le demandent",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Cela signifie que je ne dois rien faire, mais seulement attendre que les desseins de la Vierge Marie se réalisent",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Non, la dévotion est intérieure et les extérieures lui sont un obstacle",
+        "risultato": false
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Oui, elles aident celles intérieures dans lesquelles consiste la consécration",
+        "risultato": true
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui, donc il faut ajouter des obligations d'œuvres extérieures pour mieux vivre les pratiques intérieures",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Parce que plus l'œuvre de Satan avance, plus la prophétie du livre de la Genèse selon laquelle la 'Femme' doit l'écraser doit s'accomplir",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Parce que nos temps sont plus sensibles et Marie inspire de meilleurs sentiments",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Parce que c'est plus beau",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "C'est un style purement mythologique et symbolique",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "C'est le style figuratif par lequel une vérité historique est racontée avec des éléments symboliques",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "C'est un style uniquement historique",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Satan veut qu'ils tombent, comme lui-même est tombé, en niant l'Incarnation",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Il veut seulement qu'ils mangent une pomme parce que c'était un commandement",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Il veut les faire tomber dans le péché de gourmandise",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "La pomme est la connaissance du bien et du mal qu'Adam veut savoir",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "La pomme est l'obéissance même due à Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "La pomme est le Christ, Adam veut prendre sa place en la cueillant",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Elle représente la solidité de la sagesse, comme tout arbre",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Elle représente Marie, de laquelle est né Jésus, comme de l'arbre naît la pomme",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Elle représente le royaume des cieux futur",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Le mystère de l'Incarnation",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Le mystère de la Résurrection",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Le mystère de la Pentecôte",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Par la loi de la pénitence et de la restitution",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Par la loi de la rétorsion : Jésus et Marie prendront la place d'Adam et Ève",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Par la loi de l'amour : il les pardonnera sans tenir compte de ce qu'ils ont fait",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Quand il l'appelle 'Femme' comme Ève avant le péché",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Quand il la considère comme Mère",
+        "risultato": false
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Quand aux noces de Cana il commande de faire ce qu'il dira",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La Passion",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Noël à Bethléem",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "L'Incarnation",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Détruire l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Diminuer la dignité du Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Enlever la paix intérieure",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Une",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Deux",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Trois",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Une",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Deux",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Trois",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Oui",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Non",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Il existe deux personnes humaines en Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Dieu est mort sur la croix",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Jésus en tant qu'homme ne savait rien de la Divinité",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Les paroles humaines du Christ sont des paroles de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Elle règle toutes nos relations humaines et surnaturelles",
+        "risultato": true
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Elle fait mieux connaître la réalité des anges",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Elle nous aide à mieux comprendre la malice du péché",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Amour pour la tradition de l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Ce sont un moyen d'avoir plus de respect et de recueillement",
+        "risultato": false
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Ce sont un pont entre la sainteté de Dieu et notre humanité",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Seulement pour célébrer les messes",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Seulement pour écouter les confessions",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Pour prêcher la vérité et administrer les sacrements",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Un homme impie qui attirera beaucoup par des mensonges",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Ce sera le démon incarné",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "C'est une figure représentative du mal dans ce monde",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Ceux qui n'aiment pas la vérité",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Ceux qui n'aiment pas l'autorité de l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Ceux qui ne veulent pas accomplir les commandements",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Quand elle est dite par un évêque l'appliquant à tout le diocèse",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Quand elle est dite par tous les cardinaux",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Quand elle est dite solennellement par le Pape, en matière de foi et de morale",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Dans leur vie vertueuse",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Dans la doctrine des Apôtres, dont ils sont les successeurs",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Dans leur intelligence et leur connaissance",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "C'est un signe graphique des premiers chrétiens",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "C'est un résumé des vérités de foi, à la portée de tous les fidèles",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "C'est une manière de représenter l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Une préparation pour la Première Communion",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Un texte utile pour comprendre le Concile Vatican II",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Une liste des vérités de foi essentielles",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Avoir une sorte de vade-mecum pour avoir une vue d'ensemble du Catéchisme",
+        "risultato": true
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Un moyen d'expliquer le Catéchisme aux enfants",
+        "risultato": false
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Une forme d'explication aux personnes plus simples",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La Sainte Messe",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Le martyre",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Le jeûne",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "On se souvient que Jésus est mort pour nous",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "On reçoit la communion sacramentelle",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "On rend présents à notre époque les mérites du Christ",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Elle vaut la grâce de pouvoir communier",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "De pouvoir écouter la Parole de Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Elle vaut autant que la mort du Christ sur la Croix",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "En étant enfant de chœur",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "En assumant les mêmes sentiments que Jésus dans sa Passion",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "En étant très attentif à toutes les prières",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Pour l'union avec le Cœur du Christ dans la Passion",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Pour la possibilité de suivre attentivement chaque mouvement",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Quand on paie la messe pour une intention personnelle",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "En préparant Marie en moi pour qu'elle accueille Jésus",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "En pensant souvent à l'éternité",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "En pensant souvent à la Passion, à la Mort et à la Résurrection de Jésus",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Reconnaître sa propre indignité et demander l'aide de Marie",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Demander à Marie de me réjouir pour le don que je reçois",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Parler avec Marie et Jésus en demandant les grâces dont j'ai besoin",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Prendre la résolution de bien vivre la consécration mariale",
+        "risultato": false
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Introduire Jésus dans le cœur de Marie et les contempler",
+        "risultato": true
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Lire un passage de la Bible",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Susciter un amour réel et solide pour le Seigneur",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Avoir de la douleur pour ses propres péchés",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Faire pénitence",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Faire des actes intérieurs et extérieurs d'amour pour Lui",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Contempler son amour pour moi dans la Passion",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Contempler comment les saints ont aimé Jésus Crucifié",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Oui",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Non",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Il le savait seulement d'après ce qui était rapporté dans les prophéties",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Participer à la Dernière Cène avec ses disciples",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Prêcher dans le Temple avant la Passion",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Obéir au Père qui voulait l'offrir comme Victime",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Nous enseigner le mépris de la vie terrestre",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Démontrer au peuple l'hypocrisie des pharisiens",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Guérir nos plaies dans les siennes",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Sainte Marguerite-Marie Alacoque",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Saint Jean Apôtre",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Saint Louis-Marie Grignion de Montfort",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "'Mon Cœur triomphera, je régnerai malgré tous mes ennemis'",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "'Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos'",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "'Je suis le Chemin, la Vérité et la Vie'",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "C'est un moyen de rendre visible à ceux qui entrent leur propre foi",
+        "risultato": false
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "C'est le moyen de donner une autorité paternelle à l'Amour de Jésus",
+        "risultato": true
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "C'est un symbole religieux pour élever l'esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Non, il a promis de rester toujours avec nous",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Non, même s'il ne sera pas sur terre, du Ciel il continuera à nous voir",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Oui, quand il dit 'Je vais vers le Père', cela signifie qu'il ne sera plus là",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Comme il est présent dans l'Eucharistie",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Il est présent seulement en tant que Saint-Esprit",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Il est présent tout entier, par l'action du Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Oui",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Non",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Il a promis que seul le Saint-Esprit viendrait",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Que Jésus sera avec les Apôtres pour un temps, mais qu'il partira bientôt",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Qu'il sera de nouveau présent bien qu'il ne soit pas vu avec les yeux du corps",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Que les apôtres ne devaient pas le déranger",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Oui",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Non",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "On peut dire que seul le Saint-Esprit est présent",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Les apparitions de Jésus ressuscité",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Dans la multiplication des pains",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Dans la résurrection de Lazare",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Dans les situations de croix où nous éprouvons le réconfort de la foi",
+        "risultato": true
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Dans les émotions et les sentiments élevés que nous éprouvons parfois",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Nous le trouvons seulement chez les autres, surtout chez ceux qui souffrent",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "On ne peut pas être sûr",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Par certains signes sensibles, certains bons sentiments",
+        "risultato": false
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Par la foi, nous sommes certains de sa présence, même si nous ne la ressentons pas",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "La connaissance des auteurs spirituels",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "La connaissance de la Personne de Jésus-Christ",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "La connaissance de l'Apocalypse",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Qu'il a temporellement divisé l'histoire avant et après sa naissance",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Que tous les événements avant et après sa naissance s'accomplissent vraiment en Lui",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Que lorsque l'on étudie l'histoire, il faut commencer par sa vie",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Saint Paul",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Saint Ambroise",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Saint Augustin",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Dans le sens d'être fils d'Ève, comme Jésus de Marie",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Dans le sens d'avoir été tué par envie par ses propres frères",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Dans le sens d'offrir des sacrifices agréables à Dieu",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Dans le sens de parler face à face avec Dieu, comme Jésus avec le Père",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Dans le sens d'avoir tué un Égyptien, ainsi Jésus détruira Satan",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Dans le sens de législateur de l'Ancienne Alliance, Jésus sera législateur de la Nouvelle Loi de l'amour",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Il se tait et attend, pour revenir un jour donner à chacun selon ses œuvres",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Cela ne l'intéresse pas, s'étant déjà offert au Père, il ne reste plus rien à faire",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Il venge et punit chaque péché",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Oui, tout comme il a droit sur les cœurs, il a droit sur les œuvres extérieures pour les guider",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Non, cela appartient à la politique et il ne faut pas le mélanger avec la foi",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Oui, il faut obliger tout le monde à être catholique par la loi",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Que nous devons arrêter de faire des œuvres et nous mettre à prier",
+        "risultato": false
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Que le mal rendra encore plus grande la victoire de Jésus quand il reviendra",
+        "risultato": true
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Que Satan a le dessus sur l'Église",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 1,
+        "idRisposta": 1,
+    "risposta": "Non, il faut être décidé à la vivre de la meilleure façon, mais on n'est jamais parfaitement prêt",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 1,
+        "idRisposta": 2,
+    "risposta": "Oui, sinon c'est se rajouter un poids qu'on ne pourra pas porter",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 1,
+        "idRisposta": 3,
+    "risposta": "Non, il n'est même pas nécessaire de savoir de quoi il s'agit, il suffit d'accepter la consécration",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 2,
+        "idRisposta": 1,
+    "risposta": "Oui, personne n'adopte une spiritualité s'il ne la connaît pas bien",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 2,
+        "idRisposta": 2,
+    "risposta": "Non, il suffit d'avoir une idée générale de ce que l'on offre, puis on apprend de nouvelles choses avec la pratique",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 2,
+        "idRisposta": 3,
+    "risposta": "Oui, il faut être prudent et ne pas faire un pas si grand avant d'être totalement sûr",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 3,
+        "idRisposta": 1,
+    "risposta": "Dévotion à Saint Louis-Marie Grignion de Montfort",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 3,
+        "idRisposta": 2,
+    "risposta": "Dévotion à l'Archange Gabriel",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 3,
+        "idRisposta": 3,
+    "risposta": "Dévotion au Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 4,
+        "idRisposta": 1,
+    "risposta": "Non. On se consacre parce qu'on se comprend pécheur, non pour se considérer déjà digne",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 4,
+        "idRisposta": 2,
+    "risposta": "Oui, Saint Louis-Marie dit que c'est un don trop grand et que tout le monde n'en est pas digne",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 4,
+        "idRisposta": 3,
+    "risposta": "Oui, sinon c'est un acte d'orgueil",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 5,
+        "idRisposta": 1,
+    "risposta": "Non, il faut être décidé à la vivre de la meilleure façon, mais on n'est jamais parfaitement prêt",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 5,
+        "idRisposta": 2,
+    "risposta": "Oui, sinon c'est se rajouter un poids qu'on ne pourra pas porter",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 5,
+        "idRisposta": 3,
+    "risposta": "Non, il n'est même pas nécessaire de savoir de quoi il s'agit, il suffit d'accepter la consécration",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 6,
+        "idRisposta": 1,
+    "risposta": "Oui, personne n'adopte une spiritualité s'il ne la connaît pas bien",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 6,
+        "idRisposta": 2,
+    "risposta": "Non, il suffit d'avoir une idée générale de ce que l'on offre, puis on apprend de nouvelles choses avec la pratique",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 6,
+        "idRisposta": 3,
+    "risposta": "Oui, il faut être prudent et ne pas faire un pas si grand avant d'être totalement sûr",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 7,
+        "idRisposta": 1,
+    "risposta": "Dévotion à Saint Louis-Marie Grignion de Montfort",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 7,
+        "idRisposta": 2,
+    "risposta": "Dévotion à l'Archange Gabriel",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 7,
+        "idRisposta": 3,
+    "risposta": "Dévotion au Saint-Esprit",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 8,
+        "idRisposta": 1,
+    "risposta": "Non. On se consacre parce qu'on se comprend pécheur, non pour se considérer déjà digne",
+        "risultato": true
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 8,
+        "idRisposta": 2,
+    "risposta": "Oui, Saint Louis-Marie dit que c'est un don trop grand et que tout le monde n'en est pas digne",
+        "risultato": false
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 8,
+        "idRisposta": 3,
+    "risposta": "Oui, sinon c'est un acte d'orgueil",
+        "risultato": false
+    }
+]

@@ -1,0 +1,23 @@
+[
+  {
+	"id " : 1,
+   "email" : "angela@regeomaria.org",
+	"nome" : "Angela",
+	"cognome" : "Rossi",
+	"sesso" : "F",
+	"dataNascita" : 19550415,
+	"citta" : "Viterbo",
+	"telefono" : "3335464748",
+	"skype" : ""
+	},
+	{	"id " : 2,
+   "email" : "Angelo@regeomaria.org",
+	"nome" : "Angelo",
+	"cognome" : "Bianchi",
+	"sesso" : "M",
+	"dataNascita" : 19750415,
+	"citta" : "Siena",
+	"telefono" : "3335455548",
+	"skype" : ""
+	} 
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "sezioneId": 1,
+        "id": 1,
+        "titolo": "Une consécration pour les âmes généreuses",
+        "descrBreve": "Cher frère, chère sœur, quel que soit ton nom, tu es invité à cette préparation pour te consacrer à Marie dans une maternité d'amour, selon l'enseignement de Saint Louis-Marie Grignion de Montfort.",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/fr/texts/catechesi1.md",
+        "videoId": "EsXaevmgT1g",
+        "pdfId": "assets/lang/fr/pdf/catechesi1.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 2,
+        "titolo": "Comment est Dieu?",
+        "descrBreve": "« L'homme est créé pour louer, révérer, servir Dieu et ainsi sauver son âme » (Saint Ignace de Loyola). Mais comment est Dieu? Qu'implique-t-il de le considérer comme Père? Comment dois-je me comporter envers Lui?",
+        "imageId": "assets/images/mamma3.png",
+        "testoId": "assets/lang/fr/texts/catechesi2.md",
+        "videoId": "2DDnrr8vHcI",
+        "pdfId": "assets/pdf/catechesi2.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 3,
+        "titolo": "La Gloire de Dieu, sens de la vie",
+        "descrBreve": "'En glorifiant le Seigneur, exaltez-le autant que vous pouvez, car Il sera encore plus élevé. En l'élevant, multipliez votre force, ne vous fatiguez pas, car vous ne finirez jamais. Qui L’a contemplé et Le décrira? Qui peut Le magnifier comme Il est ?' (Sir 43,30)",
+        "imageId": "assets/images/magi.png",
+        "testoId": "assets/lang/fr/texts/catechesi3.md",
+        "videoId": "tmDJp1L9GVs",
+        "pdfId": "assets/pdf/catechesi3.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 4,
+        "titolo": "Le sens du péché",
+        "descrBreve": "Les occasions importantes de la vie exigent une préparation sérieuse. De la même manière que tu te prépares pour une fête en t'habillant dignement, propre et parfumé, tu devras réaliser ta consécration à la Vierge avec un vêtement intérieur digne, pur et parfumé.",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/fr/texts/catechesi4.md",
+        "videoId": "GNT4Lvd7qNo",
+        "pdfId": "assets/pdf/catechesi4.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 5,
+        "titolo": "Le salut éternel",
+        "descrBreve": "L’éternité est la véritable Vie pour laquelle nous avons été créés. La pensée de l’éternité forme les grands saints de notre époque.",
+        "imageId": "assets/images/discesainferi.png",
+        "testoId": "assets/lang/fr/texts/catechesi5.md",
+        "videoId": "H4cSiOgU1AE",
+        "pdfId": "assets/pdf/catechesi5.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 6,
+        "titolo": "L'esprit du monde",
+        "descrBreve": "Après avoir rappelé les vérités essentielles de notre foi, il est temps aujourd'hui de considérer ce « monde » duquel nous devons nécessairement nous libérer si nous voulons arriver à Jésus par Marie.",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/fr/texts/catechesi6.md",
+        "videoId": "ft3ZwLcWRuA",
+        "pdfId": "assets/pdf/catechesi6.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 7,
+        "titolo": "L'esprit des béatitudes",
+        "descrBreve": "Le Seigneur a donné le secret de la vie heureuse dans le sermon sur la montagne, où Il proclama les « béatitudes ». Ainsi, Il prononça le discours le plus révolutionnaire de tous les temps.",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/fr/texts/catechesi7.md",
+        "videoId": "iNuWZsqsMqw",
+        "pdfId": "assets/pdf/catechesi7.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 8,
+        "titolo": "Méditation des deux drapeaux",
+        "descrBreve": "La doctrine de l'Évangile n'est pas seulement différente, mais diamétralement opposée à celle du monde. Le contraste ne pourrait être plus clair : « le monde me haït » ; « vous serez haïs aussi » mais « ayez confiance : j'ai vaincu le monde » (cf. Jn 15,18-19). Dans quel sens parle-t-on du 'monde' comme contraire à Christ ?",
+        "imageId": "assets/images/duebandiere.png",
+        "testoId": "assets/lang/fr/texts/catechesi8.md",
+        "videoId": "tPMkvhHHnQ8",
+        "pdfId": "assets/pdf/catechesi8.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 9,
+        "titolo": "Sagesse évangélique et folie mondaine",
+        "descrBreve": "Les « règles pour un bon choix » de Saint Ignace sont un véritable secours pour que chaque choix soit fondé en Dieu pour Sa plus grande gloire et le salut de notre âme.",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/fr/texts/catechesi9.md",
+        "videoId": "DuqkveUg_oM",
+        "pdfId": "assets/pdf/catechesi9.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 10,
+        "titolo": "La présence de Dieu dans l'âme",
+        "descrBreve": "Les réalités surnaturelles, même si nous ne les connaissons pas de manière sensible, sont ce qu'il y a de plus réel dans notre vie. La vision que Dieu a de ma réalité est plus réelle que ce que je peux voir avec mes limites. Seule la foi me permet de trouver Dieu réellement présent en moi.",
+        "imageId": "assets/images/annunc2.png",
+        "testoId": "assets/lang/fr/texts/catechesi10.md",
+        "videoId": "rq3KbtnknAI",
+        "pdfId": "assets/pdf/catechesi10.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 11,
+        "titolo": "La présence de Dieu dans l'âme II",
+        "descrBreve": "Vivre de l'Esprit signifie avant tout reconnaître la présence de Dieu dans l'âme. Cette présence est ce que l'on appelle « l’Inhabitation Trinitaire ». Le nom même est indicatif : c’est la Sainte Trinité véritablement présente dans mon âme par la grâce.",
+        "imageId": "assets/images/annunc5.png",
+        "testoId": "assets/lang/fr/texts/catechesi11.md",
+        "videoId": "OC1szSxOZdc",
+        "pdfId": "assets/pdf/catechesi11.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 12,
+        "titolo": "La culture de la vie et la culture de la mort",
+        "descrBreve": "Nous sommes face à un « bras de fer planétaire ». Ce « bras de fer » n’est pas physique mais spirituel, idéologique. Deux forces se disputent : la transcendance contre l’immanence. La religion contre l’humanisme athée, la Vierge contre Satan.",
+        "imageId": "assets/images/nascita.png",
+        "testoId": "assets/lang/fr/texts/catechesi12.md",
+        "videoId": "FQs1CbyCB5s",
+        "pdfId": "assets/pdf/catechesi12.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 13,
+        "titolo": "La connaissance de soi",
+        "descrBreve": "Nous sommes arrivés à la deuxième étape de notre préparation. Commencent les « trois semaines » où Saint Louis-Marie nous propose de connaître trois personnes : Moi-même, Marie Très Sainte et Jésus-Christ. Commençons par la connaissance de nous-mêmes, de nos défauts, de nos limites.",
+        "imageId": "assets/images/nolimetangere.png",
+        "testoId": "assets/lang/fr/texts/catechesi13.md",
+        "videoId": "CaCxdnk_RXE",
+        "pdfId": "assets/pdf/catechesi13.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 14,
+        "titolo": "Le dogme du péché originel",
+        "descrBreve": "Il est fondamental de se connaître soi-même en partant du fait du péché originel et de ses conséquences en nous. L'enseignement du Catéchisme de l'Église : Tous les hommes sont impliqués dans le péché d'Adam. Saint Paul le dit : « Par la désobéissance d'un seul, tous sont devenus pécheurs » (Rm 5,19)",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/fr/texts/catechesi14.md",
+        "videoId": "XxzyTPVP27I",
+        "pdfId": "assets/pdf/catechesi14.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 15,
+        "titolo": "Le défaut dominant",
+        "descrBreve": "Chacun de nous a un défaut qui est la racine de tous les autres. Saint Ignace de Loyola enseigne une méthode pratique pour le reconnaître et, une fois identifié, le combattre afin d'acquérir la vertu opposée.",
+        "imageId": "assets/images/lavanda.png",
+        "testoId": "assets/lang/fr/texts/catechesi15.md",
+        "videoId": "Zzv2apXrdcA",
+        "pdfId": "assets/pdf/catechesi15.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 16,
+        "titolo": "Le sens de la souffrance",
+        "descrBreve": "« Souffrir est l'acte essentiellement humain » disait Saint-Exupéry, mais encore plus, « complet dans ma chair - dit l'apôtre Paul expliquant la valeur salvifique de la souffrance - ce qui manque aux souffrances du Christ, en faveur de son corps qui est l'Église » (Col. 1,24)",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/fr/texts/catechesi16.md",
+        "videoId": "hVbFfnHleqs",
+        "pdfId": "assets/pdf/catechesi16.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 17,
+        "titolo": "La nécessité de la prière",
+        "descrBreve": "« Celui qui prie est certainement sauvé, celui qui ne prie pas est certainement condamné. » Cette seule phrase de Saint Alphonse Marie de Liguori suffit à montrer l'importance capitale de la prière.",
+        "imageId": "assets/images/annunc3.png",
+        "testoId": "assets/lang/fr/texts/catechesi17.md",
+        "videoId": "ipsUICcbwqU",
+        "pdfId": "assets/pdf/catechesi17.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 18,
+        "titolo": "Renie-toi toi-même et suis-moi",
+        "descrBreve": "« Nous n'avons que le néant et le péché en nous, et nous ne méritons rien d'autre que la colère de Dieu et l'enfer éternel. Alors, est-il étonnant que Notre Seigneur ait dit que celui qui veut le suivre doit se renier lui-même et haïr sa propre vie ? Le Christ, Sagesse infinie, ne donne pas de commandements sans raison » (TDV 79-80)",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/fr/texts/catechesi18.md",
+        "videoId": "QnQkJxnsG38",
+        "pdfId": "assets/pdf/catechesi18.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 19,
+        "titolo": "Le Don de soi",
+        "descrBreve": "« Quelle force renferme ce don... Il ne peut manquer d'attirer l'Omnipotent à être une seule chose avec notre petitesse » (Sainte Thérèse)",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/fr/texts/catechesi19.md",
+        "videoId": "jeUr74RddgM",
+        "pdfId": "assets/pdf/catechesi19.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 20,
+        "titolo": "Marie n'est pas assez connue",
+        "descrBreve": "Nous sommes arrivés à l'objectif le plus immédiat, bien qu'il ne soit pas encore le dernier, de notre consécration : tout ce que nous avons vécu dans ces deux premières étapes a pour but de connaître Marie et d'inspirer en nous le désir de nous donner entièrement à Elle.",
+        "imageId": "assets/images/annunc1.png",
+        "testoId": "assets/lang/fr/texts/catechesi20.md",
+        "videoId": "bZA3hoxil_8",
+        "pdfId": "assets/pdf/catechesi20.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 21,
+        "titolo": "Marie et Jésus",
+        "descrBreve": "« Chaque fois que tu penses à Marie, Marie pense pour toi à Dieu. Chaque fois que tu rends gloire et honneur à Marie, Marie avec toi rend gloire et honneur à Dieu. Marie est totalement relative à Dieu, et je la qualifierais volontiers de relation de Dieu, qui n'existe que par rapport à Dieu, ou de l'écho de Dieu, qui ne dit et ne répète que Dieu »",
+        "imageId": "assets/images/mammaegesuoro.png",
+        "testoId": "assets/lang/fr/texts/catechesi21.md",
+        "videoId": "sWr-Rrg9Gp8",
+        "pdfId": "assets/pdf/catechesi21.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 22,
+        "titolo": "Le mot 'esclavage' est-il moche ?",
+        "descrBreve": "Mais où me conduit donc la plume ? Pourquoi m'attarder à essayer une chose si évidente ? Si l'on ne veut pas s'appeler esclaves de la Vierge Marie, peu importe ! Soyons esclaves de Jésus-Christ ! De toute façon, il s'agit de se constituer ensemble esclaves de la Vierge Sainte, car Jésus est le fruit et la gloire de Marie [Traité n. 77].",
+        "imageId": "assets/images/egitto.png",
+        "testoId": "assets/lang/fr/texts/catechesi22.md",
+        "videoId": "5mM1vIuwLT4",
+        "pdfId": "assets/pdf/catechesi22.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 23,
+        "titolo": "Caractéristiques de la vraie et de la fausse dévotion",
+        "descrBreve": "Faisons attention : la fausse dévotion « qui mène à la perdition », ici indiquée comme ces dévotions qui, en impliquant de manière feinte et désordonnée, font que l'âme s'endorme dans le péché.",
+        "imageId": "assets/images/mammaegesuombre.png",
+        "testoId": "assets/lang/fr/texts/catechesi23.md",
+        "videoId": "Zo8_NJokpA0",
+        "pdfId": "assets/pdf/catechesi23.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 24,
+        "titolo": "Est-ce vraiment avantageux pour moi de me consacrer ?",
+        "descrBreve": "Disons donc audacieusement avec Saint Bernard que nous avons besoin d'un médiateur auprès du Médiateur lui-même, et que la divine Marie est la plus capable de remplir cette tâche charitable. C'est par elle que Jésus-Christ est venu à nous, et c'est encore par elle que nous devons aller à Lui.",
+        "imageId": "assets/images/mamma.png",
+        "testoId": "assets/lang/fr/texts/catechesi24.md",
+        "videoId": "FeK0nUeROtA",
+        "pdfId": "assets/pdf/catechesi24.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 25,
+        "titolo": "Marianiser la vie",
+        "descrBreve": "À cette Consécration, comme point de départ et fondement pratique de la vie mariale, Saint Louis-Marie de Montfort lie les « pratiques intérieures » de la dévotion mariale parfaite, des pratiques qui supposent réellement la « marianisation » de tous les aspects de la vie chrétienne, et même l'insertion de Marie dans toutes nos relations avec Dieu, dans lesquelles elle exerce sa Médiation.",
+        "imageId": "assets/images/assunta.png",
+        "testoId": "assets/lang/fr/texts/catechesi25.md",
+        "videoId": "BysnMlDcDjU",
+        "pdfId": "assets/pdf/catechesi25.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 26,
+        "titolo": "La présence de Marie dans l'histoire",
+        "descrBreve": "« Dieu a fait et préparé une seule mais inconciliable inimitié, qui durera et croîtra jusqu'à la fin : l'inimitié entre Marie, sa digne Mère, et le diable, entre les enfants et serviteurs de la Vierge sainte et les enfants et partisans de Lucifer » (TVD 52)",
+        "imageId": "assets/images/incoronazione.png",
+        "testoId": "assets/lang/fr/texts/catechesi26.md",
+        "videoId": "3OOWFI_ekO8",
+        "pdfId": "assets/pdf/catechesi26.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 27,
+        "titolo": "L'Incarnation du Verbe",
+        "descrBreve": "« Le principal mystère célébré et honoré dans cette dévotion est celui de l'Incarnation » (TVD 246)",
+        "imageId": "assets/images/annunc4.png",
+        "testoId": "assets/lang/fr/texts/catechesi27.md",
+        "videoId": "RAoByH5T2kw",
+        "pdfId": "assets/pdf/catechesi27.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 28,
+        "titolo": "Jésus notre Maître",
+        "descrBreve": "Le Christ rachète les hommes en exerçant une triple fonction : celle de Maître-Prophète, de Pasteur-Roi, de Prêtre-Victime. Il est la voie, la vérité et la vie (Jn 14, 6)",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/fr/texts/catechesi28.md",
+        "videoId": "OwSfqB_b8V8",
+        "pdfId": "assets/pdf/catechesi28.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 29,
+        "titolo": "Sa Présence Eucharistique",
+        "descrBreve": "Le sacrifice des vies de tous les saints, de tous les anges et de la Mère divine elle-même ne donnerait certes pas à Dieu l'honneur que lui donne une seule messe, car celle-ci seule rend à Dieu un honneur infini.",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/fr/texts/catechesi29.md",
+        "videoId": "22b5yUcXqo4",
+        "pdfId": "assets/pdf/catechesi29.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 30,
+        "titolo": "Sa Passion et dévotion au Sacré-Cœur",
+        "descrBreve": "C'est là l'amour : ce n'est pas nous qui avons aimé Dieu, mais c'est lui qui nous a aimés et a envoyé son Fils comme victime d'expiation pour nos péchés. (1 Jn 1,10)",
+        "imageId": "assets/images/deposizionefocus.png",
+        "testoId": "assets/lang/fr/texts/catechesi30.md",
+        "videoId": "X2T49mjk9fw",
+        "pdfId": "assets/pdf/catechesi30.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 31,
+        "titolo": "La présence spirituelle du Christ",
+        "descrBreve": "Pour nous, le Christ s'identifie mystérieusement avec chaque homme, et chaque homme, ainsi que tous les hommes, ne peuvent se comprendre qu'en Christ Jésus, sachant qu'il « était nécessaire pour le genre humain que Dieu devienne homme pour démontrer au genre humain la dignité de la nature humaine » (Dir. Troisième Ordre IVE, 42).",
+        "imageId": "assets/images/mammaegesu.png",
+        "testoId": "assets/lang/fr/texts/catechesi31.md",
+        "videoId": "SMD2KFNPjTE",
+        "pdfId": "assets/pdf/catechesi31.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 32,
+        "titolo": "Jésus-Christ Alpha et Oméga",
+        "descrBreve": "Tout ce que je considère désormais comme une perte face à la sublimité de la connaissance du Christ Jésus, mon Seigneur, pour qui j'ai renoncé à toutes ces choses, que je considère comme des ordures, afin de gagner le Christ (Ph 3,8).",
+        "imageId": "assets/images/gesu.png",
+        "testoId": "assets/lang/fr/texts/catechesi32.md",
+        "videoId": "hd2ao8Xr5a4",
+        "pdfId": "assets/pdf/catechesi32.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 33,
+        "titolo": "Conclusion, conseils pratiques",
+        "descrBreve": "Quelques conseils pratiques avant de réaliser la consécration ou de la renouveler",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/fr/texts/catechesi33.md",
+        "videoId": "o51oT-HtI3s",
+        "pdfId": "assets/pdf/catechesi33.pdf"
+    }
+]

@@ -1,0 +1,1586 @@
+[
+    {
+        "idTest": 1,
+        "idDomanda": 1,
+        "testo": "WHAT SECRET DID GOD WANT TO REVEAL TO ME PERSONALLY THROUGH THIS WRITING?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 2,
+        "testo": "WHAT IS THE PURPOSE OF THIS SECRET?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 3,
+        "testo": "TO WHOM IS THIS SECRET ADDRESSED?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 4,
+        "testo": "WHAT DOES THIS SECRET CONSIST OF IN DEPTH?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 5,
+        "testo": "WHAT DOES THIS SECRET CONSIST OF IN DEPTH?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 6,
+        "testo": "HOW MANY DAYS DOES THE SAINT PROPOSE TO ACHIEVE THIS DEVOTION?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 7,
+        "testo": "WHY DOES THE SAINT CONSIDER THIS DEVOTION TO BE THE BEST?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 1,
+        "idDomanda": 8,
+        "testo": "WHAT IS THE PURPOSE OF THIS CONSECRATION?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 1,
+        "testo": "IS IT ENOUGH TO HAVE A GENERAL IDEA OF GOD TO BE A BELIEVER?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 2,
+        "testo": "WHAT IS THE MOST OBVIOUS SIGN OF A TRUE IDEA OF GOD?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE HUMAN MEANS TO KNOW THE EXISTENCE OF GOD?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 4,
+        "testo": "WHAT IS THE SUPERNATURAL MEANS TO KNOW HIM PRECISELY?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 5,
+        "testo": "WHICH OTHER MEANS IS TRUE TO KNOW WHAT GOD IS LIKE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 6,
+        "testo": "WHY IS GOD A FATHER?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE CLEAREST EXPRESSION OF A TRUE CONVICTION OF DIVINE PATERNITY?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 2,
+        "idDomanda": 8,
+        "testo": "CAN A CHRISTIAN THINK THAT GOD DOES NOT LISTEN TO HIM?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 1,
+        "testo": "WHAT IS THE IMPORTANCE OF THE PRINCIPLE AND FOUNDATION?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 2,
+        "testo": "WHAT DOES THE FIRST PART MEAN: 'MAN IS CREATED'?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 3,
+        "testo": "IS THIS FIRST STEP 'MAN IS CREATED' SO IMPORTANT?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 4,
+        "testo": "WHAT IS THE PURPOSE FOR WHICH GOD CREATES US?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 5,
+        "testo": "WHAT DOES 'GIVING GLORY' MEAN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 6,
+        "testo": "HOW DOES ONE GIVE GLORY TO GOD?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 7,
+        "testo": "WHY MUST GOD BE OUR PURPOSE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 3,
+        "idDomanda": 8,
+        "testo": "IS MY PURPOSE ETERNAL LIFE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 1,
+        "testo": "WHY SHOULD I PREPARE WITH THIS CATECHESIS FOR MARIAN CONSECRATION?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 2,
+        "testo": "WHAT IS THE GREATEST SIN OF OUR TIME?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 3,
+        "testo": "IF I AM IN MORTAL SIN, CAN I MAKE THIS CONSECRATION?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 4,
+        "testo": "WHY HAS THE SENSE OF SIN BEEN LOST IN OUR TIME?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 5,
+        "testo": "WHAT IS ONE OF THE MEANS BY WHICH MODERN MAN DOES NOT ACCEPT HIS CONDITION AS A SINNER?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 6,
+        "testo": "HOW CAN MORTAL SIN BE DEFINED ACCORDING TO ST. AUGUSTINE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE MAIN MEANS TO AVOID MORTAL SIN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 4,
+        "idDomanda": 8,
+        "testo": "IN WHAT SENSE DOES ST. ALPHONSUS SAY THAT A MORTAL SIN COULD KILL GOD IF IT WERE POSSIBLE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 1,
+        "testo": "WHAT WILL PRECEDE THE FINAL JUDGMENT?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 2,
+        "testo": "WHAT ARE THE LAST THINGS?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 3,
+        "testo": "HOW DOES A CHRISTIAN VIEW DEATH?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 4,
+        "testo": "WHO WILL DEFEND US AT THE MOMENT OF DEATH, ESPECIALLY THOSE WHO HAVE BEEN FAITHFUL TO CHRIST?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 5,
+        "testo": "DOES HELL EXIST?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 6,
+        "testo": "WHO GOES TO HELL?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 7,
+        "testo": "WHAT WILL PRECEDE THE FINAL JUDGMENT?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 5,
+        "idDomanda": 8,
+        "testo": "WHAT ARE THE LAST THINGS?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 1,
+        "testo": "WHAT DOES THE CONCEPT OF 'WORLD' MEAN AS OPPOSED TO THE SPIRIT OF CHRIST?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 2,
+        "testo": "WHAT DOES WORLDLY SPIRIT MEAN?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 3,
+        "testo": "HOW DOES THE WORLDLY SPIRIT TRY TO SEDUCE (ITS FALSE MAXIMS)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 4,
+        "testo": "WHO IS THE WORLD AN ENEMY OF?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 5,
+        "testo": "WHAT IS THE FIRST MEANS TO FREE ONESELF FROM THE WORLDLY SPIRIT?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 6,
+        "testo": "WHAT IS THE SECOND MEANS TO FREE ONESELF FROM THE SPIRIT OF THE WORLD?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE THIRD MEANS TO FREE ONESELF FROM THE SPIRIT OF THE WORLD?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 6,
+        "idDomanda": 8,
+        "testo": "WHAT IS THE FOURTH MEANS TO FREE ONESELF FROM THE SPIRIT OF THE WORLD?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 1,
+        "testo": "TO WHAT KIND OF PEOPLE IS THE SPIRIT OF THE BEATITUDES ADDRESSED?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 2,
+        "testo": "WHAT IS RECOMMENDED TO ACHIEVE THE SPIRIT OF THE BEATITUDES?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 3,
+        "testo": "WHAT DOES TRUE BEATITUDE CONSIST OF?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 4,
+        "testo": "WHAT DOES 'BLESSED ARE THE POOR IN SPIRIT' MEAN?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 5,
+        "testo": "WHAT DOES 'BLESSED ARE THE MEEK' MEAN?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 6,
+        "testo": "WHAT DOES 'BLESSED ARE THOSE WHO MOURN' MEAN?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 7,
+        "testo": "WHAT DOES 'BLESSED ARE THOSE WHO HUNGER AND THIRST FOR RIGHTEOUSNESS' MEAN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 7,
+        "idDomanda": 8,
+        "testo": "WHAT DOES 'BLESSED ARE THE MERCIFUL' MEAN?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 1,
+        "testo": "WHAT ARE THE THREE ENEMIES OF THE SOUL?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 2,
+        "testo": "WHAT IS MENTAL PRAYER?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE FIRST STEP FOR MENTAL PRAYER?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 4,
+        "testo": "HOW IS MEDITATION CARRIED OUT?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 5,
+        "testo": "WHAT IS THE MOST IMPORTANT MOMENT OF MENTAL PRAYER?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 6,
+        "testo": "WHEN DO I ASSIMILATE WHAT I HAVE MEDITATED ON?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 7,
+        "testo": "WHAT ARE THE THREE ENEMIES OF THE SOUL?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 8,
+        "idDomanda": 8,
+        "testo": "WHAT IS MENTAL PRAYER?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 1,
+        "testo": "WHO IS THE TRUE WISE PERSON ACCORDING TO THE GOSPEL?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 2,
+        "testo": "WHAT IS THE BEST INTENTION FOR MAKING A GOOD CHOICE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE RIGHT CHOICE TO REACH THE END MORE PERFECTLY?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 4,
+        "testo": "CAN AN IRREVERSIBLE CHOICE BE CANCELED? (e.g., MARRIAGE OR RELIGIOUS CONSECRATION)",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 5,
+        "testo": "WHAT SHOULD BE THE DISPOSITION WHEN CHOOSING A PARTICULAR STATE OF LIFE (PRIESTHOOD OR MARRIAGE)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 6,
+        "testo": "WHAT IS THE PURPOSE OF LIFE REFORM?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 7,
+        "testo": "WHO IS THE TRUE WISE PERSON ACCORDING TO THE GOSPEL?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 9,
+        "idDomanda": 8,
+        "testo": "WHAT IS THE BEST INTENTION FOR MAKING A GOOD CHOICE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 1,
+        "testo": "WHAT DOES JESUS PERSONALLY MEAN TO ME BY SAYING 'I WILL GIVE YOU LIFE'?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 2,
+        "testo": "HOW SHOULD WE CONSIDER THE TRUTHS OF FAITH?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 3,
+        "testo": "WHAT PRINCIPLE MAKES IT POSSIBLE TO LIVE THE SUPERNATURAL LIFE IN SAINTS?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 4,
+        "testo": "WHAT IS SANCTIFYING GRACE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 5,
+        "testo": "WHAT DOES SANCTIFYING GRACE PRODUCE IN US?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 6,
+        "testo": "WHAT ARE THE THREE CAPACITIES THROUGH WHICH SANCTIFYING GRACE CAN ACT?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 7,
+        "testo": "WHAT DOES JESUS PERSONALLY MEAN TO ME BY SAYING 'I WILL GIVE YOU LIFE'?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 10,
+        "idDomanda": 8,
+        "testo": "HOW SHOULD WE CONSIDER THE TRUTHS OF FAITH?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 1,
+        "testo": "WHAT IS THE TRINITARIAN INDWELLING?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 2,
+        "testo": "IN THE OLD TESTAMENT, WHAT SIGNS DID GOD GIVE TO THE PEOPLE TO SHOW HIS PRESENCE AMONG THEM?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 3,
+        "testo": "STILL IN THE OLD TESTAMENT, WHERE DO THE SIGNS OF GOD’S PRESENCE AMONG THE PEOPLE FIND THEIR FULFILLMENT?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 4,
+        "testo": "WHEN WAS GOD'S PHYSICAL PRESENCE GIVEN TO THE PEOPLE, AND THEREFORE HIS PRESENCE IN US?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 5,
+        "testo": "WHAT IS THE TRINITARIAN INDWELLING IN THEOLOGICAL TERMS?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 6,
+        "testo": "WHAT FRUITS CAN BE GAINED FROM AWARENESS OF THE PRESENCE OF THE THREE DIVINE PERSONS WITHIN US?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE TRINITARIAN INDWELLING?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 11,
+        "idDomanda": 8,
+        "testo": "IN THE OLD TESTAMENT, WHAT SIGNS DID GOD GIVE TO THE PEOPLE TO SHOW HIS PRESENCE AMONG THEM?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 1,
+        "testo": "WHAT IS THE CULTURE OF DEATH?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 2,
+        "testo": "WHAT IS THE CAUSE OF THIS CULTURAL ENVIRONMENT, AS AFFIRMED BY SAINT JOHN PAUL II?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE UNDERLYING PROBLEM BEHIND AN IDEOLOGY?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 4,
+        "testo": "WHAT IS THE MOST ABOMINABLE ACTION COMMITTED BY HUMANITY THAT DRAWS GOD'S WRATH?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 5,
+        "testo": "WHAT IS THE PURPOSE OF GENDER IDEOLOGY?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 6,
+        "testo": "WHAT IS MEANT BY EUTHANASIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE CULTURE OF DEATH?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 12,
+        "idDomanda": 8,
+        "testo": "WHAT IS THE CAUSE OF THIS CULTURAL ENVIRONMENT, AS AFFIRMED BY SAINT JOHN PAUL II?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 1,
+        "testo": "IN THE COMING WEEKS, WHICH 3 PEOPLE SHOULD BE KNOWN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 2,
+        "testo": "WHAT MEANS WILL BE NECESSARY TO KNOW MYSELF?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 3,
+        "testo": "WHAT GOAL SHOULD BE ACHIEVED THIS WEEK?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 4,
+        "testo": "WHAT DOES SELF-KNOWLEDGE CONSIST OF?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 5,
+        "testo": "WHAT ARE THE MOST IMPORTANT ASPECTS TO CONSIDER IN SELF-KNOWLEDGE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 6,
+        "testo": "WHAT IS THE OBSTACLE OF THIS FIRST WEEK THAT THE SOUL MUST AVOID?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 7,
+        "testo": "IN THE COMING WEEKS, WHICH 3 PEOPLE SHOULD BE KNOWN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 13,
+        "idDomanda": 8,
+        "testo": "WHAT MEANS WILL BE NECESSARY TO KNOW MYSELF?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 1,
+        "testo": "WHAT DOES THE CATECHISM OF THE CATHOLIC CHURCH SAY ABOUT ORIGINAL SIN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 2,
+        "testo": "WHAT DOES ORIGINAL SIN CONSIST OF?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 3,
+        "testo": "WHAT HERESIES DENY ORIGINAL SIN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 4,
+        "testo": "WHAT IS ARIANISM?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 5,
+        "testo": "WHAT DOES PELAGIAN DOCTRINE CONSIST OF?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 6,
+        "testo": "WHAT DOES CATHOLIC DOCTRINE SAY ABOUT THE ACTION OF GRACE IN MAN?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 7,
+        "testo": "WHAT DOES THE CATECHISM OF THE CATHOLIC CHURCH SAY ABOUT ORIGINAL SIN?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 14,
+        "idDomanda": 8,
+        "testo": "WHAT DOES ORIGINAL SIN CONSIST OF?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 1,
+        "testo": "IN WHAT SENSE IS THE PARTICULAR EXAMINATION OF CONSCIENCE 'A STATE'?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 2,
+        "testo": "IN WHAT SENSE IS THE PARTICULAR EXAMINATION OF CONSCIENCE AN OPERATION OF THE SPIRIT?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE BEST WAY TO CARRY IT OUT?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 4,
+        "testo": "WHAT SHOULD I DO IN THE MORNING?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 5,
+        "testo": "WHAT SHOULD I DO AT NOON?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 6,
+        "testo": "WHAT SHOULD I DO AT THE END OF THE DAY?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 7,
+        "testo": "WHAT SHOULD I EXAMINE IN THE PARTICULAR EXAMINATION OF CONSCIENCE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 15,
+        "idDomanda": 8,
+        "testo": "WHAT IS THE DOMINANT DEFECT?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 1,
+        "testo": "WHY IS HUMAN SUFFERING A MYSTERY AS DEEP AS MAN HIMSELF?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 2,
+        "testo": "WHO IS CAPABLE OF SUFFERING WITH GREATNESS OF SOUL?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 3,
+        "testo": "WHAT IS THE MEANING OF SUFFERING?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 4,
+        "testo": "WHAT DOES IT MEAN TO COMPLETE WHAT IS LACKING IN CHRIST'S PASSION?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 5,
+        "testo": "IS IT POSSIBLE TO SUFFER WITH JOY?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 6,
+        "testo": "DOES GOD WANT SUFFERING?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 7,
+        "testo": "WHAT IS THE MEANING OF THE SUFFERING OF THE INNOCENT?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 16,
+        "idDomanda": 8,
+        "testo": "IS IT TRUE THAT ONE ALWAYS SUFFERS ALONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 1,
+        "testo": "LA PREGHIERA È UNA OPZIONE FACOLTATIVA NEI DEVOTI DELLA MADONNA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 2,
+        "testo": "COSA È LA PREGHIERA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 3,
+        "testo": "GESÙ HA PREGATO NELLA SUA VITA TERRENA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 4,
+        "testo": "È INDISPENSABILE PREGARE PER ESSERE SALVATI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 5,
+        "testo": "LA PREGHIERA DÀ FRUTTI CONCRETI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 6,
+        "testo": "QUANTI TIPI DI PREGHIERA ESISTONO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 7,
+        "testo": "QUALI SONO LE CONDIZIONI DELLA BUONA PREGHIERA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 17,
+        "idDomanda": 8,
+        "testo": "È SEMPRE FACILE E CONSOLANTE PREGARE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 1,
+        "testo": "LA DEVOZIONE ALLA MADONNA A CHE CI DEVE PORTARE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 2,
+        "testo": "QUALE È IL FONDAMENTO DELLA NOSTRA CONSACRAZIONE ALLA MADONNA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 3,
+        "testo": "QUALE È IL PRIMO FRUTTO DELLA NOSTRA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 4,
+        "testo": "IL SECONDO FRUTTO DELLA CONSACRAZIONE E “IL DISPREZZO DI SE’”. CHE COSA SIGNIFICA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 5,
+        "testo": "QUALE È IL PASSAGGIO DETERMINANTE E DECISIVO PER LA NOSTRA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 6,
+        "testo": "È NECESSARIO ESSERE PRUDENTE CON “PRUDENZA EVANGELICA” ANCHE NELLE BUONE AZIONI SE HO BUONE INTENZIONI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 7,
+        "testo": "COSA SIGNIFICA AVERE “PRUDENZA EVANGELICA” NEL NOSTRO MODO DI AGIRE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 18,
+        "idDomanda": 8,
+        "testo": "C’È QUALCHE PERICOLO SE CONSIDERO LA MIA VITA ABBASTANZA BUONA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 1,
+        "testo": "QUAL’ È LA NECESSITÀ E LA PREMINENZA DEL DONO DI SÉ PER RICEVERE I DONI DI DIO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 2,
+        "testo": "COME RICOMPENSA MARIA, CHE NON SI LASCIA VINCERE IN GENEROSITÀ, CHI LE OFFRE IL DONO DI SÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 3,
+        "testo": "PERCHÉ È NECESSARIO  IL DONO DI SÉ?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 4,
+        "testo": "QUALI SONO LE CARATTERISTICHE DEL DONO DI SÉ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 5,
+        "testo": "PERCHÉ  IL DONO DI SÉ È UN ATTO DI PERFETTA CARITÀ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 6,
+        "testo": "IN CHE SENSO IL DONO DI SÉ È UNA PROVOCAZIONE ALLA DIVINA MISERICORDIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 7,
+        "testo": "DONARSI INTERAMENTE A MARIA SANTISSIMA EQUIVALE A QUELLO CHE NOI CHIAMIAMO “IL DONO DI SÉ”?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 19,
+        "idDomanda": 8,
+        "testo": "QUALI SONO GLI EFFETTI PROVOCATI DAL DONO DI SÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 1,
+        "testo": "QUALE È LO SCOPO FINALE DELLA TAPPA ANTERIORE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 2,
+        "testo": "COME SAPPIAMO CHE IL “TRATTATO DELLA VERA DEVOZIONE” È STATO DA VERO ISPIRATO DALLO SPIRITO SANTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 3,
+        "testo": "CHI CI RIVELA IL MISTERO DI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 4,
+        "testo": "CHE COSA DOBBIAMO CONTEMPLARE IN MARIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 5,
+        "testo": "MARIA, È DIO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 6,
+        "testo": "MARIA È NECESSARIA AGLI UOMINI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 7,
+        "testo": "PERCHÉ GESÙ CRISTO NON È ANCORA CONOSCIUTO COME SI DEVE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 20,
+        "idDomanda": 8,
+        "testo": "LA SANTA VERGINE È REGINA? QUAL È IL SUO REGNO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 1,
+        "testo": "CHI SONO I DEVOTI SCRUPOLOSI SECONDO SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 2,
+        "testo": "MARIA PUÒ OSTACOLARE LA DEVOZIONE A GESÙ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 3,
+        "testo": "CHI SONO I DEVOTI CRITICI SECONDO SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 4,
+        "testo": "QUAL È IL RAPPORTO CHE SAN LUIGI MARIA STABILISCE TRA MARIA E GESÙ?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 5,
+        "testo": "SENZA LA MEDIAZIONE DI MARIA È POSSIBILE LA SALVEZZA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 6,
+        "testo": "IN QUALE MANIERA MARIA CI ASSICURA LA RETTA FEDE IN GESÙ CRISTO COME VERO DIO E VERO UOMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 7,
+        "testo": "QUALE INDIZIO PREFIGURATIVO ABBIAMO NELL’ANTICO TESTAMENTO DI QUESTA MEDIAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 21,
+        "idDomanda": 8,
+        "testo": "IN QUALE MANIERA SI PUÒ DIRE CHE MARIA È CORREDENTRICE, SECONDO P. HUPPERTS?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 1,
+        "testo": "LA PAROLA SCHIAVITÙ SI CAPISCE BENE SOLTANTO SE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 2,
+        "testo": "QUAL È LA FORMULA COMPLETA PER AVERE UNA RETTA INTERPRETAZIONE DI QUESTA PAROLA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 3,
+        "testo": "PERCHÉ QUESTA PAROLA È L’UNICA CHE ESPRIME QUESTA DEVOZIONE SECONDO P. HUPPERTS (PARTE I)?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 4,
+        "testo": "PERCHÉ QUESTA PAROLA È L’UNICA CHE ESPRIME QUESTA DEVOZIONE SECONDO P. HUPPERTS (PARTE II)?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 5,
+        "testo": "COSA SIGNIFICA CHE QUESTA SIA UNA DEVOZIONE DISINTERESSATA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 6,
+        "testo": "QUAL È IL MODO DI “DARSI” CHE HA QUESTA DEVOZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 7,
+        "testo": "COSA SIGNIFICA “PER SEMPRE”?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 22,
+        "idDomanda": 8,
+        "testo": "LA PAROLA SCHIAVITÙ È ORIGINARIA DI SAN LUIGI MARIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 1,
+        "testo": "ESISTONO ESAGERAZIONI NELLA DEVOZIONE ALLA MADONNA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 2,
+        "testo": "QUAL È IL MEZZO PIÙ SICURO PER CAPIRE CHE LA DEVOZIONE MARIANA È DEFORMATA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 3,
+        "testo": "I DEVOTI SCRUPOLOSI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 4,
+        "testo": "I DEVOTI ESTERIORI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 5,
+        "testo": "I DEVOTI PRESUNTUOSI SONO:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 6,
+        "testo": "I DEVOTI INCOSTANTI SONO:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 7,
+        "testo": "LA VERA DEVOZIONE È TENERA PERCHÉ?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 23,
+        "idDomanda": 8,
+        "testo": "LA VERA DEVOZIONE È INTERIORE PERCHÉ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 1,
+        "testo": "POSSO CERCARE CONVENIENZE PER CONSACRARMI ALLA MADONNA IN MATERNA SCHIAVITÙ D’AMORE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 2,
+        "testo": "LA FUNZIONE MATERNA DI MARIA, MI AIUTA A TROVARE CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 3,
+        "testo": "AVENDO CRISTO COME MEDIATORE PRESSO IL PADRE, ABBIAMO BISOGNO ANCORA DI UNA MEDIATRICE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 4,
+        "testo": "QUALI SONO I TRE PIÙ IMPORTANTI GRADINI PER ARRIVARE A DIO, SECONDO I SANTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 5,
+        "testo": "E’ POSSIBILE A NOI CONSERVARE LA GRAZIA DI DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 6,
+        "testo": "IL SERVIZIO DI DIO SI REALIZZA MEGLIO CON O SENZA MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 7,
+        "testo": "IL MIGLIORE ESEMPIO DELLA SCHIAVITÙ D’AMORE LO TROVIAMO IN:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 24,
+        "idDomanda": 8,
+        "testo": "IN QUALE MANIERA QUESTA DEVOZIONE È UN ATTO DI AMORE PER IL PROSSIMO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 1,
+        "testo": "PERCHÉ SPESSO NON SI COSTATANO FRUTTI DI SANTITÀ IN CHI SI CONSACRA A MARIA IN SCHIAVITÙ D’AMORE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 2,
+        "testo": "QUAL È LA FORMULA CHE RIASSUME TUTTE LE PRATICHE INTERIORI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 3,
+        "testo": "DA DOVE PRENDE SAN LUIGI MARIA QUESTA FORMULA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 4,
+        "testo": "CHE SIGNIFICA FARE TUTTO PER MEZZO DI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 5,
+        "testo": "CHE SIGNIFICA FARE TUTTO CON MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 6,
+        "testo": "CHE SIGNIFICA FARE TUTTO IN MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 7,
+        "testo": "CHE SIGNIFICA FARE TUTTO PER MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 25,
+        "idDomanda": 8,
+        "testo": "LE PRATICHE ESTERIORI SONO BUONE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 1,
+        "testo": "PERCHÉ MARIA È COSÌ NECESSARIA AI NOSTRI TEMPI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 2,
+        "testo": "QUAL È LO STILE DEL LIBRO DELLA GENESI NEL RACCONTO DEL PECCATO DI ADAMO ED EVA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 3,
+        "testo": "QUALE PECCATO VUOLE FAR COMMETTERE IL SERPENTE A ADAMO ED EVA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 4,
+        "testo": "COSA RAPPRESENTA LA MELA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 5,
+        "testo": "COSA RAPPRESENTA L’ALBERO DELLA SAPIENZA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 6,
+        "testo": "CHE SIGNIFICANO L’ALBERO E LA MELA INSIEME?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 7,
+        "testo": "COME REDIME DIO ADAMO ED EVA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 26,
+        "idDomanda": 8,
+        "testo": "IN QUALE MOMENTO GESÙ FA CAPIRE CHE EVA RAPPRESENTA MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 1,
+        "testo": "QUAL È IL MISTERO DI CRISTO CHE SAN LUIGI VUOLE RIVIVERE ATTRAVERSO QUESTA CONSACRAZIONE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 2,
+        "testo": "COSA CERCANO IN FONDO TUTTE LE ERESIE SECONDO SAN LEONE MAGNO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 3,
+        "testo": "QUANTE SONO LE NATURE DI CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 4,
+        "testo": "QUANTE SONO LE PERSONE DI CRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 5,
+        "testo": "ESISTE UNA PERSONA UMANA DI CRISTO?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 6,
+        "testo": "QUALE DI QUESTE AFFERMAZIONI È FALSA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 7,
+        "testo": "QUALI SONO LE CONSEGUENZE DELLA RETTA CONOSCENZA DELL’INCARNAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 27,
+        "idDomanda": 8,
+        "testo": "QUAL È IL SENSO DELLE COSE SACRE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 1,
+        "testo": "PERCHÉ GESÙ ISTITUISCE I SACERDOTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 2,
+        "testo": "COSA FARÀ L’ANTICRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 3,
+        "testo": "CHI SARANNO QUELLI CHE ANDRANNO DIETRO ALL’ANTICRISTO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 4,
+        "testo": "QUANDO UNA VERITÀ DELLA CHIESA È INFALLIBILE?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 5,
+        "testo": "DOPO CRISTO, DOVE FONDANO LA LORO AUTORITÀ I VESCOVI?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 6,
+        "testo": "COSA È IL SIMBOLO DEGLI APOSTOLI",
+        "soluzione": 2
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 7,
+        "testo": "IL CATECHISMO DELLA CHIESA PROMULGATO DA SAN GIOVANNI PAOLO II È:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 28,
+        "idDomanda": 8,
+        "testo": "IL COMPENDIO DEL CATECHISMO DI BENEDETTO XVI FU PROMULGATO PER:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 1,
+        "testo": "QUAL È L’OPERA PIÙ GRANDE CHE POSSIAMO OFFRIRE A DIO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 2,
+        "testo": "COSA SUCCEDE VERAMENTE NELLA MESSA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 3,
+        "testo": "QUANTO VALE UNA SOLA SANTA MESSA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 4,
+        "testo": "COME SI PUÒ PARTECIPARE ATTIVAMENTE NELLA MESSA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 5,
+        "testo": "IN CHE SENSO SI DICE CHE LA MESSA PUÒ ESSERE ANCHE ‘MIA’?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 6,
+        "testo": "COME CONSIGLIA FARE LA COMUNIONE SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 7,
+        "testo": "COSA DEVO FARE ANZITUTTO DURANTE LA COMUNIONE STESSA SECONDO SAN LUIGI MARIA?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 29,
+        "idDomanda": 8,
+        "testo": "COSA FARE DOPO LA COMUNIONE SECONDO SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 1,
+        "testo": "LA PASSIONE DI GESÙ È UTILE PER:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 2,
+        "testo": "PER RICEVERE L’AMORE DEL SIGNORE LA PRIMA COSA DA FARE È:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 3,
+        "testo": "GESÙ ERA PIENAMENTE CONSAPEVOLE DELLA SUA PASSIONE IN OGNI ASPETTO? ",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 4,
+        "testo": "IL VIAGGIO DA BETANIA A GERUSALEMME ERA VOLUTO DA GESÙ PER:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 5,
+        "testo": "GESÙ DESIDERA MORIRE IN CROCE PER:",
+        "soluzione": 3
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 6,
+        "testo": "IL PRIMO DEVOTO DEL SACRO CUORE DI GESÙ FU:",
+        "soluzione": 2
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 7,
+        "testo": "SANTA MARGHERITA MARIA DI ALACOQUE ERA CONFORTATA PERCHÉ GESÙ LE DICEVA:",
+        "soluzione": 1
+    },
+    {
+        "idTest": 30,
+        "idDomanda": 8,
+        "testo": "COSA È L’INTRONIZZAZIONE DEL SACRO CUORE IN UNA FAMIGLIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 1,
+        "testo": "VI SARÀ UN GIORNO IN CUI GESÙ NON SARÀ PIÙ PRESENTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 2,
+        "testo": "IN QUALE MODO È PRESENTE GESÙ NEL CUORE DEI CREDENTI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 3,
+        "testo": "PRIMA DELLA SUA PASSIONE GESÙ PROMISE AGLI APOSTOLI CHE LUI SAREBBE TORNATO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 4,
+        "testo": "COSA SIGNIFICANO LE PAROLE: “UN POCO NON MI VEDRETE E UN ALTRO POCO GIÀ MI VEDRETE”",
+        "soluzione": 2
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 5,
+        "testo": "SI PUÒ DIRE CHE GESÙ OGGI È PRESENTE IN NOI ANCHE CON IL SUO CORPO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 6,
+        "testo": "QUALE MISTERO DELLA VITA CI AIUTA A COMPRENDERE IL MODO IN CUI LUI È OGGI PRESENTE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 7,
+        "testo": "COME PERCEPIRE LA PRESENZA DI CRISTO IN NOI?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 31,
+        "idDomanda": 8,
+        "testo": "COME ESSERE SICURI DELLA PRESENZA DI CRISTO IN ME?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 1,
+        "testo": "QUALE PUÒ ESSERE IL TEMPO PIÙ UTILE DELLA NOSTRA VITA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 2,
+        "testo": "CHE SIGNIFICA CHE GESÙ SIA IL CENTRO DELLA STORIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 3,
+        "testo": "CHI È IL SANTO DOTTORE DELLA CHIESA CHE PAPA LEONE XIII SCELSE COME MAESTRO DELLA TEOLOGIA DELLA STORIA?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 4,
+        "testo": "IN QUALE SENSO ABELE È FIGURA DI GESÙ?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 5,
+        "testo": "IN QUALE SENSO MOSÈ È FIGURA DI CRISTO?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 6,
+        "testo": "COSA FA GESÙ OGGI, MENTRE CONTEMPLA IL MALE CHE SI COMMETTE NEL MONDO?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 7,
+        "testo": "E’ GIUSTO CHE GESÙ SIA RIFERIMENTO DELLA POLITICA DI UNA NAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 32,
+        "idDomanda": 8,
+        "testo": "SE AUMENTA IL MALE NEL MONDO, COSA DOBBIAMO CAPIRE?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 1,
+        "testo": "BISOGNA ESSERE PERFETTAMENTE PRONTI PER FARE QUESTA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 2,
+        "testo": "BISOGNA CONOSCERE PERFETTAMENTE TUTTA LA DOTTRINA DI SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 3,
+        "testo": "QUALE DI QUESTI TRE MEZZI È IL MIGLIORE PER PREPARARSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 4,
+        "testo": "UNA VOLTA CHE SO IN CHE CONSISTE, DEVO ASPETTARE FINO A RENDERMI DEGNO DELLA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 5,
+        "testo": "BISOGNA ESSERE PERFETTAMENTE PRONTI PER FARE QUESTA CONSACRAZIONE?",
+        "soluzione": 1
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 6,
+        "testo": "BISOGNA CONOSCERE PERFETTAMENTE TUTTA LA DOTTRINA DI SAN LUIGI MARIA?",
+        "soluzione": 2
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 7,
+        "testo": "QUALE DI QUESTI TRE MEZZI È IL MIGLIORE PER PREPARARSI?",
+        "soluzione": 3
+    },
+    {
+        "idTest": 33,
+        "idDomanda": 8,
+        "testo": "UNA VOLTA CHE SO IN CHE CONSISTE, DEVO ASPETTARE FINO A RENDERMI DEGNO DELLA CONSACRAZIONE?",
+        "soluzione": 1
+    }
+]

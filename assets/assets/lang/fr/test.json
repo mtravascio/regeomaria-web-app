@@ -1,0 +1,1586 @@
+[
+  {
+    "idTest": 1,
+    "idDomanda": 1,
+    "testo": "QUEL SECRET DIEU A-T-IL VOULU RÉVÉLER, PAR ÉCRIT, À MOI PERSONNELLEMENT?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 2,
+    "testo": "À QUOI SERT CE SECRET?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 3,
+    "testo": "À QUI EST DESTINÉ CE SECRET?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 4,
+    "testo": "EN QUOI CONSISTE CE SECRET EN PROFONDEUR?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 5,
+    "testo": "EN QUOI CONSISTE CE SECRET EN PROFONDEUR?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 6,
+    "testo": "COMBIEN DE JOURS LE SAINT PROPOSE-T-IL POUR ATTEINDRE CETTE DÉVOTION?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 7,
+    "testo": "POURQUOI LE SAINT CONSIDÈRE-T-IL CETTE DÉVOTION COMME LA MEILLEURE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 1,
+    "idDomanda": 8,
+    "testo": "QUEL EST LE BUT DE CETTE CONSÉCRATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 1,
+    "testo": "SUFFIT-IL D'AVOIR UNE IDÉE GÉNÉRALE DE DIEU POUR ÊTRE CROYANT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 2,
+    "testo": "QUEL EST LE SIGNE LE PLUS ÉVIDENT D'UNE VÉRITABLE IDÉE DE DIEU?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE MOYEN HUMAIN DE CONNAÎTRE L'EXISTENCE DE DIEU?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 4,
+    "testo": "QUEL EST LE MOYEN SUPERNATUREL DE LE CONNAÎTRE AVEC PRÉCISION?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 5,
+    "testo": "QUEL AUTRE MOYEN DE CEUX-CI EST VRAI POUR CONNAÎTRE COMMENT EST DIEU?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 6,
+    "testo": "POURQUOI DIEU EST-IL PÈRE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 7,
+    "testo": "QUELLE EST L'EXPRESSION LA PLUS CLAIRE D'UNE VÉRITABLE CONVICTION DE LA PATERNITÉ DIVINE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 2,
+    "idDomanda": 8,
+    "testo": "UN CHRÉTIEN PEUT-IL PENSER QUE DIEU NE L'ÉCOUTE PAS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 1,
+    "testo": "QUELLE EST L'IMPORTANCE DU PRINCIPE ET DU FONDEMENT?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 2,
+    "testo": "QUE SIGNIFIE LA PREMIÈRE PARTIE: “L'HOMME EST CRÉÉ”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 3,
+    "testo": "CE PREMIER PAS “L'HOMME EST CRÉÉ” EST-IL SI IMPORTANT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 4,
+    "testo": "QUEL EST LE BUT POUR LEQUEL DIEU NOUS CRÉE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 5,
+    "testo": "QUE SIGNIFIE “RENDRE GLOIRE”?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 6,
+    "testo": "COMMENT REND-ON GLOIRE À DIEU?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 7,
+    "testo": "POURQUOI DIEU DOIT-IL ÊTRE NOTRE BUT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 3,
+    "idDomanda": 8,
+    "testo": "MA FIN EST-ELLE LA VIE ÉTERNELLE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 1,
+    "testo": "POURQUOI DOIS-JE ME PRÉPARER AVEC CE CATÉCHISME À LA CONSÉCRATION MARIANE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 2,
+    "testo": "QUEL EST LE PÉCHÉ LE PLUS GRAVE DE NOTRE TEMPS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 3,
+    "testo": "SI JE SUIS EN PÉCHÉ MORTEL, PUIS-JE FAIRE CETTE CONSÉCRATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 4,
+    "testo": "POURQUOI LE SENS DU PÉCHÉ S'EST-IL PERDU DE NOS JOURS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 5,
+    "testo": "QUEL EST L'UN DES MOYENS PAR LESQUELS L'HOMME MODERNE N'ASSUME PAS SA CONDITION DE PÉCHEUR?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 6,
+    "testo": "COMMENT PEUT-ON DÉFINIR LE PÉCHÉ MORTEL SELON SAINT AUGUSTIN?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 7,
+    "testo": "QUEL EST LE MOYEN PRINCIPAL DE S'ÉLOIGNER DU PÉCHÉ MORTEL?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 4,
+    "idDomanda": 8,
+    "testo": "EN QUEL SENS SAINT ALPHONSE DIT-IL QU'UN PÉCHÉ MORTEL POURRAIT TUER DIEU SI C'ÉTAIT POSSIBLE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 1,
+    "testo": "QU'EST-CE QUI PRÉCÉDERA LE JUGEMENT FINAL?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 2,
+    "testo": "QUE SONT LES DERNIÈRES CHOSES?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 3,
+    "testo": "COMMENT UN CHRÉTIEN CONSIDÈRE-T-IL LA MORT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 4,
+    "testo": "QUI NOUS DÉFENDRA AU MOMENT DE LA MORT, EN PARTICULIER POUR CEUX QUI ONT ÉTÉ FIDÈLES À CHRIST?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 5,
+    "testo": "L'ENFER EXISTE-T-IL?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 6,
+    "testo": "QUI VA EN ENFER?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 7,
+    "testo": "QU'EST-CE QUI PRÉCÉDERA LE JUGEMENT FINAL?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 5,
+    "idDomanda": 8,
+    "testo": "QUE SONT LES DERNIÈRES CHOSES?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 1,
+    "testo": "QUE SIGNIFIE LE CONCEPT DE “MONDE” CONTRAIRE À L'ESPRIT DU CHRIST?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 2,
+    "testo": "QUE SIGNIFIE L'ESPRIT MONDAIN?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 3,
+    "testo": "DE QUELLE MANIÈRE L'ESPRIT MONDAIN CHERCHE-T-IL À SÉDUIRE (SES FAUSSES MAXIMES)?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 4,
+    "testo": "DE QUI LE MONDE EST-IL L'ENNEMI?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 5,
+    "testo": "QUEL EST LE PREMIER MOYEN DE SE LIBÉRER DE L'ESPRIT MONDAIN?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 6,
+    "testo": "QUEL EST LE DEUXIÈME MOYEN DE SE LIBÉRER DE L'ESPRIT DU MONDE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 7,
+    "testo": "QUEL EST LE TROISIÈME MOYEN DE SE LIBÉRER DE L'ESPRIT DU MONDE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 6,
+    "idDomanda": 8,
+    "testo": "QUEL EST LE QUATRIÈME MOYEN DE SE LIBÉRER DE L'ESPRIT DU MONDE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 1,
+    "testo": "À QUELS TYPES DE PERSONNES S'ADRESSE L'ESPRIT DES BÉATITUDES?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 2,
+    "testo": "QUE CONSEILLE-T-ON DE FAIRE POUR ATTEINDRE L'ESPRIT DES BÉATITUDES?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 3,
+    "testo": "EN QUOI CONSISTE LA VÉRITABLE BÉATITUDE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 4,
+    "testo": "QUE SIGNIFIE “HEUREUX LES PAUVRES EN ESPRIT”?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 5,
+    "testo": "QUE SIGNIFIE “HEUREUX LES DOUX”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 6,
+    "testo": "QUE SIGNIFIE “HEUREUX CEUX QUI PLEURENT”?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 7,
+    "testo": "QUE SIGNIFIE “HEUREUX CEUX QUI ONT FAIM ET SOIF DE JUSTICE”?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 7,
+    "idDomanda": 8,
+    "testo": "QUE SIGNIFIE “HEUREUX LES MISÉRICORDIEUX”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 1,
+    "testo": "QUELS SONT LES 3 ENNEMIS DE L'ÂME?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 2,
+    "testo": "QU'EST-CE QUE LA PRIÈRE MENTALE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE PREMIER PAS POUR LA PRIÈRE MENTALE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 4,
+    "testo": "COMMENT SE RÉALISE LA MÉDITATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 5,
+    "testo": "QUEL EST LE MOMENT LE PLUS IMPORTANT DE LA PRIÈRE MENTALE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 6,
+    "testo": "QUAND EST LE MOMENT OÙ J'ASSIMILE CE QUE J'AI MÉDITÉ?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 7,
+    "testo": "QUELS SONT LES 3 ENNEMIS DE L'ÂME?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 8,
+    "idDomanda": 8,
+    "testo": "QU'EST-CE QUE LA PRIÈRE MENTALE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 1,
+    "testo": "QUI EST LE VÉRITABLE SAGE SELON L'ÉVANGILE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 2,
+    "testo": "QUELLE EST LA MEILLEURE INTENTION POUR FAIRE UN BON CHOIX?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE BON CHOIX POUR ATTEINDRE PLUS PARFAITEMENT LE BUT?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 4,
+    "testo": "PEUT-ON ANNULER UN CHOIX IMMUTABLE? (par ex. MARIAGE OU CONSÉCRATION RELIGIEUSE)",
+    "soluzione": 2
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 5,
+    "testo": "QUELLE DOIT ÊTRE LA DISPOSITION FACE AU CHOIX D'UN ÉTAT DE VIE PARTICULIER (SACERDOTAL OU MATRIMONIAL)?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 6,
+    "testo": "QUEL EST LE BUT DE LA RÉFORME DE VIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 7,
+    "testo": "QUI EST LE VÉRITABLE SAGE SELON L'ÉVANGILE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 9,
+    "idDomanda": 8,
+    "testo": "QUELLE EST LA MEILLEURE INTENTION POUR FAIRE UN BON CHOIX?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 1,
+    "testo": "QUE VEUT DIRE JÉSUS À MOI PERSONNELLEMENT, “JE TE DONNERAI LA VIE”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 2,
+    "testo": "COMMENT DEVONS-NOUS CONSIDÉRER LES VÉRITÉS DE LA FOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE PRINCIPE QUI REND POSSIBLE DE VIVRE LA VIE SUPRANATURELLE CHEZ LES SAINTS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 4,
+    "testo": "QU'EST-CE QUE LA GRÂCE SANCTIFIANTE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 5,
+    "testo": "QUE PRODUIT EN NOUS LA GRÂCE SANCTIFIANTE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 6,
+    "testo": "QUELLES SONT LES 3 CAPACITÉS PAR LESQUELLES LA GRÂCE SANCTIFIANTE PEUT S'ACTUALISER?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 7,
+    "testo": "QUE VEUT DIRE JÉSUS À MOI PERSONNELLEMENT, “JE TE DONNERAI LA VIE”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 10,
+    "idDomanda": 8,
+    "testo": "COMMENT DEVONS-NOUS CONSIDÉRER LES VÉRITÉS DE LA FOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 1,
+    "testo": "EN QUOI CONSISTE L'INHABITATION TRINITAIRE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 2,
+    "testo": "DANS L'ANCIEN TESTAMENT, QUELS ÉTAIENT LES SIGNES QUE DIEU ACCORDAIT AU PEUPLE COMME MANIFESTATION DE SA PRÉSENCE AU MILIEU DE LUI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 3,
+    "testo": "TOUJOURS DANS L'ANCIEN TESTAMENT, LES SIGNES DE LA PRÉSENCE DE DIEU AU MILIEU DU PEUPLE, DANS QUEL LIEU TROUVENT-ILS LEUR ACCOMPLISSEMENT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 4,
+    "testo": "QUEL EST LE MOMENT OÙ LE PEUPLE REÇOIT LA PRÉSENCE CORPORELLE DE DIEU, ET DONC LA PRÉSENCE DE DIEU EN NOUS?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 5,
+    "testo": "QU'EST-CE QUE L'INHABITATION TRINITAIRE DANS LE LANGAGE THÉOLOGIQUE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 6,
+    "testo": "QUELS FRUITS PEUT-ON TIRER DE LA CONSCIENCE DE LA PRÉSENCE DES TROIS PERSONNES DIVINES EN NOUS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 7,
+    "testo": "EN QUOI CONSISTE L'INHABITATION TRINITAIRE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 11,
+    "idDomanda": 8,
+    "testo": "DANS L'ANCIEN TESTAMENT, QUELS ÉTAIENT LES SIGNES QUE DIEU ACCORDAIT AU PEUPLE COMME MANIFESTATION DE SA PRÉSENCE AU MILIEU DE LUI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 1,
+    "testo": "EN QUOI CONSISTE LA CULTURE DE LA MORT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 2,
+    "testo": "QUELLE EST LA CAUSE DE CET ENVIRONNEMENT CULTUREL, AFFIRMÉE AUSSI PAR SAINT JEAN-PAUL II?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE PROBLÈME FONDAMENTAL QUI SE CACHE DERRIÈRE UNE IDÉOLOGIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 4,
+    "testo": "QUELLE EST L'ACTION LA PLUS ABOMINABLE COMMISSE PAR L'HUMANITÉ QUI ATTIRE LA COLÈRE DE DIEU?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 5,
+    "testo": "QUEL EST LE BUT DE L'IDÉOLOGIE DE GENRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 6,
+    "testo": "QUE SIGNIFIE L'EUTHANASIE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 7,
+    "testo": "EN QUOI CONSISTE LA CULTURE DE LA MORT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 12,
+    "idDomanda": 8,
+    "testo": "QUELLE EST LA CAUSE DE CET ENVIRONNEMENT CULTUREL, AFFIRMÉE AUSSI PAR SAINT JEAN-PAUL II?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 1,
+    "testo": "DANS LES SEMAINES À VENIR, QUELLES SONT LES 3 PERSONNES À CONNAÎTRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 2,
+    "testo": "QUEL MOYEN SERA NÉCESSAIRE POUR ME CONNAÎTRE MOI-MÊME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 3,
+    "testo": "QUEL BUT VEUT-ON ATTEINDRE CETTE SEMAINE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 4,
+    "testo": "EN QUOI CONSISTE LA CONNAISSANCE DE SOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 5,
+    "testo": "QUELS SONT LES ASPECTS LES PLUS IMPORTANTS À CONSIDÉRER DANS LA CONNAISSANCE DE SOI?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 6,
+    "testo": "QUEL EST L'OBSTACLE DE CETTE PREMIÈRE SEMAINE QUE L'ÂME DOIT ÉVITER?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 7,
+    "testo": "DANS LES SEMAINES À VENIR, QUELLES SONT LES 3 PERSONNES À CONNAÎTRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 13,
+    "idDomanda": 8,
+    "testo": "QUEL MOYEN SERA NÉCESSAIRE POUR ME CONNAÎTRE MOI-MÊME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 1,
+    "testo": "QUE DIT LE CATÉCHISME DE L'ÉGLISE CATHOLIQUE SUR LE PÉCHÉ ORIGINEL?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 2,
+    "testo": "EN QUOI CONSISTE LE PÉCHÉ ORIGINEL?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 3,
+    "testo": "QUELLES SONT LES HÉRÉSIES QUI NIENT LE PÉCHÉ ORIGINEL?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 4,
+    "testo": "QU'EST-CE QUE L'ARIANISME?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 5,
+    "testo": "EN QUOI CONSISTE LA DOCTRINE PÉLAGIENNE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 6,
+    "testo": "QUE DIT LA DOCTRINE CATHOLIQUE SUR L'ACTION DE LA GRÂCE DANS L'HOMME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 7,
+    "testo": "QUE DIT LE CATÉCHISME DE L'ÉGLISE CATHOLIQUE SUR LE PÉCHÉ ORIGINEL?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 14,
+    "idDomanda": 8,
+    "testo": "EN QUOI CONSISTE LE PÉCHÉ ORIGINEL?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 1,
+    "testo": "EN QUEL SENS L'EXAMEN PARTICULIER DE CONSCIENCE EST-IL “UN ÉTAT”?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 2,
+    "testo": "EN QUEL SENS L'EXAMEN PARTICULIER DE CONSCIENCE EST-IL UNE OPÉRATION DE L'ESPRIT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE MEILLEUR MOYEN DE LE FAIRE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 4,
+    "testo": "QUE DOIS-JE FAIRE LE MATIN?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 5,
+    "testo": "QUE DOIS-JE FAIRE À MIDI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 6,
+    "testo": "QUE DOIS-JE FAIRE À LA FIN DE LA JOURNÉE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 7,
+    "testo": "SUR QUOI DOIS-JE FAIRE L'EXAMEN PARTICULIER DE CONSCIENCE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 15,
+    "idDomanda": 8,
+    "testo": "QU'EST-CE QUE LE DÉFAUT DOMINANT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 1,
+    "testo": "POURQUOI LA SOUFFRANCE DE L'HOMME EST-ELLE UN MYSTÈRE AUSSI PROFOND QUE L'HOMME LUI-MÊME?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 2,
+    "testo": "QUI EST CAPABLE DE SOUFFRIR AVEC GRANDEUR D'ÂME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE SENS DE LA SOUFFRANCE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 4,
+    "testo": "QUE SIGNIFIE COMPLÉTER CE QUI MANQUE À LA PASSION DU CHRIST?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 5,
+    "testo": "EST-IL POSSIBLE DE SOUFFRIR AVEC JOIE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 6,
+    "testo": "DIEU VEUT-IL LA SOUFFRANCE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 7,
+    "testo": "QUEL EST LE SENS DE LA SOUFFRANCE DE L'INNOCENT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 16,
+    "idDomanda": 8,
+    "testo": "EST-IL VRAI QUE L'ON SOUFFRE TOUJOURS SEUL?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 1,
+    "testo": "LA PRIÈRE EST-ELLE UNE OPTION FACULTATIVE POUR LES DÉVOTS DE LA VIERGE MARIE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 2,
+    "testo": "QU'EST-CE QUE LA PRIÈRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 3,
+    "testo": "JÉSUS A-T-IL PRIÉ DANS SA VIE TERRESTRE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 4,
+    "testo": "EST-IL INDISPENSABLE DE PRIER POUR ÊTRE SAUVÉ?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 5,
+    "testo": "LA PRIÈRE DONNE-T-ELLE DES FRUITS CONCRETS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 6,
+    "testo": "COMBIEN DE TYPES DE PRIÈRE EXISTE-T-IL?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 7,
+    "testo": "QUELLES SONT LES CONDITIONS D'UNE BONNE PRIÈRE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 17,
+    "idDomanda": 8,
+    "testo": "EST-IL TOUJOURS FACILE ET RÉCONFORTANT DE PRIER?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 1,
+    "testo": "OÙ LA DÉVOTION À LA VIERGE MARIE DOIT-ELLE NOUS MENER?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 2,
+    "testo": "QUEL EST LE FONDEMENT DE NOTRE CONSÉCRATION À LA VIERGE MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 3,
+    "testo": "QUEL EST LE PREMIER FRUIT DE NOTRE CONSÉCRATION?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 4,
+    "testo": "LE DEUXIÈME FRUIT DE LA CONSÉCRATION EST “LE MÉPRIS DE SOI”. QUE SIGNIFIE-T-IL?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 5,
+    "testo": "QUEL EST LE PASSAGE DÉTERMINANT ET DÉCISIF POUR NOTRE CONSÉCRATION?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 6,
+    "testo": "EST-IL NÉCESSAIRE D'ÊTRE PRUDENT AVEC “PRUDENCE ÉVANGÉLIQUE” MÊME DANS LES BONNES ACTIONS SI J'AI DE BONNES INTENTIONS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 7,
+    "testo": "QUE SIGNIFIE AVOIR “PRUDENCE ÉVANGÉLIQUE” DANS NOTRE FAÇON D'AGIR?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 18,
+    "idDomanda": 8,
+    "testo": "Y A-T-IL UN DANGER SI JE CONSIDÈRE MA VIE ASSEZ BONNE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 1,
+    "testo": "QUELLE EST LA NÉCESSITÉ ET LA PRÉÉMINENCE DU DON DE SOI POUR RECEVOIR LES DONS DE DIEU?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 2,
+    "testo": "COMMENT MARIE, QUI NE SE LAISSE PAS VAINCRE EN GÉNÉROSITÉ, RÉCOMPENSE-T-ELLE CEUX QUI LUI OFFRENT LE DON DE SOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 3,
+    "testo": "POURQUOI LE DON DE SOI EST-IL NÉCESSAIRE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 4,
+    "testo": "QUELLES SONT LES CARACTÉRISTIQUES DU DON DE SOI?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 5,
+    "testo": "POURQUOI LE DON DE SOI EST-IL UN ACTE DE PARFAITE CHARITÉ?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 6,
+    "testo": "EN QUEL SENS LE DON DE SOI EST-IL UNE PROVOCATION À LA MISÉRICORDE DIVINE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 7,
+    "testo": "SE DONNER ENTIÈREMENT À LA TRÈS SAINTE MARIE ÉQUIVAUT-IL À CE QUE NOUS APPELONS “LE DON DE SOI”?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 19,
+    "idDomanda": 8,
+    "testo": "QUELS SONT LES EFFETS PROVOQUÉS PAR LE DON DE SOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 1,
+    "testo": "QUEL EST LE BUT FINAL DE L'ÉTAPE PRÉCÉDENTE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 2,
+    "testo": "COMMENT SAVONS-NOUS QUE LE “TRAITÉ DE LA VRAIE DÉVOTION” A ÉTÉ VÉRITABLEMENT INSPIRÉ PAR L'ESPRIT SAINT?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 3,
+    "testo": "QUI NOUS RÉVÈLE LE MYSTÈRE DE MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 4,
+    "testo": "QUE DEVONS-NOUS CONTEMPLER EN MARIE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 5,
+    "testo": "MARIE, EST-ELLE DIEU?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 6,
+    "testo": "MARIE EST-ELLE NÉCESSAIRE AUX HOMMES?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 7,
+    "testo": "POURQUOI JÉSUS-CHRIST N'EST-IL PAS ENCORE CONNU COMME IL DEVRAIT L'ÊTRE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 20,
+    "idDomanda": 8,
+    "testo": "LA SAINTE VIERGE EST-ELLE REINE? QUEL EST SON ROYAUME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 1,
+    "testo": "QUI SONT LES DÉVOTS SCRUPULEUX SELON SAINT LOUIS-MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 2,
+    "testo": "MARIE PEUT-ELLE FAIRE OBSTACLE À LA DÉVOTION À JÉSUS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 3,
+    "testo": "QUI SONT LES DÉVOTS CRITIQUES SELON SAINT LOUIS-MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 4,
+    "testo": "QUELLE RELATION SAINT LOUIS-MARIE ÉTABLIT-IL ENTRE MARIE ET JÉSUS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 5,
+    "testo": "SANS LA MÉDIATION DE MARIE, LA SALUT EST-IL POSSIBLE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 6,
+    "testo": "DE QUELLE MANIÈRE MARIE NOUS ASSURE-T-ELLE LA VRAIE FOI EN JÉSUS-CHRIST COMME VRAI DIEU ET VRAI HOMME?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 7,
+    "testo": "QUEL INDICE PRÉFIGURATIF AVONS-NOUS DANS L'ANCIEN TESTAMENT DE CETTE MÉDIATION?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 21,
+    "idDomanda": 8,
+    "testo": "DE QUELLE MANIÈRE PEUT-ON DIRE QUE MARIE EST CORÉDEMPTRICE, SELON LE P. HUPPERTS?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 1,
+    "testo": "LE MOT ESCLAVAGE SE COMPREND BIEN SEULEMENT SI?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 2,
+    "testo": "QUELLE EST LA FORMULE COMPLÈTE POUR AVOIR UNE INTERPRÉTATION JUSTE DE CE MOT?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 3,
+    "testo": "POURQUOI CE MOT EST-IL LE SEUL QUI EXPRIME CETTE DÉVOTION SELON LE P. HUPPERTS (PARTIE I)?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 4,
+    "testo": "POURQUOI CE MOT EST-IL LE SEUL QUI EXPRIME CETTE DÉVOTION SELON LE P. HUPPERTS (PARTIE II)?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 5,
+    "testo": "QUE SIGNIFIE QUE CE SOIT UNE DÉVOTION DÉSINTÉRESSÉE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 6,
+    "testo": "QUELLE EST LA MANIÈRE DE “SE DONNER” QUE POSSÈDE CETTE DÉVOTION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 7,
+    "testo": "QUE SIGNIFIE “POUR TOUJOURS”?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 22,
+    "idDomanda": 8,
+    "testo": "LE MOT ESCLAVAGE EST-IL ORIGINAIRE DE SAINT LOUIS-MARIE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 1,
+    "testo": "EXISTE-T-IL DES EXAGÉRATIONS DANS LA DÉVOTION À LA VIERGE MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 2,
+    "testo": "QUEL EST LE MOYEN LE PLUS SÛR DE SAVOIR QUE LA DÉVOTION MARIANE EST DÉFORMÉE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 3,
+    "testo": "LES DÉVOTS SCRUPULEUX SONT:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 4,
+    "testo": "LES DÉVOTS EXTÉRIEURS SONT:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 5,
+    "testo": "LES DÉVOTS PRÉSUMPTUEUX SONT:",
+    "soluzione": 1
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 6,
+    "testo": "LES DÉVOTS INCONSTANTS SONT:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 7,
+    "testo": "LA VRAIE DÉVOTION EST TENDRE PARCE QUE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 23,
+    "idDomanda": 8,
+    "testo": "LA VRAIE DÉVOTION EST INTÉRIEURE PARCE QUE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 1,
+    "testo": "PUIS-JE CHERCHER DES AVANTAGES POUR ME CONSACRER À LA VIERGE MARIE EN MATERNEL ESCLAVAGE D'AMOUR?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 2,
+    "testo": "LA FONCTION MATERNELLE DE MARIE M'AIDE-T-ELLE À TROUVER LE CHRIST?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 3,
+    "testo": "AYANT LE CHRIST COMME MÉDIATEUR AUPRÈS DU PÈRE, AVONS-NOUS ENCORE BESOIN D'UNE MÉDIATRICE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 4,
+    "testo": "QUELS SONT LES TROIS PLUS IMPORTANTS ÉCHELONS POUR ARRIVER À DIEU, SELON LES SAINTS?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 5,
+    "testo": "EST-IL POSSIBLE POUR NOUS DE CONSERVER LA GRÂCE DE DIEU?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 6,
+    "testo": "LE SERVICE DE DIEU SE RÉALISE-T-IL MIEUX AVEC OU SANS MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 7,
+    "testo": "LE MEILLEUR EXEMPLE DE L'ESCLAVAGE D'AMOUR SE TROUVE EN:",
+    "soluzione": 2
+  },
+  {
+    "idTest": 24,
+    "idDomanda": 8,
+    "testo": "DE QUELLE MANIÈRE CETTE DÉVOTION EST-ELLE UN ACTE D'AMOUR POUR LE PROCHAIN?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 1,
+    "testo": "POURQUOI NE CONSTATE-T-ON SOUVENT PAS DE FRUITS DE SAINTETÉ CHEZ CEUX QUI SE CONSACRENT À MARIE EN ESCLAVAGE D'AMOUR?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 2,
+    "testo": "QUELLE EST LA FORMULE QUI RÉSUME TOUTES LES PRATIQUES INTÉRIEURES?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 3,
+    "testo": "D'OÙ SAINT LOUIS-MARIE TIRE-T-IL CETTE FORMULE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 4,
+    "testo": "QUE SIGNIFIE TOUT FAIRE PAR MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 5,
+    "testo": "QUE SIGNIFIE TOUT FAIRE AVEC MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 6,
+    "testo": "QUE SIGNIFIE TOUT FAIRE EN MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 7,
+    "testo": "QUE SIGNIFIE TOUT FAIRE POUR MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 25,
+    "idDomanda": 8,
+    "testo": "LES PRATIQUES EXTÉRIEURES SONT-ELLES BONNES?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 1,
+    "testo": "POURQUOI MARIE EST-ELLE SI NÉCESSAIRE À NOTRE ÉPOQUE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 2,
+    "testo": "QUEL EST LE STYLE DU LIVRE DE LA GENÈSE DANS LE RÉCIT DU PÉCHÉ D'ADAM ET ÈVE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 3,
+    "testo": "QUEL PÉCHÉ LE SERPENT VEUT-IL FAIRE COMMETTRE À ADAM ET ÈVE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 4,
+    "testo": "QUE REPRÉSENTE LA POMME?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 5,
+    "testo": "QUE REPRÉSENTE L'ARBRE DE LA SAGESSE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 6,
+    "testo": "QUE SIGNIFIENT L'ARBRE ET LA POMME ENSEMBLE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 7,
+    "testo": "COMMENT DIEU RACHÈTE-T-IL ADAM ET ÈVE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 26,
+    "idDomanda": 8,
+    "testo": "À QUEL MOMENT JÉSUS FAIT-IL COMPRENDRE QU'ÈVE REPRÉSENTE MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 1,
+    "testo": "QUEL EST LE MYSTÈRE DU CHRIST QUE SAINT LOUIS VEUT REVIVRE À TRAVERS CETTE CONSÉCRATION?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 2,
+    "testo": "QUE CHERCHENT EN RÉALITÉ TOUTES LES HÉRÉSIES SELON SAINT LÉON LE GRAND?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 3,
+    "testo": "COMBIEN Y A-T-IL DE NATURES DU CHRIST?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 4,
+    "testo": "COMBIEN Y A-T-IL DE PERSONNES DU CHRIST?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 5,
+    "testo": "EXISTE-T-IL UNE PERSONNE HUMAINE DU CHRIST?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 6,
+    "testo": "LAQUELLE DE CES AFFIRMATIONS EST FAUSSE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 7,
+    "testo": "QUELLES SONT LES CONSÉQUENCES DE LA VRAIE CONNAISSANCE DE L'INCARNATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 27,
+    "idDomanda": 8,
+    "testo": "QUEL EST LE SENS DES CHOSES SACRÉES?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 1,
+    "testo": "POURQUOI JÉSUS INSTITUE-T-IL LES PRÊTRES?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 2,
+    "testo": "QUE FERA L'ANTÉCHRIST?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 3,
+    "testo": "QUI SUIVRONT L'ANTÉCHRIST?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 4,
+    "testo": "QUAND UNE VÉRITÉ DE L'ÉGLISE EST-ELLE INFAILLIBLE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 5,
+    "testo": "APRÈS LE CHRIST, OÙ LES ÉVÊQUES FONDENT-ILS LEUR AUTORITÉ?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 6,
+    "testo": "QU'EST-CE QUE LE SYMBOLE DES APÔTRES?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 7,
+    "testo": "LE CATÉCHISME DE L'ÉGLISE PROMULGUÉ PAR SAINT JEAN-PAUL II EST:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 28,
+    "idDomanda": 8,
+    "testo": "LE COMPENDIUM DU CATÉCHISME DE BENOÎT XVI A ÉTÉ PROMULGUÉ POUR:",
+    "soluzione": 1
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 1,
+    "testo": "QUELLE EST LA PLUS GRANDE ŒUVRE QUE NOUS PUISSIONS OFFRIR À DIEU?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 2,
+    "testo": "QUE SE PASSE-T-IL VRAIMENT DANS LA MESSE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 3,
+    "testo": "QUELLE VALEUR A UNE SEULE SAINTE MESSE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 4,
+    "testo": "COMMENT PEUT-ON PARTICIPER ACTIVEMENT À LA MESSE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 5,
+    "testo": "EN QUEL SENS DIT-ON QUE LA MESSE PEUT ÊTRE AUSSI ‘MIENNE’?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 6,
+    "testo": "COMMENT SAINT LOUIS-MARIE CONSEILLE-T-IL DE FAIRE LA COMMUNION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 7,
+    "testo": "QUE DOIS-JE FAIRE AVANT TOUT PENDANT LA COMMUNION SELON SAINT LOUIS-MARIE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 29,
+    "idDomanda": 8,
+    "testo": "QUE FAIRE APRÈS LA COMMUNION SELON SAINT LOUIS-MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 1,
+    "testo": "LA PASSION DE JÉSUS EST UTILE POUR:",
+    "soluzione": 1
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 2,
+    "testo": "POUR RECEVOIR L'AMOUR DU SEIGNEUR, LA PREMIÈRE CHOSE À FAIRE EST:",
+    "soluzione": 2
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 3,
+    "testo": "JÉSUS ÉTAIT-IL PLEINEMENT CONSCIENT DE SA PASSION DANS TOUS SES ASPECTS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 4,
+    "testo": "LE VOYAGE DE BÉTHANIE À JÉRUSALEM ÉTAIT VOULU PAR JÉSUS POUR:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 5,
+    "testo": "JÉSUS DÉSIRE MOURIR SUR LA CROIX POUR:",
+    "soluzione": 3
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 6,
+    "testo": "LE PREMIER DÉVOT DU SACRÉ-CŒUR DE JÉSUS FUT:",
+    "soluzione": 2
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 7,
+    "testo": "SAINTE MARGUERITE-MARIE ALACOQUE ÉTAIT RÉCONFORTÉE PARCE QUE JÉSUS LUI DISAIT:",
+    "soluzione": 1
+  },
+  {
+    "idTest": 30,
+    "idDomanda": 8,
+    "testo": "QU'EST-CE QUE L'INTRONISATION DU SACRÉ-CŒUR DANS UNE FAMILLE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 1,
+    "testo": "Y AURA-T-IL UN JOUR OÙ JÉSUS NE SERA PLUS PRÉSENT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 2,
+    "testo": "DE QUELLE MANIÈRE JÉSUS EST-IL PRÉSENT DANS LE CŒUR DES CROYANTS?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 3,
+    "testo": "AVANT SA PASSION, JÉSUS A-T-IL PROMIS AUX APÔTRES QU'IL REVIENDRAIT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 4,
+    "testo": "QUE SIGNIFIENT LES PAROLES: “UN PEU DE TEMPS ET VOUS NE ME VERREZ PLUS, ET ENCORE UN PEU DE TEMPS ET VOUS ME VERREZ”",
+    "soluzione": 2
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 5,
+    "testo": "PEUT-ON DIRE QUE JÉSUS EST AUJOURD'HUI PRÉSENT EN NOUS AUSSI AVEC SON CORPS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 6,
+    "testo": "QUEL MYSTÈRE DE LA VIE NOUS AIDE À COMPRENDRE LA MANIÈRE DONT IL EST AUJOURD'HUI PRÉSENT?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 7,
+    "testo": "COMMENT PERCEVOIR LA PRÉSENCE DU CHRIST EN NOUS?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 31,
+    "idDomanda": 8,
+    "testo": "COMMENT ÊTRE SÛR DE LA PRÉSENCE DU CHRIST EN MOI?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 1,
+    "testo": "QUEL PEUT ÊTRE LE TEMPS LE PLUS UTILE DE NOTRE VIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 2,
+    "testo": "QUE SIGNIFIE QUE JÉSUS SOIT LE CENTRE DE L'HISTOIRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 3,
+    "testo": "QUI EST LE SAINT DOCTEUR DE L'ÉGLISE QUE LE PAPE LÉON XIII A CHOISI COMME MAÎTRE DE LA THÉOLOGIE DE L'HISTOIRE?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 4,
+    "testo": "EN QUEL SENS ABEL EST-IL UNE FIGURE DE JÉSUS?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 5,
+    "testo": "EN QUEL SENS MOÏSE EST-IL UNE FIGURE DU CHRIST?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 6,
+    "testo": "QUE FAIT JÉSUS AUJOURD'HUI, TOUT EN CONTEMPLANT LE MAL QUI SE COMMET DANS LE MONDE?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 7,
+    "testo": "EST-IL JUSTE QUE JÉSUS SOIT UNE RÉFÉRENCE POUR LA POLITIQUE D'UNE NATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 32,
+    "idDomanda": 8,
+    "testo": "SI LE MAL AUGMENTE DANS LE MONDE, QUE DEVONS-NOUS COMPRENDRE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 1,
+    "testo": "FAUT-IL ÊTRE PARFAITEMENT PRÊT POUR FAIRE CETTE CONSÉCRATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 2,
+    "testo": "FAUT-IL CONNAÎTRE PARFAITEMENT TOUTE LA DOCTRINE DE SAINT LOUIS-MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 3,
+    "testo": "LEQUEL DE CES TROIS MOYENS EST LE MEILLEUR POUR SE PRÉPARER?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 4,
+    "testo": "UNE FOIS QUE JE SAIS EN QUOI ELLE CONSISTE, DOIS-JE ATTENDRE JUSQU'À CE QUE JE SOIS DIGNE DE LA CONSÉCRATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 5,
+    "testo": "FAUT-IL ÊTRE PARFAITEMENT PRÊT POUR FAIRE CETTE CONSÉCRATION?",
+    "soluzione": 1
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 6,
+    "testo": "FAUT-IL CONNAÎTRE PARFAITEMENT TOUTE LA DOCTRINE DE SAINT LOUIS-MARIE?",
+    "soluzione": 2
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 7,
+    "testo": "LEQUEL DE CES TROIS MOYENS EST LE MEILLEUR POUR SE PRÉPARER?",
+    "soluzione": 3
+  },
+  {
+    "idTest": 33,
+    "idDomanda": 8,
+    "testo": "UNE FOIS QUE JE SAIS EN QUOI ELLE CONSISTE, DOIS-JE ATTENDRE JUSQU'À CE QUE JE SOIS DIGNE DE LA CONSÉCRATION?",
+    "soluzione": 1
+  }
+]

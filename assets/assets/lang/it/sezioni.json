@@ -1,0 +1,25 @@
+[
+  {"id" : 1,
+		"titolo" : "Conoscere il mondo",		
+		"descrBreve" : "Dedicheranno 12 giorni a liberarsi dallo spirito del mondo, contrario allo spirito di Cristo. (TVD 227)",
+		"descr" : "Se il mondo vi odia, sapete bene che prima di voi ha odiato me. Se foste del mondo, il mondo amerebbe quello che è suo; poiché non siete del mondo, ma io ho scelto voi in mezzo al mondo, perciò il mondo vi odia (Gv 15,18-19)"
+	},
+	  {	"id" : 2,
+		"titolo" : "Conoscere se stessi",
+		"descrBreve" : "Dal fatto che non ci conosciamo è che soffriamo terribili tribolazioni. (Santa Teresa)",
+		"descr" : "La conoscenza di sé e dei propri peccati è il pane che in questo cammino dell’orazione si deve mangiare con tutti i cibi, anche con i più delicati, e senza di esso non ci si può sostenere. (Santa Teresa di Gesù - Vita, c. 13, 15)."
+	 
+	},
+	{	"id" : 3,
+		"titolo" : "Conoscere Maria SS",
+		"descrBreve" : "Maria è un mistero di grazia sconosciuto anche ai più dotti e spirituali fra i cristiani! (TVD 21)",
+		"descr" : "La vera devozione a Maria è interiore; parte, cioè, dalla mente e dal cuore; deriva dalla stima che si ha di lei, dall'alta idea che ci si forma delle sue grandezze e dall'amore che le si porta"
+	 
+	},
+	{	"id" : 4,
+		"titolo" : "Conoscere Gesù Cristo",
+		"descrBreve" : "Questa devozione è necessaria proprio per trovare perfettamente Gesù, amarlo e servirlo. (TVD 62)",
+		"descr" : "Tutto ormai io reputo una perdita di fronte alla sublimità della conoscenza di Cristo Gesù, mio Signore, per il quale ho lasciato perdere tutte queste cose e le considero come spazzatura, al fine di guadagnare Cristo (Fil 3,8)"
+	 
+	 } 
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "sezioneId": 1,
+        "id": 1,
+        "titolo": "Una consacrazione per anime generose",
+        "descrBreve": "Carissimo fratello, carissima sorella, chiunque tu sia sei invitato a questa preparazione per consacrarti a Maria in materna schiavitù d’amore, secondo l’insegnamento di San Luigi Maria Grignon di Montfort.",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/it/texts/catechesi1.md",
+        "videoId": "rut8TrqQ67Y",
+        "pdfId": "assets/lang/it/pdf/catechesi1.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 2,
+        "titolo": "Come è Dio?",
+        "descrBreve": "“L'uomo è creato per lodare, riverire, servire Dio e così salvare l’anima” (S. Ignazio di Loyola). Ma come è Dio? Cosa implica considerarlo come Padre? Come devo comportarmi nei suoi confronti?",
+        "imageId": "assets/images/mamma3.png",
+        "testoId": "assets/lang/it/texts/catechesi2.md",
+        "videoId": "7qn_8_wflWw",
+        "pdfId": "assets/pdf/catechesi2.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 3,
+        "titolo": "La Gloria di Dio senso della Vita",
+        "descrBreve": "'Nel glorificare il Signore esaltatelo quanto potete, perché ancora più alto sarà. Nell'innalzarlo moltiplicate la vostra forza, non stancatevi, perché mai finirete. Chi lo ha contemplato e lo descriverà? Chi può magnificarlo come egli è' (Sir 43,30)",
+        "imageId": "assets/images/magi.png",
+        "testoId": "assets/lang/it/texts/catechesi3.md",
+        "videoId": "ftTPOlaPHXY",
+        "pdfId": "assets/pdf/catechesi3.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 4,
+        "titolo": "Il senso del peccato",
+        "descrBreve": "Le occasioni importanti della vita esigono una seria preparazione. Dallo stesso modo come ti prepari per una festa nel vestire degnamente, ben lavati e profumati, dovrai realizzare la tua consacrazione alla Madonna con un abito interiore degno, pulito e profumato.",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/it/texts/catechesi4.md",
+        "videoId": "qch3iNBLDJ4",
+        "pdfId": "assets/pdf/catechesi4.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 5,
+        "titolo": "La salvezza eterna",
+        "descrBreve": "L’eternità è la vera Vita per la quale siamo stati creati. Il pensiero dell'eternità forma i grandi santi del nostro tempo.",
+        "imageId": "assets/images/discesainferi.png",
+        "testoId": "assets/lang/it/texts/catechesi5.md",
+        "videoId": "HTCx-lz5lN0",
+        "pdfId": "assets/pdf/catechesi5.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 6,
+        "titolo": "Lo spirito del mondo",
+        "descrBreve": "Dopo aver ricordato le verità essenziali della nostra Fede, tocca oggi considerare proprio quel “mondo” dal quale dobbiamo necessariamente liberarci se vogliamo arrivare a Gesù per mezzo di Maria.",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/it/texts/catechesi6.md",
+        "videoId": "BONXCfr6gLI",
+        "pdfId": "assets/pdf/catechesi6.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 7,
+        "titolo": "Lo spirito delle beatitudini",
+        "descrBreve": "Il Signore diede il segreto della vita felice nel sermone della montagna, in cui proclamò le “beatitudini”. Pronunciò così, il discorso più rivoluzionario di tutti i tempi",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/it/texts/catechesi7.md",
+        "videoId": "hWVccxWmlPg",
+        "pdfId": "assets/pdf/catechesi7.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 8,
+        "titolo": "Meditazione delle due bandiere",
+        "descrBreve": "La dottrina del Vangelo non solo è diversa ma diametralmente opposta a quella del mondo. Il contrasto non poteva essere più chiaro: “il mondo mi odia”; “sarete odiati anche voi” ma “abbiate fiducia: io ho vinto il mondo” (Cfr. Gv 15,18-19). In quale senso si parla di 'mondo' come contrario a Cristo?",
+        "imageId": "assets/images/duebandiere.png",
+        "testoId": "assets/lang/it/texts/catechesi8.md",
+        "videoId": "XsLQPA2n0DI",
+        "pdfId": "assets/pdf/catechesi8.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 9,
+        "titolo": "Saggezza evangelica e stoltezza mondana",
+        "descrBreve": "Le “regole per una buona scelta” di Sant'Ignazio, sono un vero aiuto affinché ogni nostra scelta sia fondata in Dio a maggiore gloria Sua e salvezza della propria anima",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/it/texts/catechesi9.md",
+        "videoId": "bE_RovEK-aM",
+        "pdfId": "assets/pdf/catechesi9.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 10,
+        "titolo": "La presenza di Dio nell'anima",
+        "descrBreve": "Le realtà soprannaturali, anche se non le conosciamo in modo sensibile, sono ciò che c’è di più reale nella nostra vita. La visione che Dio stesso ha della mia realtà, è più reale di ciò che io posso con i miei limiti vedere. Solo la Fede mi permette trovare Dio realmente presente in me.",
+        "imageId": "assets/images/annunc2.png",
+        "testoId": "assets/lang/it/texts/catechesi10.md",
+        "videoId": "FGpZzvVAIXc",
+        "pdfId": "assets/pdf/catechesi10.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 11,
+        "titolo": "La presenza di Dio nell'anima II",
+        "descrBreve": "Vivere dello Spirito significa anzitutto riconoscere la presenza di Dio nell’anima. Tale presenza è ciò che si chiama “Inabitazione Trinitaria”. Il nome è di per sé indicativo: è la Santissima Trinità veramente presente nella mia anima per la grazia.",
+        "imageId": "assets/images/annunc5.png",
+        "testoId": "assets/lang/it/texts/catechesi11.md",
+        "videoId": "8uY4SEpSYsI",
+        "pdfId": "assets/pdf/catechesi11.pdf"
+    },
+    {
+        "sezioneId": 1,
+        "id": 12,
+        "titolo": "La cultura della vita e la cultura della morte",
+        "descrBreve": "Siamo di fronte ad un “braccio di ferro planetario”. Questo “braccio di ferro” non è fisico ma spirituale, ideologico. Sono due a contendere: la trascendenza contro l’immanenza. La religione contro l'umanesimo ateo, la Madonna contro Satana.",
+        "imageId": "assets/images/nascita.png",
+        "testoId": "assets/lang/it/texts/catechesi12.md",
+        "videoId": "LIVGG9qR9O8",
+        "pdfId": "assets/pdf/catechesi12.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 13,
+        "titolo": "La conoscenza di se",
+        "descrBreve": "Siamo arrivati alla seconda tappa della nostra preparazione. Iniziano le “tre settimane” dove San Luigi Maria ci propone di conoscere tre persone: Me stesso, Maria Santissima e Gesù Cristo. Iniziamo con la conoscenza di noi stessi, dei nostri difetti, dei nostri limiti.",
+        "imageId": "assets/images/nolimetangere.png",
+        "testoId": "assets/lang/it/texts/catechesi13.md",
+        "videoId": "TcNWlTAq3SU",
+        "pdfId": "assets/pdf/catechesi13.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 14,
+        "titolo": "Il dogma del peccato originale",
+        "descrBreve": "E’ fondamentale per conoscere noi stessi, partire dal fatto del peccato originale e delle sue conseguenze in noi. Insegna il Catechismo della Chiesa: Tutti gli uomini sono coinvolti nel peccato di Adamo. San Paolo lo afferma: « Per la disobbedienza di uno solo, tutti sono stati costituiti peccatori » (Rm 5,19)",
+        "imageId": "assets/images/peccato.png",
+        "testoId": "assets/lang/it/texts/catechesi14.md",
+        "videoId": "N7ofQ-1cxxg",
+        "pdfId": "assets/pdf/catechesi14.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 15,
+        "titolo": "Il difetto dominante",
+        "descrBreve": "In ognuno di noi c'è un diffetto che è radice di tutti gli altri. S.Ignazio di Loyola insegna un metodo pratico per riconoscerlo e, una volta identificato, combatterlo per acquistare la virtù contraria ad esso.",
+        "imageId": "assets/images/lavanda.png",
+        "testoId": "assets/lang/it/texts/catechesi15.md",
+        "videoId": "o_1KMFo88ag",
+        "pdfId": "assets/pdf/catechesi15.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 16,
+        "titolo": "Il senso della sofferenza",
+        "descrBreve": "“Soffrire è l'atto essenzialmente umano” diceva Saint Exupery, ma ancora di più, “completo nella mia carne - dice l'apostolo Paolo spiegando il valore salvifico della sofferenza - quello che manca ai patimenti di Cristo, in favore del suo corpo che è la Chiesa”(Col. 1,24)",
+        "imageId": "assets/images/deposizionecroce.png",
+        "testoId": "assets/lang/it/texts/catechesi16.md",
+        "videoId": "LRf-8EpVmmQ",
+        "pdfId": "assets/pdf/catechesi16.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 17,
+        "titolo": "La necessità della preghiera",
+        "descrBreve": "“Chi prega è certamente salvato, chi non prega è certamente condannato”. Questa sola frase di San Alfonso Maria da Liguori è sufficiente per mostrare l’importanza capitale della preghiera.",
+        "imageId": "assets/images/annunc3.png",
+        "testoId": "assets/lang/it/texts/catechesi17.md",
+        "videoId": "ozjGvICk6r0",
+        "pdfId": "assets/pdf/catechesi17.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 18,
+        "titolo": "Rinnega te stesso e seguimi",
+        "descrBreve": "“Abbiamo di nostro soltanto il nulla e il peccato, ed altro non meritiamo che l'ira di Dio e l'inferno eterno. C'è dunque da stupirsi che Nostro Signore abbia detto che chi vuole seguirlo deve rinnegare se stesso e odiare la propria vita? Il Cristo, Sapienza infinita, non dà comandi senza ragione” (TDV 79-80)",
+        "imageId": "assets/images/deposizione.png",
+        "testoId": "assets/lang/it/texts/catechesi18.md",
+        "videoId": "N9shH6ri5Mg",
+        "pdfId": "assets/pdf/catechesi18.pdf"
+    },
+    {
+        "sezioneId": 2,
+        "id": 19,
+        "titolo": "Il Dono Di Se",
+        "descrBreve": "“Che forza racchiude questo dono... Non può mancare di attirare l'Onnipotente a essere una cosa sola con la nostra pochezza” (Santa Teresa)",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/it/texts/catechesi19.md",
+        "videoId": "B6A3rLJTFsU",
+        "pdfId": "assets/pdf/catechesi19.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 20,
+        "titolo": "Maria non è abbastanza conosciuta",
+        "descrBreve": "Siamo arrivati allo scopo più immediato, sebbene ancora non l’ultimo, della nostra consacrazione: tutto quanto abbiamo vissuto in queste prime due tappe ha come scopo conoscere Maria e ispirare in noi il desiderio di donarci completamente a Lei.",
+        "imageId": "assets/images/annunc1.png",
+        "testoId": "assets/lang/it/texts/catechesi20.md",
+        "videoId": "z5SsKlt5HI4",
+        "pdfId": "assets/pdf/catechesi20.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 21,
+        "titolo": "Maria e Gesù",
+        "descrBreve": "“Ogni volta che tu pensi a Maria, Maria pensa per te a Dio. Ogni volta che tu dai lode e onore a Maria, Maria con te loda e onora Dio. Maria è tutta relativa a Dio, e io la chiamerei benissimo la relazione di Dio, che non esiste se non in rapporto a Dio, o l'eco di Dio, che non dice e non ripete se non Dio",
+        "imageId": "assets/images/mammaegesuoro.png",
+        "testoId": "assets/lang/it/texts/catechesi21.md",
+        "videoId": "MkDysA7aDiA",
+        "pdfId": "assets/pdf/catechesi21.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 22,
+        "titolo": "E' brutta la parola 'schiavitù'?",
+        "descrBreve": "Ma dove mi conduce la penna? Perché mi soffermo a provare una cosa tanto evidente? Se non ci si vuol chiamare schiavi di Maria Vergine, che importa! Ci si faccia pure schiavi di Gesù Cristo! Tanto è costituirsi insieme schiavi della Vergine santa, perché Gesù è il frutto e la gloria di Maria [Trattato n. 77].",
+        "imageId": "assets/images/egitto.png",
+        "testoId": "assets/lang/it/texts/catechesi22.md",
+        "videoId": "E1-r9RfQBcE",
+        "pdfId": "assets/pdf/catechesi22.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 23,
+        "titolo": "Caratteristiche della vera e falsa devozione",
+        "descrBreve": "Facciamo attenzione: la falsa devozione “che porta alla perdizione”, qui viene indicata come quelle devozioni che, impegnando in maniera finta e disordinata, fanno che l’anima si addormenti nel peccato",
+        "imageId": "assets/images/mammaegesuombre.png",
+        "testoId": "assets/lang/it/texts/catechesi23.md",
+        "videoId": "f9bztaG0_Oc",
+        "pdfId": "assets/pdf/catechesi23.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 24,
+        "titolo": "Davvero mi conviene consacrarmi?",
+        "descrBreve": "Diciamo dunque arditamente con san Bernardo che abbiamo bisogno di un mediatore presso il Mediatore stesso, e che la divina Maria è la più capace di svolgere tale caritatevole compito. Per mezzo di lei Gesù Cristo è venuto a noi, ancora per mezzo di lei noi dobbiamo andare a Lui.",
+        "imageId": "assets/images/mamma.png",
+        "testoId": "assets/lang/it/texts/catechesi24.md",
+        "videoId": "8hrMivZcgkg",
+        "pdfId": "assets/pdf/catechesi24.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 25,
+        "titolo": "Marianizzare la vita",
+        "descrBreve": "A questa Consacrazione, come punto di partenza e fondamento pratico della vita mariana, San Luigi Maria di Montfort lega le «pratiche interiori» della perfetta devozione mariana, pratiche che presuppongono realmente la «marianizzazione» di tutti gli aspetti della vita cristiana, e anche l’inserimento di Maria in tutte le nostre relazioni con Dio, nelle quali esercita la sua Mediazione.",
+        "imageId": "assets/images/assunta.png",
+        "testoId": "assets/lang/it/texts/catechesi25.md",
+        "videoId": "P9Ejii9k46o",
+        "pdfId": "assets/pdf/catechesi25.pdf"
+    },
+    {
+        "sezioneId": 3,
+        "id": 26,
+        "titolo": "La presenza di Maria nella storia",
+        "descrBreve": "“Dio ha fatto e preparato una sola ma inconciliabile inimicizia, che durerà ed anzi crescerà sino alla fine: l'inimicizia tra Maria, sua degna Madre, e il diavolo, tra i figli e servi della Vergine santa e i figli e seguaci di Lucifero” (TVD 52) ",
+        "imageId": "assets/images/incoronazione.png",
+        "testoId": "assets/lang/it/texts/catechesi26.md",
+        "videoId": "pEDdxF_OaEU",
+        "pdfId": "assets/pdf/catechesi26.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 27,
+        "titolo": "L'Incarnazione del Verbo",
+        "descrBreve": "“Il mistero principale che si celebra e si onora con questa devozione è quello dell'Incarnazione” (TVD 246)",
+        "imageId": "assets/images/annunc4.png",
+        "testoId": "assets/lang/it/texts/catechesi27.md",
+        "videoId": "9jlD8kz0vHg",
+        "pdfId": "assets/pdf/catechesi27.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 28,
+        "titolo": "Gesù nostro Maestro",
+        "descrBreve": "Cristo redime gli uomini esercitando un triplice ufficio o funzione: di Maestro-Profeta, di Pastore-Re, di Sacerdote-Vittima. E’ Lui la via e la verità e la vita (Gv 14, 6)",
+        "imageId": "assets/images/montagna.png",
+        "testoId": "assets/lang/it/texts/catechesi28.md",
+        "videoId": "GM3rV5FPmo8",
+        "pdfId": "assets/pdf/catechesi28.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 29,
+        "titolo": "La Sua presenza Eucaristica",
+        "descrBreve": "Il sacrificio delle vite di tutti santi, di tutti gli angeli, e della stessa divina Madre, certamente non darebbe a Dio l'onore che gli dà una sola messa, perché questa solamente rende a Dio un onore infinito.",
+        "imageId": "assets/images/cena.png",
+        "testoId": "assets/lang/it/texts/catechesi29.md",
+        "videoId": "v2qRXxs1Tuw",
+        "pdfId": "assets/pdf/catechesi29.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 30,
+        "titolo": "La Sua Passione e devozione al Sacro Cuore",
+        "descrBreve": "In questo sta l'amore: non siamo stati noi ad amare Dio, ma è lui che ha amato noi e ha mandato il suo Figlio come vittima di espiazione per i nostri peccati.(1 Gv 1,10)",
+        "imageId": "assets/images/deposizionefocus.png",
+        "testoId": "assets/lang/it/texts/catechesi30.md",
+        "videoId": "JgdMzak692E",
+        "pdfId": "assets/pdf/catechesi30.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 31,
+        "titolo": "La presenza spirituale di Cristo",
+        "descrBreve": "Per noi Cristo si identifica misteriosamente con ogni uomo e ogni uomo e tutti gli uomini solo possono comprendersi in Cristo Gesù, sapendo che “fu necessario al genere umano che Dio si facesse uomo per dimostrare al genere umano la dignità della natura umana”(Dir. Terzo Ordine IVE, 42).",
+        "imageId": "assets/images/mammaegesu.png",
+        "testoId": "assets/lang/it/texts/catechesi31.md",
+        "videoId": "SMD2KFNPjTE",
+        "pdfId": "assets/pdf/catechesi31.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 32,
+        "titolo": "Gesù Cristo Alfa e Omega",
+        "descrBreve": "Tutto ormai io reputo una perdita di fronte alla sublimità della conoscenza di Cristo Gesù, mio Signore, per il quale ho lasciato perdere tutte queste cose e le considero come spazzatura, al fine di guadagnare Cristo (Fil 3,8).",
+        "imageId": "assets/images/gesu.png",
+        "testoId": "assets/lang/it/texts/catechesi32.md",
+        "videoId": "hd2ao8Xr5a4",
+        "pdfId": "assets/pdf/catechesi32.pdf"
+    },
+    {
+        "sezioneId": 4,
+        "id": 33,
+        "titolo": "Conclusione, consigli pratici",
+        "descrBreve": "Alcuni consigli puntuali prima di realizzare la consacrazione o di rinnovarla",
+        "imageId": "assets/images/sluigi.png",
+        "testoId": "assets/lang/it/texts/catechesi33.md",
+        "videoId": "o51oT-HtI3s",
+        "pdfId": "assets/pdf/catechesi33.pdf"
+    }
+]
