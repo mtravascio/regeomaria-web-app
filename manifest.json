@@ -1,11 +1,11 @@
 {
-    "name": "rege_o_maria",
-    "short_name": "rege_o_maria",
+    "name": "Rege o Maria",
+    "short_name": "Rege o Maria",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Rege o Maria Web App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
