@@ -23,10 +23,10 @@ _Seigneur, aie pitié de nous_
 **Esprit de grâce et de prière**, ayez pitié de nous
 **Esprit de paix et de douceur**, ayez pitié de nous
 **Esprit de modestie et d'innocence**, ayez pitié de nous
-**Couleur spirituel***, ayez pitié de nous
+**Couleur spirituel**, ayez pitié de nous
 **Sanctifiant spirituel**, ayez pitié de nous
 **Esprit qui gouverne l'Église**, ayez pitié de nous
-**Dono di Dio altissimo***, ayez pitié de nous
+**Dono di Dio altissimo**, ayez pitié de nous
 **Esprit remplissant l'univers**, ayez pitié de nous
 **Esprit de l'adoption des enfants de Dieu**, ayez pitié de nous
 
